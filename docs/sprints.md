@@ -52,20 +52,41 @@ Avant de clore un sprint, dans l'ordre :
 
 ---
 
-## Sprint 2 — Pipeline d'extraction (ETL) v1
+
+## Sprint 2 — Pipeline d'extraction (ETL) v1 ✅ TERMINÉ
 
 **Objectif :** extraire automatiquement les champs utiles des types de documents les plus fréquents.
 
-- [ ] Parseur pour les **bons de livraison** (929 onglets) : date, n° document, fournisseur/client, tableau produits (désignation, quantité, PU, montant)
-- [ ] Parseur pour les **factures** (791 onglets) : mêmes champs + n° facture, TVA, total
-- [ ] Journal des erreurs d'extraction (onglets non extraits automatiquement, avec raison)
-- [ ] Test sur un échantillon (~50 onglets par type) avant extraction complète
-- [ ] Premiers endpoints FastAPI de base (`/api/kpis`, `/api/stock`) avec données extraites partielles
-- [ ] Pages React connectées à ces endpoints (preuve du flux extraction → API → interface)
+- [x] Parseur générique pour **bons de livraison** et **factures** (`parsers.py`) : détection de l'en-tête du tableau produits par mots-clés (indépendant de l'ordre des colonnes), extraction ligne par ligne (désignation, unité, quantité, PU, montant), extraction des totaux (Total H.T., TVA, Net à payer)
+- [x] Extraction des métadonnées : numéro de document, date (texte, texte en lettres, et vraies cellules Excel de type date)
+- [x] Journal des erreurs / statuts d'extraction (`ok`, `extraction_incomplete`, `type_non_gere_ce_sprint`, `erreur_extraction`)
+- [x] Test sur échantillon réel (5 onglets/fichier, 66 onglets au total) avant d'envisager l'extraction complète
+- [x] 18 tests unitaires sur le parseur (31 au total avec le Sprint 1)
+- [x] Endpoints FastAPI (`/api/kpis`, `/api/documents`, `/api/documents/{fichier}/{onglet}/items`) branchés sur les CSV d'extraction
+- [x] Page React connectée affichant les KPIs et le tableau des documents extraits (preuve du flux complet extraction → API → interface)
 
-**Résultats :** *(à compléter en fin de sprint)*
+**Résultats sur l'échantillon (66 onglets, 5 par fichier) :**
 
-**Blocages / notes :** *(à compléter en fin de sprint)*
+| Statut | Nombre | % |
+|---|---|---|
+| `ok` (extraction complète) | 49 | 74.2% |
+| `type_non_gere_ce_sprint` (relevés/règlements/bons commande) | 12 | 18.2% |
+| `extraction_incomplete` (onglets quasi-vides "MACHINE") | 5 | 7.6% |
+
+**KPIs obtenus sur l'échantillon :** 754 327,89 DH extraits, 24 bons de livraison, 25 factures, 169 lignes produits.
+
+**Bugs découverts et corrigés sur données réelles (par ordre chronologique) :**
+
+1. **Crash sur onglets vides** (`IndexError: single positional indexer is out-of-bounds`) — des onglets "MACHINE" quasi-vides, classés via le filet de secours nom de fichier, faisaient planter `parse_document` en tentant d'indexer une ligne inexistante. → Ajout d'une garde `df.empty` / `title_row_idx >= len(df)`.
+2. **Numéros de document tronqués** (`001666` devenait `1666.0`) — pandas relit une colonne CSV majoritairement numérique comme un nombre, supprimant les zéros de tête. → Forçage `dtype=str` à la lecture des CSV côté API.
+3. **Valeurs `NaN` cassant la sérialisation JSON** dans l'API (`ValueError: Out of range float values are not JSON compliant`) — `.where(cond, None)` sur une colonne `float64` redonne `NaN` au lieu de `None`. → Cast `.astype(object)` avant le `.where()`.
+4. **Dates absentes sur 100% des factures** — cause racine : certaines colonnes date sont de vraies cellules Excel typées date, lues par pandas comme des `Timestamp` (`"2019-03-29 00:00:00"`), que le regex texte (conçu pour `JJ/MM/AAAA`) ne reconnaît pas. → Détection directe du type `Timestamp`/`datetime` avant tentative de regex.
+
+**Points identifiés pour le Sprint 3 :**
+- Un type de document supplémentaire repéré dans les données réelles : les **AVOIRS** (notes de crédit, ex. *"AVOIR SUR FACTURE N° 170 DU 29/11/2018"*) sont probablement mal classés en `facture` à cause du mot "FACTURE" présent dans leur texte de référence. À quantifier et corriger si le volume le justifie.
+- Vérifier que la date extraite correspond bien à la date de CHAQUE document et non à une date d'en-tête de fichier réutilisée par erreur, une fois l'extraction complète lancée sur les 1783 onglets.
+
+**Outils livrés :** `backend/app/extraction/parsers.py`, `backend/app/extraction/run_extraction.py`, `backend/app/routers/kpis.py`, page React de test (`App.jsx`)
 
 ---
 

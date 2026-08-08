@@ -90,32 +90,82 @@ Avant de clore un sprint, dans l'ordre :
 
 ---
 
-## Sprint 3 — Robustification ETL & base de données
+## Sprint 3 — Robustification ETL & base de données ✅ TERMINÉ
 
-**Objectif :** étendre l'extraction aux cas restants et structurer les données en base.
+**Objectif :** étendre l'extraction à tous les types de documents et structurer l'ensemble des données réelles en base.
 
-- [ ] Parseur pour les **relevés de factures impayées** (58 onglets)
-- [ ] Parseur dédié pour le **fichier règlements** (1 onglet, format grille)
-- [ ] Extension du parseur aux **bons de commande** (4 onglets)
-- [ ] Extraction complète lancée sur les 1783 onglets — rapport de couverture final
-- [ ] Création du schéma en étoile dans SQLite (`schema.py`)
-- [ ] Chargement des données extraites dans la base
-- [ ] Endpoints FastAPI complets (ventes, stocks/production si disponible, impayés)
-- [ ] Pages React du dashboard principal connectées aux vraies données
+- [x] Parseur des **relevés de factures impayées** (`parser_releve.py`)
+- [x] Parseur du **fichier règlements** (`parser_reglement.py`) : scan générique de paires (référence, description de paiement) sur une grille sans titre
+- [x] Investigation "AVOIR" : 3 onglets sur 1783 (0,17%) — impact négligeable, non traité à part
+- [x] **Extraction complète sur les 1783 onglets** (~12s d'exécution)
+- [x] Schéma de base en **constellation** (`schema.py`) : 4 dimensions + 5 tables de faits à grains différents (ventes, relevés, règlements), avec versionnement (`DROP TABLE` avant recréation, pour rester synchronisé pendant que le schéma évolue)
+- [x] Chargement (`load_to_db.py`) rendu **idempotent** (`reset_tables()`)
+- [x] **Enrichissement post-extraction** (`enrichissement.py`) : calculs déductibles et croisements entre tables, toujours tracés (colonnes `*_calculee`/`*_recuperee`)
+- [x] Vérification manuelle exhaustive des `extraction_incomplete` et des dimensions (`dim_client`, `dim_produit`)
+- [x] **65 tests unitaires** au total
 
-**Résultats :** *(à compléter en fin de sprint)*
+**Résultats finaux de l'extraction (1783 onglets) :**
 
-**Blocages / notes :** *(à compléter en fin de sprint)*
+| Statut | Nombre | % |
+|---|---|---|
+| `ok` | 1727 | 96,9% |
+| `extraction_incomplete` | 52 | 2,9% |
+| `type_non_gere_ce_sprint` (bon_commande) | 4 | 0,2% |
+
+**Contenu final de la base (après enrichissement) :**
+
+| Table | Lignes |
+|---|---|
+| `fait_documents_vente` | 1720 |
+| `fait_lignes_vente` | 5333 |
+| `fait_releves` | 58 |
+| `fait_factures_impayees` | 349 |
+| `fait_reglements` | 62 |
+| `dim_produit` | 2653 |
+| `dim_client` | 35 (nettoyé) |
+| `dim_date` | 644 |
+
+**Impact de l'enrichissement :**
+- `tva` : 44,4% → 2,9% de NULL (714 valeurs déduites du Total H.T. à 20%)
+- `net_a_payer` : 44,6% → 2,9% de NULL (717 valeurs déduites)
+- `date_facture_id` (relevés) : 1,4% → 0,6% (croisement avec `fait_documents_vente`)
+- `total_a_payer` (relevés) : 17,2% → 6,9% (recalculé depuis les factures listées)
+
+**Bugs découverts et corrigés sur données réelles (12 au total, par ordre chronologique) :**
+
+1. Crash sur onglets vides (`title_row_idx` hors limites)
+2. Numéros de document tronqués (`001666` → `1666.0`) — `dtype=str` forcé
+3. `NaN` cassant la sérialisation JSON — cast `.astype(object)`
+4. Dates absentes sur 100% des factures — cellules Excel de vrai type date (`Timestamp`), pas du texte
+5. `parse_number` recollait des chiffres épars d'un texte de statut (`120321.0` au lieu de `None`)
+6. Format milliers avec point (`"15.000,00"`) mal géré
+7. Colonne "montant cumulé" en réalité une référence de paiement en texte libre
+8. Ligne avec numéro sans date exclue à tort
+9. Chargement non idempotent (doublons si le `.db` verrouillé par DB Browser n'était pas supprimé)
+10. Quantité tapée dans la colonne "Code" au lieu de "Quantité" sur 6 documents réels
+11. **`dim_client` pollué par des lignes de date d'en-tête** — 2 sous-cas : (a) l'heuristique supposait à tort que la ligne 0 est toujours la ligne de date, (b) certaines dates d'en-tête malformées (jour manquant, séparateurs collés) échappaient à la détection de date valide → détection par la **forme** ("Ville Le" + chiffre) ajoutée en complément
+12. **`dim_produit.unite` NULL en masse pour tout produit apparu uniquement dans une facture** — les factures n'ont jamais de colonne "Unité" étiquetée dans leur en-tête (contrairement aux bons de livraison) → filet de secours : l'unité est déduite de la colonne juste après "Quantité"
+
+**Limitations assumées et documentées :**
+- Documents "AVOIR" (3/1783) restent classés `facture`, montants correctement signés
+- Données réellement incomplètes dans certains fichiers sources (cellules jamais remplies, `#REF!` cassé) — non récupérables
+- Bons de commande autonomes (4/1783) non traités séparément
+
+**Outils livrés :** `backend/app/extraction/parser_releve.py`, `parser_reglement.py`, `backend/app/database/schema.py`, `load_to_db.py`, `enrichissement.py`, base `data/processed/as_plastique.db`
 
 ---
 
-## Sprint 4 — Modélisation : prévision & scoring impayés
+---
 
-**Objectif :** produire les modèles analytiques sur données réelles.
+## Sprint 4 — API finale, dashboard & modélisation
 
-- [ ] Prévision de la demande (baseline SARIMA/Prophet vs XGBoost vs LSTM)
-- [ ] Comparaison des modèles (métriques MAE / RMSE / MAPE documentées)
-- [ ] Module de scoring de risque de paiement / retards clients (à partir des relevés d'impayés)
+**Objectif :** connecter le dashboard aux vraies données de la base, puis produire les modèles de prévision et de scoring.
+
+- [ ] Endpoints FastAPI complets branchés sur `as_plastique.db` (ventes, impayés) — remplace les endpoints Sprint 2 qui lisaient les CSV d'échantillon
+- [ ] Pages React du dashboard principal connectées à ces nouveaux endpoints
+- [ ] Prévision de la demande (baseline SARIMA/Prophet vs XGBoost)
+- [ ] Comparaison des modèles (MAE / RMSE / MAPE)
+- [ ] Scoring de risque de paiement / retards clients
 - [ ] Endpoint `/api/forecast` et `/api/risk-score`
 - [ ] Page React "Prévisions" connectée
 

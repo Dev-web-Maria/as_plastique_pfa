@@ -9,7 +9,7 @@ Utilisé par run_extraction.py.
 import re
 import unicodedata
 import pandas as pd
-import datetime
+
 
 def strip_accents(text: str) -> str:
     return "".join(
@@ -40,8 +40,6 @@ HEADER_KEYWORDS = {
 
 
 def find_header_row(df: pd.DataFrame, search_from: int = 0, search_limit: int = 30):
-    """Cherche la ligne d'en-tête du tableau produits (contient au moins
-    DESIGNATION + QUANTITE) et retourne (index_ligne, mapping colonne->index)."""
     end = min(search_from + search_limit, len(df))
     for row_idx in range(search_from, end):
         row = df.iloc[row_idx]
@@ -52,10 +50,14 @@ def find_header_row(df: pd.DataFrame, search_from: int = 0, search_limit: int = 
                 continue
             for field, keywords in HEADER_KEYWORDS.items():
                 if field in column_map:
-                    continue  # déjà trouvé cette colonne sur cette ligne
+                    continue
                 if any(kw.replace(" ", "") in cell_norm for kw in keywords):
                     column_map[field] = col_idx
         if "designation" in column_map and "quantite" in column_map:
+            if "unite" not in column_map:
+                colonne_candidate = column_map["quantite"] + 1
+                if colonne_candidate < len(row) and colonne_candidate not in column_map.values():
+                    column_map["unite"] = colonne_candidate
             return row_idx, column_map
     return None, None
 
@@ -65,13 +67,34 @@ def find_header_row(df: pd.DataFrame, search_from: int = 0, search_limit: int = 
 # ---------------------------------------------------------------------------
 
 def parse_number(value) -> float | None:
-    """Convertit '1 032,80' ou '17144,48' en float. Retourne None si impossible."""
+    """Convertit un nombre écrit en texte en float. Gère plusieurs formats
+    réels rencontrés dans les fichiers :
+    - '1032,80' (virgule décimale simple)
+    - '15.000,00' (point = séparateur de milliers, virgule = décimales)
+    - '1032.80' (point décimal déjà standard)
+    Rejette explicitement tout texte contenant des lettres (ex : statut
+    'réglé vir le 12/03/21') — sinon les chiffres épars du texte se
+    recollaient en un faux nombre (12, 03, 21 -> 120321)."""
     if pd.isna(value):
         return None
     if isinstance(value, (int, float)):
         return float(value)
-    text = str(value).strip().replace(" ", "").replace("\xa0", "")
-    text = text.replace(",", ".")
+    text = str(value).strip()
+    if text == "":
+        return None
+    if re.search(r"[A-Za-zÀ-ÿ]", text):
+        return None
+    text = text.replace(" ", "").replace("\xa0", "")
+
+    if "," in text and "." in text:
+        # Les deux sont présents : le point est un séparateur de milliers,
+        # la virgule est la décimale (ex: '15.000,00' -> '15000.00')
+        text = text.replace(".", "").replace(",", ".")
+    elif "," in text:
+        # Seule la virgule est présente : c'est la décimale
+        text = text.replace(",", ".")
+    # Si seul un point est présent, on le laisse tel quel (déjà au bon format)
+
     # Garde uniquement chiffres, point et signe moins
     text = re.sub(r"[^0-9.\-]", "", text)
     if text in ("", "-", "."):
@@ -107,6 +130,14 @@ def extract_line_items(df: pd.DataFrame, header_row_idx: int, column_map: dict):
         quantite_val = row.iloc[column_map["quantite"]] if column_map.get("quantite") is not None else None
         designation_val = row.iloc[column_map["designation"]] if column_map.get("designation") is not None else None
         quantite_num = parse_number(quantite_val)
+
+        if quantite_num is None and column_map.get("code") is not None:
+            # Cas réel découvert : sur certains bons, la quantité a été tapée
+            # par erreur dans la colonne "Code" au lieu de "Quantité" (le poids
+            # existe, juste mal placé) — on tente ce filet de secours avant
+            # de considérer la ligne comme vide.
+            code_val = row.iloc[column_map["code"]]
+            quantite_num = parse_number(code_val)
 
         if quantite_num is not None and quantite_num > 0:
             # Nouvelle ligne produit — on sauvegarde la précédente si elle existe

@@ -36,6 +36,15 @@ def test_parse_number_avec_espaces_milliers():
     assert parse_number("1 032,80") == 1032.80
 
 
+def test_parse_number_point_milliers_et_virgule_decimale():
+    """Bug réel découvert sur les relevés d'impayés : '15.000,00' (point =
+    séparateur de milliers, virgule = décimale) donnait auparavant None,
+    car remplacer juste la virgule par un point donnait '15.000.00'
+    (deux points), invalide pour float()."""
+    assert parse_number("15.000,00") == 15000.00
+    assert parse_number("384.625,92") == 384625.92
+
+
 def test_parse_number_valeur_invalide_retourne_none():
     assert parse_number("Sachet en LDPE") is None
     assert parse_number(None) is None
@@ -231,3 +240,57 @@ def test_date_vraie_cellule_excel_timestamp():
     détecter le type Timestamp directement."""
     df = pd.DataFrame([[pd.Timestamp("2019-03-29"), None, None]])
     assert extract_date(df) == "29/03/2019"
+
+
+def test_quantite_recuperee_depuis_colonne_code():
+    """Cas réel découvert sur les vrais bons de livraison (2019/2020/2021) :
+    la quantité a été tapée par erreur dans la colonne 'Code' au lieu de
+    'Quantité'. La donnée existe, juste mal placée — on la récupère plutôt
+    que de compter la ligne comme vide. PU/Montant restent None (le document
+    source n'a jamais eu ces cases remplies — livraison faite, pas encore
+    tarifée)."""
+    df = pd.DataFrame([
+        ["Code", "Désignation", None, None, "Unité", "Quantité", "PU", "Montant"],
+        ["284,8", "Sachet en LDPE 84/140", None, None, "KG", None, None, None],
+    ])
+    result = parse_document(df, title_row_idx=0, title_keyword="BON DE LIVRAISON")
+    assert result["n_items"] == 1
+    assert result["items"][0]["quantite"] == 284.8
+    assert result["items"][0]["pu"] is None
+
+
+def test_ligne_vraiment_vide_ne_beneficie_pas_du_filet_de_secours():
+    """Cas réel (onglet 105) : ni la colonne Quantité NI la colonne Code ne
+    contiennent de valeur — la ligne doit rester exclue, pas de faux positif."""
+    df = pd.DataFrame([
+        ["Code", "Désignation", None, None, "Unité", "Quantité", "PU", "Montant"],
+        [None, "Sachet en LDPE 18/40", None, None, "KG", None, None, "0,00"],
+    ])
+    result = parse_document(df, title_row_idx=0, title_keyword="BON DE LIVRAISON")
+    assert result["n_items"] == 0
+
+def test_unite_deduite_apres_quantite_pour_facture():
+    """Bug réel découvert (dim_produit avec unité NULL en masse) : les
+    factures n'ont jamais de colonne 'Unité' étiquetée dans leur en-tête
+    (contrairement aux bons de livraison), mais l'unité (ex: 'Kg') est
+    systématiquement présente dans la colonne juste après 'Quantité'."""
+    df = pd.DataFrame([
+        ["Quantité", None, "D E S I G N A T I O N", None, None, "PU/H.T.", "TOTAL"],
+        ["286,50", "Kg", "Sachet en LDPE 110/120x20cm", None, None, "17,75", "5085,38"],
+    ])
+    row_idx, column_map = find_header_row(df)
+    assert column_map["unite"] == 1  # juste après quantite (col 0)
+
+    result = parse_document(df, title_row_idx=0, title_keyword="FACTURE")
+    assert result["items"][0]["unite"] == "Kg"
+
+
+def test_unite_explicite_prioritaire_sur_le_filet_de_secours():
+    """Quand une colonne 'Unité' est explicitement étiquetée (bons de
+    livraison), elle doit être utilisée telle quelle — le filet de secours
+    ne doit jamais l'écraser."""
+    df = pd.DataFrame([
+        ["Code", "Désignation", None, "Unité", "Quantité", "PU", "Montant"],
+    ])
+    row_idx, column_map = find_header_row(df)
+    assert column_map["unite"] == 3  # la vraie colonne Unité, pas quantite+1

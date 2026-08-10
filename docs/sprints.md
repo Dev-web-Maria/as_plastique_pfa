@@ -157,21 +157,51 @@ Avant de clore un sprint, dans l'ordre :
 
 ---
 
-## Sprint 4 — API finale, dashboard & modélisation
+## Sprint 4 — API finale, dashboard & modélisation ✅ TERMINÉ
 
 **Objectif :** connecter le dashboard aux vraies données de la base, puis produire les modèles de prévision et de scoring.
 
-- [ ] Endpoints FastAPI complets branchés sur `as_plastique.db` (ventes, impayés) — remplace les endpoints Sprint 2 qui lisaient les CSV d'échantillon
-- [ ] Pages React du dashboard principal connectées à ces nouveaux endpoints
-- [ ] Prévision de la demande (baseline SARIMA/Prophet vs XGBoost)
-- [ ] Comparaison des modèles (MAE / RMSE / MAPE)
-- [ ] Scoring de risque de paiement / retards clients
-- [ ] Endpoint `/api/forecast` et `/api/risk-score`
-- [ ] Page React "Prévisions" connectée
+- [x] Endpoints FastAPI complets branchés sur `as_plastique.db` (`dashboard.py`, remplace le routeur CSV du Sprint 2) : `/api/kpis`, `/api/ventes-mensuelles`, `/api/prevision`, `/api/clients-risque`, `/api/documents`
+- [x] Page React du dashboard connectée : KPIs, graphique ventes réelles + prévision (Recharts), tableau top clients à risque
+- [x] Exploration des ventes réelles avant modélisation (`explore_ventes.py`) : couverture temporelle, top produits, qualité des données
+- [x] **Bug critique découvert et corrigé** : années à 2 chiffres (`07/01/19`) mal interprétées lors du chargement, fragmentant la série mensuelle en doublons (`2018-02` vs `18-02`) — extension à 4 chiffres + validation de plausibilité (jour/mois/année) ajoutées dans `load_to_db.py`
+- [x] Préparation de la série mensuelle (`build_serie_mensuelle.py`) : exclusion documentée de l'anomalie isolée 2011, du début 2017 (trop fragmenté), du dernier mois tronqué
+- [x] Prévision de la demande : comparaison rigoureuse de 6 configurations (SARIMA échelle réelle/log, XGBoost avec/sans `lag_12`, avec/sans transformation log)
+- [x] **Validation croisée walk-forward** (4 plis, horizon 3 mois) — a inversé le classement obtenu sur un split unique, confirmant la nécessité de cette étape
+- [x] Génération de la prévision finale (`predire_futur.py`) : modèle réentraîné sur toute la série, prévision itérative des 6 prochains mois
+- [x] Scoring de risque impayés (`scoring_impayes.py`) : score pondéré explicable par client (montant dû, récurrence, ancienneté, taux de factures sans référence de règlement) — pas de modèle supervisé, faute d'étiquette fiable "défaut/non défaut" dans les données
 
-**Résultats :** *(à compléter en fin de sprint)*
+**Résultat retenu pour la prévision (validation croisée, le plus fiable) :**
 
-**Blocages / notes :** *(à compléter en fin de sprint)*
+| Modèle | MAPE moyen (4 plis) |
+|---|---|
+| XGBoost (sans lag_12, log) — retenu | 19,9% |
+| XGBoost (sans lag_12, sans log) | 20,6% |
+| SARIMA (échelle réelle) | 28,4% |
+| SARIMA (log) | 31,7% |
+| XGBoost (avec lag_12, log) | 26,5% |
+| XGBoost (avec lag_12, sans log) | 32,6% |
+
+**Enseignement méthodologique clé :** sur un split unique (6 derniers mois), SARIMA semblait gagner (22,0% vs 22,3%) ; la validation croisée a révélé que ce résultat tenait à une fenêtre de test favorable par hasard — XGBoost est en réalité le modèle le plus robuste en moyenne. De même, `lag_12` et la transformation log, qui amélioraient les résultats sur données synthétiques de test, ont dégradé la performance sur les vraies données (coût en volume d'entraînement pour `lag_12` ; sous-estimation des pics erratiques pour le log) — illustration concrète de l'importance de la validation empirique plutôt que l'application de techniques par défaut.
+
+**Résultat du scoring impayés :**
+
+| Niveau de risque | Nombre de clients |
+|---|---|
+| Élevé | 11 |
+| Moyen | 11 |
+| Faible | 12 |
+
+Client le plus à risque : CHINA YANG TSE PLASTIQUE (1,66 M DH dus, ancienneté moyenne 332 jours).
+
+**KPIs globaux de la base :** 26 259 263,91 DH de ventes totales, 1673 documents extraits, 35 clients, 1 283 592 420,53 DH d'impayés totaux recensés.
+
+**Limitations assumées et documentées :**
+- Le scoring impayés est un score pondéré transparent, pas un modèle supervisé — choix méthodologique justifié par l'absence d'étiquette fiable dans les données sources
+- Le MAPE de 19,9% reste élevé par rapport à l'objectif initial (équivalent 90% de "précision") — expliqué par le volume de données limité (~45 mois) et la forte volatilité intrinsèque des ventes réelles (facteur x6 entre le mois le plus faible et le plus fort)
+- Matériel (CPU/GPU) sans impact sur les résultats — SARIMA et XGBoost tournent sur des volumes trop faibles pour qu'une accélération GPU ait un intérêt
+
+**Outils livrés :** `backend/app/models/explore_ventes.py`, `build_serie_mensuelle.py`, `train_forecast.py`, `predire_futur.py`, `scoring_impayes.py`, `backend/app/routers/dashboard.py`, `frontend/src/App.jsx` (dashboard complet)
 
 ---
 

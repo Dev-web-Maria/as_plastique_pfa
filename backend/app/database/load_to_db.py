@@ -61,9 +61,20 @@ def get_or_create_date(conn, caches, date_str):
         return caches.date[date_str]
     try:
         jour, mois, annee = (int(x) for x in date_str.split("/"))
-        trimestre = (mois - 1) // 3 + 1
     except (ValueError, AttributeError):
         return None  # date malformée — on n'invente pas de valeur
+
+    if annee < 100:
+        # Année écrite sur 2 chiffres (ex: '07/01/19') — toutes les dates de
+        # ce corpus sont dans les années 2000-2020, donc extension sûre.
+        annee += 2000
+
+    # Rejette les dates clairement invalides (ex: jour=0, mois=13...) plutôt
+    # que de les enregistrer et fausser silencieusement les agrégations.
+    if not (1 <= jour <= 31 and 1 <= mois <= 12 and 2000 <= annee <= 2030):
+        return None
+
+    trimestre = (mois - 1) // 3 + 1
 
     conn.execute(
         "INSERT OR IGNORE INTO dim_date (date, jour, mois, annee, trimestre) VALUES (?, ?, ?, ?, ?)",

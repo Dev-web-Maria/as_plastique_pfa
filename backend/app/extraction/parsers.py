@@ -1,5 +1,5 @@
 """
-Parseur d'extraction — Sprint 2
+Parseur d'extraction — bons de livraison / factures
 Extrait les champs utiles (client, date, n° document, tableau produits, totaux)
 des onglets déjà classés par explore_formats.py (bon_livraison / facture).
 
@@ -8,6 +8,7 @@ Utilisé par run_extraction.py.
 
 import re
 import unicodedata
+import datetime
 import pandas as pd
 
 
@@ -18,17 +19,11 @@ def strip_accents(text: str) -> str:
 
 
 def normalize_cell(value) -> str:
-    """Normalise une cellule en texte majuscule, sans accents ni espaces — pour comparaison."""
     if pd.isna(value):
         return ""
     return strip_accents(str(value).upper()).replace(" ", "")
 
 
-# ---------------------------------------------------------------------------
-# Détection de l'en-tête du tableau produits
-# ---------------------------------------------------------------------------
-
-# Variantes possibles (normalisées) pour chaque colonne du tableau produits
 HEADER_KEYWORDS = {
     "code": ["CODE"],
     "designation": ["DESIGNATION"],
@@ -40,6 +35,8 @@ HEADER_KEYWORDS = {
 
 
 def find_header_row(df: pd.DataFrame, search_from: int = 0, search_limit: int = 30):
+    """Cherche la ligne d'en-tête du tableau produits (contient au moins
+    DESIGNATION + QUANTITE) et retourne (index_ligne, mapping colonne->index)."""
     end = min(search_from + search_limit, len(df))
     for row_idx in range(search_from, end):
         row = df.iloc[row_idx]
@@ -55,6 +52,8 @@ def find_header_row(df: pd.DataFrame, search_from: int = 0, search_limit: int = 
                     column_map[field] = col_idx
         if "designation" in column_map and "quantite" in column_map:
             if "unite" not in column_map:
+                # Cas des factures : pas de colonne "Unité" étiquetée, mais
+                # l'unité est systématiquement dans la colonne juste après Quantité
                 colonne_candidate = column_map["quantite"] + 1
                 if colonne_candidate < len(row) and colonne_candidate not in column_map.values():
                     column_map["unite"] = colonne_candidate
@@ -62,16 +61,13 @@ def find_header_row(df: pd.DataFrame, search_from: int = 0, search_limit: int = 
     return None, None
 
 
-# ---------------------------------------------------------------------------
-# Extraction des lignes produits
-# ---------------------------------------------------------------------------
-
 def parse_number(value) -> float | None:
     """Convertit un nombre écrit en texte en float. Gère plusieurs formats
     réels rencontrés dans les fichiers :
     - '1032,80' (virgule décimale simple)
     - '15.000,00' (point = séparateur de milliers, virgule = décimales)
     - '1032.80' (point décimal déjà standard)
+    - '12750+10000' (deux montants additionnés à la main dans une cellule)
     Rejette explicitement tout texte contenant des lettres (ex : statut
     'réglé vir le 12/03/21') — sinon les chiffres épars du texte se
     recollaient en un faux nombre (12, 03, 21 -> 120321)."""
@@ -84,6 +80,18 @@ def parse_number(value) -> float | None:
         return None
     if re.search(r"[A-Za-zÀ-ÿ]", text):
         return None
+
+    # Cas réel découvert : '12750+10000' (deux montants additionnés à la main
+    # dans une même cellule) — sans ce traitement, le '+' est juste supprimé
+    # par le nettoyage plus bas, collant les deux nombres (1275010000 au lieu
+    # de 22750, un bug qui a fait apparaître un "impayé" de 1,275 milliard DH).
+    if "+" in text:
+        parties = [p.strip() for p in text.split("+")]
+        valeurs = [parse_number(p) for p in parties]
+        if all(v is not None for v in valeurs):
+            return sum(valeurs)
+        return None
+
     text = text.replace(" ", "").replace("\xa0", "")
 
     if "," in text and "." in text:
@@ -140,7 +148,6 @@ def extract_line_items(df: pd.DataFrame, header_row_idx: int, column_map: dict):
             quantite_num = parse_number(code_val)
 
         if quantite_num is not None and quantite_num > 0:
-            # Nouvelle ligne produit — on sauvegarde la précédente si elle existe
             if current_item:
                 items.append(current_item)
             current_item = {
@@ -151,7 +158,6 @@ def extract_line_items(df: pd.DataFrame, header_row_idx: int, column_map: dict):
                 "montant": parse_number(row.iloc[column_map["montant"]]) if column_map.get("montant") is not None else None,
             }
         elif current_item is not None and pd.notna(designation_val):
-            # Ligne de continuation du texte de désignation (ex : "Usage Industriel")
             suite = str(designation_val).strip()
             if suite:
                 current_item["designation"] = (current_item["designation"] + " " + suite).strip()
@@ -163,12 +169,7 @@ def extract_line_items(df: pd.DataFrame, header_row_idx: int, column_map: dict):
 
 
 def extract_totals(df: pd.DataFrame, total_row_idx: int | None) -> dict:
-    """Extrait total_ht, tva, net_a_payer autour de la ligne de total détectée.
-    Gère deux mises en page rencontrées dans les fichiers réels :
-    - libellé et valeur sur la MÊME ligne (valeur à droite du libellé)
-    - libellé sur une ligne, valeur juste EN DESSOUS dans la même colonne
-      (ex : "TOTAL TAXABLE | T.V.A. | NET A PAYER" puis les 3 montants dessous)
-    """
+    """Extrait total_ht, tva, net_a_payer autour de la ligne de total détectée."""
     totals = {"total_ht": None, "tva": None, "net_a_payer": None}
     if total_row_idx is None:
         return totals
@@ -193,7 +194,6 @@ def extract_totals(df: pd.DataFrame, total_row_idx: int | None) -> dict:
                 if not any(kw.replace(".", "") in cell_norm.replace(".", "") for kw in keywords):
                     continue
 
-                # 1) essaie d'abord à droite sur la MÊME ligne
                 remaining_same_row = list(row.iloc[col_idx:])
                 nums = [parse_number(v) for v in remaining_same_row]
                 nums = [n for n in nums if n is not None]
@@ -201,7 +201,6 @@ def extract_totals(df: pd.DataFrame, total_row_idx: int | None) -> dict:
                     totals[field] = nums[0]
                     continue
 
-                # 2) sinon, cherche dans la MÊME colonne, une ligne en dessous
                 if zone_idx + 1 < len(search_zone):
                     below_val = search_zone.iloc[zone_idx + 1, col_idx]
                     below_num = parse_number(below_val)
@@ -210,10 +209,6 @@ def extract_totals(df: pd.DataFrame, total_row_idx: int | None) -> dict:
 
     return totals
 
-
-# ---------------------------------------------------------------------------
-# Métadonnées du document (date, n° document, tiers)
-# ---------------------------------------------------------------------------
 
 DATE_PATTERN = re.compile(r"\b(\d{1,2}[/\-]\d{1,2}[/\-]\d{2,4})\b")
 
@@ -227,23 +222,15 @@ DATE_LETTRES_PATTERN = re.compile(
 )
 
 
-import datetime
-
-
 def extract_date(df: pd.DataFrame, search_rows: int = 25) -> str | None:
     """Cherche une date dans les search_rows premières lignes de la feuille.
-    Gère 3 cas rencontrés dans les vrais fichiers :
-    1. Vraie cellule de type date Excel (lue par pandas comme Timestamp/datetime)
-    2. Date en texte au format numérique (07/01/2019, 04/11/17...)
-    3. Date en texte en toutes lettres (07 Janvier 2019)
-    """
+    Gère 3 cas : vraie cellule date Excel (Timestamp), texte au format
+    numérique (07/01/2019), et texte en toutes lettres (07 Janvier 2019)."""
     for row_idx in range(min(search_rows, len(df))):
         for cell in df.iloc[row_idx]:
             if pd.isna(cell):
                 continue
 
-            # Cas 1 : vraie cellule date (le plus fréquent dans les factures,
-            # où la colonne date est formatée comme une date Excel, pas du texte)
             if isinstance(cell, (pd.Timestamp, datetime.datetime, datetime.date)):
                 return cell.strftime("%d/%m/%Y")
 
@@ -263,18 +250,12 @@ def extract_date(df: pd.DataFrame, search_rows: int = 25) -> str | None:
 
 
 def extract_doc_number(title_row_text: str) -> str | None:
-    """Extrait le numéro après 'N°' ou 'N:' dans la ligne de titre.
-    Le symbole ° ou : est obligatoire pour éviter de matcher un 'N' isolé
-    dans un mot comme 'BON' ou 'LIVRAISON'."""
+    """Extrait le numéro après 'N°' ou 'N:' dans la ligne de titre."""
     match = re.search(r"N[°:]\s*([A-Z0-9/\-]+)", title_row_text.upper())
     if match:
         return match.group(1).strip()
     return None
 
-
-# ---------------------------------------------------------------------------
-# Fonction principale
-# ---------------------------------------------------------------------------
 
 def parse_document(df: pd.DataFrame, title_row_idx: int, title_keyword: str) -> dict:
     """Parse un onglet déjà classé (bon_livraison ou facture) et retourne
@@ -289,8 +270,7 @@ def parse_document(df: pd.DataFrame, title_row_idx: int, title_keyword: str) -> 
         "n_items": 0,
     }
 
-    # Protection : onglet vide, ou title_row_idx hors limites (ex : onglet
-    # quasi-vide passé par le filet de secours nom de fichier)
+    # Protection : onglet vide, ou title_row_idx hors limites
     if df.empty or title_row_idx is None or title_row_idx >= len(df):
         return empty_result
 
@@ -310,7 +290,7 @@ def parse_document(df: pd.DataFrame, title_row_idx: int, title_keyword: str) -> 
     }
 
     if header_row_idx is None:
-        return result  # tableau produits non localisé — sera journalisé en erreur
+        return result
 
     items, total_row_idx = extract_line_items(df, header_row_idx, column_map)
     totals = extract_totals(df, total_row_idx)

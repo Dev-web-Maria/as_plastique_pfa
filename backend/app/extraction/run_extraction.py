@@ -1,20 +1,17 @@
 """
-Script d'extraction — Sprint 3 (extraction COMPLÈTE, tous les onglets)
+Script d'extraction — extraction COMPLÈTE, tous les onglets
 Combine la détection de type (explore_formats.py) et les parseurs de champs
 (parsers.py, parser_releve.py, parser_reglement.py) pour extraire l'intégralité
-des 1783 onglets de data/raw.
+des onglets de data/raw.
 
 bon_commande reste hors périmètre (volume trop faible, 4 onglets — ce sont en
-réalité des bons de livraison avec référence commande, cf. investigation
-précédente).
+réalité des bons de livraison avec référence commande).
 
 Lancer depuis backend/ (venv activé) :
     python app/extraction/run_extraction.py
 
-⚠️ Avant de relancer load_to_db.py après cette extraction complète, supprime
-l'ancienne base (data/processed/as_plastique.db) pour éviter les doublons —
-les tables de faits n'ont pas de contrainte d'unicité empêchant une double
-insertion si tu recharges par-dessus une base déjà peuplée.
+⚠️ Avant de relancer load_to_db.py après cette extraction, supprime ou
+recrée la base (schema.py) pour éviter les doublons.
 """
 
 import pandas as pd
@@ -28,6 +25,21 @@ from explore_formats import detect_type_by_first_row, guess_type_from_filename
 from parsers import parse_document
 from parser_releve import parse_releve
 from parser_reglement import parse_reglements
+
+# ---------------------------------------------------------------------------
+# Onglets exclus explicitement — structure incompatible avec le schéma
+# générique (une seule colonne montant par ligne). Documenté au lieu d'être
+# deviné : chaque entrée doit avoir une raison claire.
+# ---------------------------------------------------------------------------
+
+ONGLETS_EXCLUS = {
+    ("RELEVES 21.xls", "ANCIEN"): (
+        "Structure a 2 colonnes MONTANT FACTURE sommees dans TOTAL MONTANT "
+        "(ex: 36245 + 21420 = 57665) - incompatible avec le parseur generique a "
+        "1 colonne montant. Volume modeste (12 lignes, 211 486 DH) : non "
+        "rentable d'adapter le parseur pour ce cas unique."
+    ),
+}
 
 # ---------------------------------------------------------------------------
 # Configuration
@@ -53,7 +65,7 @@ def process_all():
 
     excel_files = sorted(DATA_RAW_DIR.glob("*.xls")) + sorted(DATA_RAW_DIR.glob("*.xlsx"))
     if not excel_files:
-        print(f"⚠ Aucun fichier trouvé dans {DATA_RAW_DIR.resolve()}")
+        print(f"Aucun fichier trouve dans {DATA_RAW_DIR.resolve()}")
         return
 
     doc_rows, item_rows = [], []
@@ -71,10 +83,16 @@ def process_all():
             errors.append(f"{file_path.name} — échec d'ouverture : {e}")
             continue
 
-        sheets_to_process = xls.sheet_names  # TOUS les onglets, plus de limite
+        sheets_to_process = xls.sheet_names
         print(f"→ {file_path.name} ({len(sheets_to_process)} onglet(s))")
 
         for sheet_name in sheets_to_process:
+            if (file_path.name, sheet_name) in ONGLETS_EXCLUS:
+                raison = ONGLETS_EXCLUS[(file_path.name, sheet_name)]
+                errors.append(f"{file_path.name} [{sheet_name}] — EXCLU : {raison}")
+                statut_counts["exclu_manuellement"] = statut_counts.get("exclu_manuellement", 0) + 1
+                continue
+
             try:
                 df = pd.read_excel(xls, sheet_name=sheet_name, header=None)
             except Exception as e:
@@ -89,7 +107,6 @@ def process_all():
                     title_row_idx = 0
                     keyword = "aucun (type via nom de fichier)"
 
-            # ---------------- bon_livraison / facture ----------------
             if doc_type in TYPES_FACTURE_LIVRAISON:
                 try:
                     result = parse_document(df, title_row_idx, keyword)
@@ -125,7 +142,6 @@ def process_all():
                     })
                 statut_counts[statut] = statut_counts.get(statut, 0) + 1
 
-            # ---------------- relevé de factures impayées ----------------
             elif doc_type in TYPES_RELEVE:
                 try:
                     result = parse_releve(df, title_row_idx)
@@ -155,7 +171,6 @@ def process_all():
                     })
                 statut_counts[statut] = statut_counts.get(statut, 0) + 1
 
-            # ---------------- règlements (grille sans titre) ----------------
             elif doc_type in TYPES_REGLEMENT:
                 try:
                     result = parse_reglements(df)
@@ -175,11 +190,9 @@ def process_all():
                     })
                 statut_counts[statut] = statut_counts.get(statut, 0) + 1
 
-            # ---------------- hors périmètre (bon_commande) ----------------
             else:
                 statut_counts["type_non_gere_ce_sprint"] = statut_counts.get("type_non_gere_ce_sprint", 0) + 1
 
-    # --- Écriture des fichiers ---
     pd.DataFrame(doc_rows).to_csv(OUTPUT_DOCS, index=False, encoding="utf-8-sig")
     pd.DataFrame(item_rows).to_csv(OUTPUT_ITEMS, index=False, encoding="utf-8-sig")
     pd.DataFrame(releve_doc_rows).to_csv(OUTPUT_RELEVES_DOCS, index=False, encoding="utf-8-sig")
@@ -202,13 +215,13 @@ def process_all():
     for statut, n in sorted(statut_counts.items(), key=lambda x: -x[1]):
         pct = round(n / total_onglets * 100, 1) if total_onglets else 0
         print(f"  {statut:28} {n} ({pct}%)")
-    print(f"\n📄 Documents facture/livraison : {OUTPUT_DOCS.resolve()}")
-    print(f"📄 Lignes produits              : {OUTPUT_ITEMS.resolve()}")
-    print(f"📄 Documents relevés             : {OUTPUT_RELEVES_DOCS.resolve()}")
-    print(f"📄 Lignes factures (relevés)     : {OUTPUT_RELEVES_ITEMS.resolve()}")
-    print(f"📄 Lignes règlements             : {OUTPUT_REGLEMENTS.resolve()}")
+    print(f"\nDocuments facture/livraison : {OUTPUT_DOCS.resolve()}")
+    print(f"Lignes produits              : {OUTPUT_ITEMS.resolve()}")
+    print(f"Documents relevés             : {OUTPUT_RELEVES_DOCS.resolve()}")
+    print(f"Lignes factures (relevés)     : {OUTPUT_RELEVES_ITEMS.resolve()}")
+    print(f"Lignes règlements             : {OUTPUT_REGLEMENTS.resolve()}")
     if errors:
-        print(f"📄 Erreurs/incomplets            : {ERROR_LOG.resolve()} ({len(errors)} entrée(s))")
+        print(f"Erreurs/incomplets            : {ERROR_LOG.resolve()} ({len(errors)} entrée(s))")
     print("=" * 60)
 
 

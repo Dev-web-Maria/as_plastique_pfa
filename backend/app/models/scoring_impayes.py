@@ -1,11 +1,15 @@
 """
-Scoring de risque impayés — Sprint 4
-Score pondéré et explicable par client, PAS un modèle supervisé classique :
-on n'a aucune étiquette fiable "a fait défaut / n'a pas fait défaut" dans les
-données (une facture listée dans un relevé d'impayés à un instant T ne dit
-pas si elle a fini par être réglée avec certitude) — inventer une cible
-supervisée serait plus trompeur qu'utile. Le score pondéré reste transparent
-et justifiable : chaque composante et son poids sont visibles et modifiables.
+Scoring de risque impayés — Sprint 4/5
+Score pondéré et explicable par client. Utilise le SOLDE RÉEL (grand livre
+client, Sprint 5) en priorité pour le montant dû — plus fiable que le simple
+snapshot des relevés extraits, qui ne reflète pas les règlements effectués
+depuis. Quand une facture n'a pas pu être rapprochée du grand livre, on
+retombe sur le montant du snapshot (meilleure information disponible).
+
+Les signaux comportementaux (nombre de relevés, ancienneté) restent basés sur
+l'historique complet, y compris les factures depuis réglées : le fait qu'un
+client soit réapparu plusieurs fois en retard reste un vrai signal de risque,
+même s'il a fini par payer.
 
 Lancer depuis backend/ (venv activé) :
     python app/models/scoring_impayes.py
@@ -20,7 +24,6 @@ import pandas as pd
 DB_PATH = Path("../data/processed/as_plastique.db")
 OUTPUT_CSV = Path("../data/processed/scoring_impayes_clients.csv")
 
-# Poids de chaque composante du score (doivent sommer à 1.0)
 POIDS = {
     "montant_total_impaye": 0.35,
     "nombre_releves": 0.20,
@@ -35,7 +38,8 @@ def charger_donnees():
     df = pd.read_sql(
         """SELECT
                dc.client_id, dc.nom AS client,
-               fr.releve_id, fi.ligne_id, fi.montant, fi.reference_paiement,
+               fr.releve_id, fi.ligne_id, fi.numero_facture, fi.montant, fi.reference_paiement,
+               fi.solde_reel, fi.statut_reel,
                ddr.jour AS jour_releve, ddr.mois AS mois_releve, ddr.annee AS annee_releve,
                ddf.jour AS jour_facture, ddf.mois AS mois_facture, ddf.annee AS annee_facture
            FROM dim_client dc
@@ -64,15 +68,17 @@ def construire_features(df):
     df["date_releve"] = df.apply(lambda r: _construire_date(r, "releve"), axis=1)
     df["date_facture"] = df.apply(lambda r: _construire_date(r, "facture"), axis=1)
     df["anciennete_jours"] = (df["date_releve"] - df["date_facture"]).dt.days
-    # Ancienneté négative = incohérence de saisie (facture "après" le relevé) — écartée
     df.loc[df["anciennete_jours"] < 0, "anciennete_jours"] = np.nan
+
+    df["montant_effectif"] = df["solde_reel"].where(df["solde_reel"].notna(), df["montant"])
 
     agg = df.groupby(["client_id", "client"]).agg(
         nombre_releves=("releve_id", "nunique"),
         nombre_factures_impayees=("ligne_id", "count"),
-        montant_total_impaye=("montant", "sum"),
-        montant_moyen_facture=("montant", "mean"),
+        montant_total_impaye=("montant_effectif", "sum"),
+        montant_moyen_facture=("montant_effectif", "mean"),
         anciennete_moyenne_jours=("anciennete_jours", "mean"),
+        nb_lignes_rapprochees=("solde_reel", lambda s: s.notna().sum()),
     ).reset_index()
 
     taux_sans_ref = (
@@ -124,16 +130,23 @@ def executer():
     resultat = calculer_score(agg)
     resultat.to_csv(OUTPUT_CSV, index=False)
 
+    n_total_lignes = len(df_brut)
+    n_rapprochees = df_brut["solde_reel"].notna().sum()
+
     print("=" * 70)
     print("SCORING DE RISQUE IMPAYÉS PAR CLIENT")
     print("=" * 70)
     print(f"Clients scorés : {len(resultat)}")
+    print(f"Lignes impayées utilisées : {n_total_lignes} "
+          f"(dont {n_rapprochees} avec solde réel du grand livre, "
+          f"{n_total_lignes - n_rapprochees} sur snapshot brut)")
     print("\nRépartition par niveau de risque :")
     print(resultat["niveau_risque"].value_counts().to_string())
 
     print("\nTop 10 clients à risque le plus élevé :")
     cols_affichage = ["client", "score_risque", "niveau_risque", "montant_total_impaye",
-                       "nombre_releves", "nombre_factures_impayees", "anciennete_moyenne_jours"]
+                       "nombre_releves", "nombre_factures_impayees", "anciennete_moyenne_jours",
+                       "nb_lignes_rapprochees"]
     print(resultat[cols_affichage].head(10).to_string(index=False))
 
     print(f"\n📄 Résultat complet : {OUTPUT_CSV.resolve()}")

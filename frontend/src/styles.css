@@ -1,0 +1,76 @@
+:root {
+  --bleu-marine: #0B1C4C;
+  --bleu-marine-clair: #16295C;
+  --bleu-marine-hover: #1F3670;
+  --rouge-accent: #C81E1E;
+  --rouge-clair: #FDECEC;
+  --vert-succes: #1E8E5A;
+  --vert-clair: #EAF7F0;
+  --orange-alerte: #B8720C;
+  --orange-clair: #FDF3E3;
+  --gris-fond: #F4F5F7;
+  --gris-texte: #6B7280;
+  --gris-bordure: #E5E7EB;
+  --blanc: #FFFFFF;
+}
+
+/* Écrase le CSS par défaut de Vite (index.css/App.css) qui centre le
+   contenu avec un max-width — cause du vide visible à gauche/droite */
+#root {
+  max-width: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  text-align: left !important;
+  width: 100%;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, "Segoe UI", Roboto, sans-serif;
+  background: var(--gris-fond);
+  color: #1A1A2E;
+  width: 100%;
+}
+
+.app-layout {
+  display: flex;
+  min-height: 100vh;
+}
+
+.contenu-principal {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.zone-page {
+  padding: 1.5rem 2rem;
+  flex: 1;
+}
+
+.carte {
+  background: var(--blanc);
+  border: 1px solid var(--gris-bordure);
+  border-radius: 12px;
+  padding: 1.25rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+}
+
+.grille-kpi {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.titre-page {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: 0;
+  color: var(--bleu-marine);
+}

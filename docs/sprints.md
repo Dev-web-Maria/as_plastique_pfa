@@ -207,17 +207,53 @@ Client le plus à risque : CHINA YANG TSE PLASTIQUE (1,66 M DH dus, ancienneté 
 
 ## Sprint 5 — Agent conversationnel, dashboard final & Power BI
 
-**Objectif :** finaliser l'expérience utilisateur et ajouter le reporting BI.
+### Partie 4 — Dashboard React professionnel (multi-pages) ✅ TERMINÉE
 
-- [ ] Agent conversationnel (LangGraph) branché sur la base structurée
-- [ ] Endpoint `/api/chat`
-- [ ] Interface de chat React connectée
-- [ ] Finalisation des pages React (KPI, prévisions, stocks, impayés)
-- [ ] Rapport(s) Power BI connecté(s) à la base SQLite finale *(bonus)*
+- [x] Refonte complète de l'interface : sidebar fixe avec logo, navigation par icônes (lucide-react), palette de couleurs reprenant l'identité visuelle du logo (bleu marine + rouge)
+- [x] 9 pages fonctionnelles : Vue globale, Ventes, Clients (liste + fiche détaillée cliquable), Bons de livraison, Factures, Impayés, Prévisions, Assistant Data
+- [x] Filtres de période réels sur chaque page pertinente (année/mois/plage de dates), branchés sur des endpoints FastAPI dédiés — fini les totaux bruts sur 4 ans, chaque vue peut être filtrée sur une période précise
+- [x] Endpoints ajoutés : `/api/kpis-ventes`, `/api/top-produits`, `/api/dernieres-ventes`, `/api/clients`, `/api/clients/{id}`, `/api/documents-detail`, `/api/kpis-documents`, réconciliation et grand livre rendus filtrables
+- [x] Bug de tri de dates corrigé sur tous les endpoints (`ORDER BY dd.date` triait le texte "JJ/MM/AAAA" au lieu de la vraie chronologie — `31/12/2020` apparaissait après `05/01/2021`) — corrigé partout via une reconstruction `printf('%Y-%m-%d')`
 
-**Résultats :** *(à compléter en fin de sprint)*
+### Partie 5 — Découverte et correction de doublons massifs (clients + produits) ✅ TERMINÉE
 
-**Blocages / notes :** *(à compléter en fin de sprint)*
+Déclenché par une vérification manuelle des KPIs ("2653 produits, c'est exagéré") — un vrai travail d'investigation, pas juste un ticket fermé rapidement.
+
+**Cause racine commune aux deux problèmes** : la logique de "ligne de continuation" du parseur (Sprint 2), censée recoller un texte de désignation qui déborde sur 2 lignes, recolle en réalité **n'importe quel texte parasite** trouvé juste après (adresse du client, nombre de colis/rouleaux d'une livraison précise, une date) — polluant ce qui devrait être un identifiant stable.
+
+**Doublons clients** (122 → 61) :
+- Adresse collée au nom (`"SIMEC 265 Bd Moulay Ismail Casablanca"` au lieu de `"SIMEC"`) → détection automatique par préfixe exact (36 groupes, 41 clients fusionnés) — signal fiable, vérifié sans faux positif sur 11 cas réels
+- Fautes de frappe / singulier-pluriel / abréviations (`"GLACE"` vs `"GLACES"`, `"IS PLAST"` vs `"ISO PLAST"`, `"PROHAMA"` vs `"PROMAHA"`...) → fusion manuelle vérifiée cas par cas (6 groupes), volontairement non automatisée (risque de mélanger à tort deux vraies entreprises différentes)
+
+**Doublons produits** (2653 → 1539, soit -42%) :
+- `"N colis"` / `"N RX"` (quantité de livraison, pas une caractéristique produit)
+- Date collée par erreur (`"...Pour Usage Industriel, 2019-03-16 00:00:00"`)
+- Deux caractères "mu" visuellement identiques mais informatiquement différents (μ grec U+03BC vs µ signe micro U+00B5), et micron parfois écrit en lettre (`"70u"`)
+- Espaces multiples, espaces autour du `/`, virgules parasites
+- Formule `"Pour Usage Industriel"` (présente sur la quasi-totalité des désignations, aucune valeur distinctive) retirée entièrement
+- **Bug de non-idempotence découvert et corrigé** : certaines désignations ont plusieurs couches de bruit empilées ; une seule passe de nettoyage en laissait une partie — corrigé par une boucle jusqu'à point fixe
+- **Limitation assumée** : les variations de séparateur entre dimensions (`"60 X 17"` vs `"60x17"` vs `"61+23"`) ne sont pas fusionnées automatiquement — risque trop élevé de mélanger deux dimensions réellement différentes (ex: `80/140` vs `84/140`)
+
+**Garde-fou appliqué à chaque étape** : le CA total (`26 259 263,91 DH`) vérifié identique avant/après chaque fusion — confirme qu'aucune vente n'est perdue, seulement regroupée sous le bon identifiant.
+
+**Outils livrés** : `backend/app/database/fusionner_clients_doublons.py`, `fusionner_clients_manuel_v2.py`, `fusionner_produits_doublons.py`, `backend/diagnostic_5_echecs.py`, `diagnostic_produits_colis.py`
+
+⚠️ **Ces 3 scripts de fusion doivent être relancés après tout rechargement complet du pipeline** (`schema.py` → ... → `charger_grand_livre.py`) — ce ne sont pas des étapes idempotentes intégrées à l'ETL principal, la cause racine dans `parsers.py` n'ayant pas été corrigée (choix assumé, fin de projet).
+
+### Partie 6 — Rapport Power BI (bonus) ✅ TERMINÉ
+
+- [x] Connexion ODBC directe à la base SQLite (pilote `sqliteodbc_w64.exe`), DSN configuré
+- [x] Modèle de données : relations corrigées (suppression de fausses relations créées par coïncidence de noms de colonnes comme `ligne_id`), gestion des chemins ambigus vers `dim_date` (schéma en constellation : un seul chemin actif à la fois)
+- [x] 4 pages : Couverture, Ventes, Clients, Impayés & Recouvrement
+- [x] Filtres (segments) sur chaque page pertinente : année, mois, type de document, statut
+- [x] Mesures DAX pour tous les KPIs (CA, volume, clients actifs, taux de rapprochement...)
+- [x] Paramètre de champ pour basculer Qté/Montant sur le graphique top produits
+
+**Bugs corrigés en cours de construction** :
+- Tri de mois/années dans le désordre sur les graphiques (réglage "Trier par" du visuel, pas le type de donnée)
+- Format de nombres du CSV de scoring interprété avec le mauvais séparateur décimal (import via paramètres régionaux "Anglais US" explicites)
+- Agrégation "Somme" par défaut sur des colonnes déjà pré-calculées (score de risque, ancienneté) → "Ne pas résumer", fixé au niveau modèle
+- Relation créée dans le mauvais sens (1-à-plusieurs inversé) causant une multiplication en cascade des valeurs
 
 ---
 

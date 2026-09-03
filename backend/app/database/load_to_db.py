@@ -17,6 +17,8 @@ import sqlite3
 from pathlib import Path
 
 import pandas as pd
+import re
+
 
 DB_PATH = Path("../data/processed/as_plastique.db")
 
@@ -36,7 +38,7 @@ class Caches:
         self.source = {}   # (fichier, onglet) -> source_id
         self.date = {}     # date_str -> date_id
         self.produit = {}  # (designation, unite) -> produit_id
-        self.client = {}   # nom -> client_id
+        self.client = {}   # nom normalisé -> client_id
 
 
 def get_or_create_source(conn, caches, fichier, onglet, type_document):
@@ -107,11 +109,15 @@ def get_or_create_client(conn, caches, nom):
     if not nom or pd.isna(nom) or str(nom).strip() == "":
         return None
     nom = str(nom).strip()
-    if nom in caches.client:
-        return caches.client[nom]
+    # Clé normalisée (casse + espaces multiples) pour éviter les doublons du
+    # type 'SIMEC' / 'simec' / 'SIMEC  ' — bug réel rencontré avec 4 clients
+    # (GLACE SABRINE, VINE MAROC, AMALOU TIZOLLA, FIRST LADAINE)
+    cle = re.sub(r"\s+", " ", nom).upper()
+    if cle in caches.client:
+        return caches.client[cle]
     conn.execute("INSERT OR IGNORE INTO dim_client (nom) VALUES (?)", (nom,))
     client_id = conn.execute("SELECT client_id FROM dim_client WHERE nom = ?", (nom,)).fetchone()[0]
-    caches.client[nom] = client_id
+    caches.client[cle] = client_id
     return client_id
 
 
@@ -123,9 +129,17 @@ def reset_tables(conn):
     """Vide toutes les tables avant rechargement — rend le script idempotent
     même si l'ancien fichier .db n'a pas pu être supprimé (ex: verrouillé par
     DB Browser encore ouvert). Ordre important : tables enfants avant tables
-    parentes, à cause des clés étrangères."""
+    parentes, à cause des clés étrangères.
+
+    Bug réel corrigé : 'fait_grand_livre' (Sprint 5) référence à la fois
+    fait_documents_vente ET dim_client — si elle n'est pas vidée AVANT ces
+    deux tables, une exécution où schema.py n'a pas été relancé juste avant
+    (donc fait_grand_livre contient encore des données de la session
+    précédente) fait échouer le DELETE avec une erreur de clé étrangère."""
     tables_dans_l_ordre = [
-        "fait_lignes_vente", "fait_documents_vente",
+        "fait_lignes_vente",
+        "fait_grand_livre",
+        "fait_documents_vente",
         "fait_factures_impayees", "fait_releves",
         "fait_reglements",
         "dim_produit", "dim_client", "dim_date", "dim_source",
@@ -143,7 +157,7 @@ def reset_tables(conn):
 
 def load_documents_vente(conn, caches):
     if not DOCS_CSV.exists():
-        print("⚠ extraction_sample_documents.csv introuvable, étape ignorée")
+        print("⚠ extraction_full_documents.csv introuvable, étape ignorée")
         return
 
     docs = pd.read_csv(DOCS_CSV, dtype={"doc_number": str})
@@ -154,13 +168,14 @@ def load_documents_vente(conn, caches):
     for _, row in docs.iterrows():
         source_id = get_or_create_source(conn, caches, row["fichier"], row["onglet"], row["type_detecte"])
         date_id = get_or_create_date(conn, caches, none_if_nan(row.get("date")))
+        client_id = get_or_create_client(conn, caches, none_if_nan(row.get("client_nom")))
 
         cursor = conn.execute(
             """INSERT INTO fait_documents_vente
-               (source_id, type_document, doc_number, date_id, total_ht, tva, net_a_payer, statut_extraction)
-               VALUES (?, ?, ?, ?, ?, ?, ?, ?)""",
+               (source_id, type_document, doc_number, date_id, client_id, total_ht, tva, net_a_payer, statut_extraction)
+               VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)""",
             (
-                source_id, row["type_detecte"], none_if_nan(row.get("doc_number")), date_id,
+                source_id, row["type_detecte"], none_if_nan(row.get("doc_number")), date_id, client_id,
                 none_if_nan(row.get("total_ht")), none_if_nan(row.get("tva")),
                 none_if_nan(row.get("net_a_payer")), row["statut"],
             ),
@@ -188,7 +203,7 @@ def load_documents_vente(conn, caches):
 
 def load_releves(conn, caches):
     if not RELEVES_DOCS_CSV.exists():
-        print("⚠ extraction_sample_releves_documents.csv introuvable, étape ignorée")
+        print("⚠ extraction_full_releves_documents.csv introuvable, étape ignorée")
         return
 
     releves = pd.read_csv(RELEVES_DOCS_CSV)
@@ -232,7 +247,7 @@ def load_releves(conn, caches):
 
 def load_reglements(conn, caches):
     if not REGLEMENTS_CSV.exists():
-        print("⚠ extraction_sample_reglements.csv introuvable, étape ignorée")
+        print("⚠ extraction_full_reglements.csv introuvable, étape ignorée")
         return
 
     reglements = pd.read_csv(REGLEMENTS_CSV, dtype={"reference_facture": str})

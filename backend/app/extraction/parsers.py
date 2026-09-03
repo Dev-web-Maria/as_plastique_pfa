@@ -256,33 +256,65 @@ def extract_doc_number(title_row_text: str) -> str | None:
         return match.group(1).strip()
     return None
 
+def extract_client_name(df: pd.DataFrame, title_row_idx: int) -> str | None:
+    """Cherche le nom du client après la ligne de titre (bon de livraison /
+    facture). Deux formats réels rencontrés :
+    - Bon de livraison : le nom apparaît seul, en texte libre, juste après le
+      titre (ex: 'SIMEC', 'ROCHE PLASTIC DIAMANT', 'SOUFFLAGE DU RIF')
+    - Facture : précédé d'une étiquette explicite 'Client', nom dans la
+      cellule suivante sur la même ligne
+    On exclut les lignes qui sont manifestement autre chose (bon de commande,
+    ville/date d'en-tête) avant de retenir la première ligne de texte
+    plausible comme nom de client."""
+    fin_recherche = min(title_row_idx + 8, len(df))
+    for row_idx in range(title_row_idx + 1, fin_recherche):
+        row = df.iloc[row_idx]
+        cellules = [str(c).strip() for c in row if pd.notna(c) and str(c).strip()]
+        if not cellules:
+            continue
+
+        texte_ligne = " ".join(cellules).upper()
+
+        if "CLIENT" in texte_ligne:
+            for i, c in enumerate(row):
+                if pd.notna(c) and "CLIENT" in str(c).upper():
+                    for suivant in row.iloc[i + 1:]:
+                        if pd.notna(suivant) and str(suivant).strip():
+                            return str(suivant).strip()
+
+        if "BON DE COMMANDE" in texte_ligne or "CASABLANCA" in texte_ligne:
+            continue  # ligne d'en-tête, pas le client
+
+        return cellules[0]
+
+    return None
+
 
 def parse_document(df: pd.DataFrame, title_row_idx: int, title_keyword: str) -> dict:
-    """Parse un onglet déjà classé (bon_livraison ou facture) et retourne
-    un dictionnaire structuré avec métadonnées + lignes produits + totaux."""
-
     empty_result = {
         "doc_number": None,
         "date": None,
+        "client_nom": None,
         "header_row_found": False,
         "items": [],
         "totals": {"total_ht": None, "tva": None, "net_a_payer": None},
         "n_items": 0,
     }
 
-    # Protection : onglet vide, ou title_row_idx hors limites
     if df.empty or title_row_idx is None or title_row_idx >= len(df):
         return empty_result
 
     title_row_text = " ".join(str(c) for c in df.iloc[title_row_idx] if pd.notna(c))
     doc_number = extract_doc_number(title_row_text)
     date = extract_date(df)
+    client_nom = extract_client_name(df, title_row_idx)
 
     header_row_idx, column_map = find_header_row(df, search_from=title_row_idx)
 
     result = {
         "doc_number": doc_number,
         "date": date,
+        "client_nom": client_nom,
         "header_row_found": header_row_idx is not None,
         "items": [],
         "totals": {"total_ht": None, "tva": None, "net_a_payer": None},

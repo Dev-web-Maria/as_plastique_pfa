@@ -76,6 +76,7 @@ CREATE TABLE fait_documents_vente (
     type_document    TEXT NOT NULL CHECK (type_document IN ('bon_livraison', 'facture')),
     doc_number       TEXT,
     date_id          INTEGER REFERENCES dim_date(date_id),
+    client_id        INTEGER REFERENCES dim_client(client_id),
     total_ht         REAL,
     tva              REAL,
     net_a_payer      REAL,

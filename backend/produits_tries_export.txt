@@ -1,0 +1,2653 @@
+1432	KG	( B, STANDARD 1L )
+1434	KG	( BOUCHON STANDARD  )
+936	KG	( BOUTEILLE STANDARD 1 L )
+924	KG	( BOUTEILLE STANDARD 1L )
+1887	Kg	( G , PANIER LINGE CARRE  )
+1202	KG	( G, BASSINE BANDA )
+1000	KG	( G, EGOUTOIR  )
+954	KG	( G, PANIER LINGE CARRE  )
+922	KG	( G, PANIER LINGE CARRE )
+1222	KG	( G, PANIER LINGE ROND )
+923	KG	( G,N PANIER LINGE CARRE )
+1190	KG	( G,PANIER LINGE CARRE )
+1166	KG	( G,PANIER LINGE ROND  )
+964	KG	( M , PANIER LINGE CARRE  )
+949	KG	( M , PANIER LINGE ROND  )
+996	KG	( MINI PLACARD 3 )
+1005	KG	( MINI PLACARD 5 )
+921	KG	( N,M PANIER LINGE CARRE )
+1083	KG	( NEW , M, PANIER LINGE CARRE  )
+1099	KG	( NEW BOCAL 1L IMPRIME  )
+1098	KG	( NEW BOCAL 1L IMPRIME INTER )
+1101	KG	( NEW BOCAL 3L IMPRIME  )
+1100	KG	( NEW BOCAL 3L IMPRIME INTER )
+1096	KG	( NEW, G, PANIER LINGE CARRE )
+1133	KG	( NEW, M , BASSINE CARRE  )
+1110	KG	( NEW, P, BASSINE CARRE  )
+1431	KG	( POT MIEL  1 KG  )
+986	KG	( POT MIEL 1 KG  )
+988	KG	( POT MIEL 1,5 KG  )
+962	KG	( POT MIEL 1KG  )
+987	KG	( POT MIEL 250 G  )
+957	KG	( POT MIEL 250G  )
+948	KG	( POT MIEL 250G  ) Sachet en LDPE ( P, SACHET COULEUR  )
+978	KG	( POT MIEL 500G  )
+997	KG	( POUBELLE ROND )
+934	KG	(G, POT MIEL 500G  )
+2613	Kg	1 Feuille 20  /  20  x 30 µ
+2614	Kg	1 Feuille 23 / 28   x  30 μ
+3429	Kg	1 feuille 20 / 20   x  30 μ
+3430	Kg	1 feuille 23 / 28   x  30 μ
+1905	Kg	101 / 102       100μ ,   Pour usage Industriel  ,
+942	KG	101/102    10μ ,   Pour usage Industriel  ,
+874	KG	15 / 15      90μ ,   Pour usage Industriel  ,
+1210	KG	15/15       40μ ,   Pour usage Industriel  ,
+1242	KG	15/15    40μ ,   Pour usage Industriel  ,
+1542	Kg	16/17 Pour usage Industriel
+521	KG	16/17,  Pour usage Industriel  ,
+1258	KG	16/30    60μ , Pour usage Industriel
+2562	Kg	18  X 40   60μ ,  Pour usage Industriel  ,
+1161	KG	18/40    60μ ,  Pour usage Industriel  ,
+2568	Kg	20 X 30  60μ ,  Pour usage Industriel  ,
+1259	KG	20/45    60μ ,  Pour usage Industriel  ,
+1427	KG	22/24        60μ ,   Pour usage Industriel  ,
+1340	KG	22/25    60μ ,   Pour usage Industriel  ,
+1147	KG	22/40     40μ , Pour usage Industriel
+2011	Kg	25/38  Pour usage Industriel  ,
+1054	KG	25/38 ,    5,8u   Pour usage Industriel  ,
+1209	KG	27/39      55μ ,   Pour usage Industriel  ,
+2130	Kg	27/39    55μ ,   Pour usage Industriel  ,
+2561	Kg	28  X 40   60μ ,  Pour usage Industriel  ,
+2060	Kg	28/37        35μ ,   Pour usage Industriel  ,
+1113	KG	28/37     35μ ,   Pour usage Industriel  ,
+1182	KG	28/40    60μ ,  Pour usage Industriel  ,
+2567	Kg	30 X 45  60μ ,  Pour usage Industriel  ,
+1354	KG	33/62   60μ ,   Pour usage Industriel  ,
+2560	Kg	40  X 60   60μ ,  Pour usage Industriel  ,
+1181	KG	40/60    60μ , Pour usage Industriel
+2692	Kg	40/60 80µ
+1386	KG	40/65     60μ ,   Pour usage Industriel  ,
+1384	KG	40/85     60μ ,   Pour usage Industriel  ,
+1871	Kg	44 / 58               60 μ ,  Pour usage Industriel
+910	KG	44 / 58   60μ ,   Pour usage Industriel  ,
+2566	Kg	45  X 60   60μ ,  Pour usage Industriel  ,
+2558	Kg	45 X 60  / 90 μ ,  Pour usage Industriel  ,
+1428	KG	47 / 57   60μ ,   Pour usage Industriel  ,
+1208	KG	47/58        60μ ,   Pour usage Industriel  ,
+2129	Kg	47/58    60μ ,   Pour usage Industriel  ,
+992	KG	50 x    /121    80μ ,   Pour usage Industriel  ,
+1955	Kg	50 x   /121        80μ ,   Pour usage Industriel
+871	KG	50 x 15 / 75  μ ,   Pour usage Industriel  ,
+524	KG	50 x 15 /73,  Pour usage Industriel  ,
+730	KG	50/105      80μ ,   Pour usage Industriel  ,
+1739	Kg	50/105   80μ ,   Pour usage Industriel  ,
+553	KG	50X16/68 ,   Pour usage Industriel  ,
+543	KG	50x16/68,   Pour usage Industriel  ,
+624	KG	51 X 16 / 69 ,     80μ,   Pour usage Industriel  ,
+622	KG	51 X 16 / 69 ,     80μ,   Pour usage Industriel  , 2019-03-16 00:00:00
+1437	KG	51 x 12 /110         80μ ,   Pour usage Industriel
+1445	KG	51 x 12 /110    80μ ,   Pour usage Industriel
+1412	KG	51 x 12 /110  80μ ,   Pour usage Industriel  ,
+1738	Kg	51X15/76   100μ ,   Pour usage Industriel  ,
+729	KG	51x15/76      100μ ,   Pour usage Industriel  ,
+1930	Kg	52 x 17 /60         90μ ,   Pour usage Industriel
+969	KG	52 x 17 /60    90μ ,   Pour usage Industriel  ,
+893	KG	52 x 17 /70  90 μ ,   Pour usage Industriel  ,
+1031	KG	52X12/118,   Pour usage Industriel  ,
+1090	KG	52X17/60      80μ ,   Pour usage Industriel  ,
+1263	KG	52X17/60   90μ ,   Pour usage Industriel  ,
+2010	Kg	52x12/118,   Pour usage Industriel  ,
+1052	KG	52x12/118,  70u  Pour usage Industriel  ,
+903	KG	52x17/60            90μ ,   Pour usage Industriel
+2017	Kg	53X17 /60 ,      80U  Pour usage Industriel  ,
+1064	KG	53X17/60 ,    80u   Pour usage Industriel  ,
+776	KG	54 x 16 / 80   70μ ,   Pour usage Industriel  ,
+547	KG	56 X 15 /110 ,   Pour usage Industriel  ,
+548	KG	56 X 15 /112 ,   Pour usage Industriel  ,
+1379	KG	56 X 18 / 64    80μ ,   Pour usage Industriel  ,
+1411	KG	56 x 15 /112  80μ ,   Pour usage Industriel  ,
+1029	KG	56 x 15 /112,  80u  Pour usage Industriel  ,
+1446	KG	56 x 15 /117    80μ ,   Pour usage Industriel
+1338	KG	56X18/63     80μ ,   Pour usage Industriel  ,
+777	KG	57 x 15 / 115  70μ ,   Pour usage Industriel  ,
+1419	KG	57 x 15 /158  100μ ,   Pour usage Industriel  ,
+1425	KG	57 x 15 /158  100μ ,   Pour usage Industriel,
+1452	KG	57 x 19 / 65   / 70μ , Pour usage Industriel
+1473	KG	57 x 20 /64    70μ ,   Pour usage Industriel
+1755	Kg	57X15 /115   80μ ,   Pour usage Industriel  ,
+748	KG	57x 15 / 115      80μ ,   Pour usage Industriel  ,
+1724	Kg	58 X 15  / 95    90μ ,   Pour usage Industriel  ,
+711	KG	58 X 15 /95     90μ ,   Pour usage Industriel  ,
+1449	KG	58 x 16 / 110 /  80μ , Pour usage Industriel
+1737	Kg	58X15/90   90μ ,   Pour usage Industriel  ,
+728	KG	58x15/90      90μ ,   Pour usage Industriel  ,
+544	KG	58x15/91,  Pour usage Industriel  ,
+621	KG	59 X 15 /90        80μ ,   Pour usage Industriel  ,
+778	KG	59 x 16 / 90     70μ ,   Pour usage Industriel  ,
+872	KG	59 x 16 / 92     90μ ,   Pour usage Industriel  ,
+3204	KG	59/163      80μ ,   Pour usage Industriel  ,
+554	KG	59X16/92,   Pour usage Industriel  ,
+578	KG	60 / 155     90μ ,   Pour usage Industriel  ,
+2555	Kg	60 X  25 /160     60μ , Pour usage Industriel
+3443	KG	60 X 10  / 68     50μ , Pour usage Industriel
+3444	KG	60 X 10  / 90     50μ , Pour usage Industriel
+665	KG	60 X 17 / 130   120μ ,   Pour usage Industriel  ,
+623	KG	60 X 17 / 151    80μ ,   Pour usage Industriel  ,
+620	KG	60 X 17 / 151    80μ ,   Pour usage Industriel  , 2019-09-13 00:00:00
+1876	Kg	60 X 17 / 92       130μ ,   Pour usage Industriel  ,
+1668	Kg	60 X 17 /130    120μ ,   Pour usage Industriel  ,
+549	KG	60 X 23 / 155,  Pour usage Industriel  ,
+2137	Kg	60 X10 / 90      50μ ,  Pour usage Industriel  ,
+1215	KG	60 X10 /106       50μ ,  Pour usage Industriel  ,
+1115	KG	60 X10 /106       60μ ,  Pour usage Industriel  ,
+2533	Kg	60 X10 /106     60μ , Pour usage Industriel
+2136	Kg	60 X10 /47       50μ ,  Pour usage Industriel  ,
+1216	KG	60 X10 /47      50μ ,  Pour usage Industriel  ,
+1213	KG	60 X10 /47     50μ , Pour usage Industriel
+2135	Kg	60 X10 /68       50μ ,  Pour usage Industriel  ,
+1214	KG	60 X10 /68      50μ ,  Pour usage Industriel  ,
+2366	Kg	60 X10 /90       50μ ,  Pour usage Industriel  ,
+1217	KG	60 X10 /90      50μ ,  Pour usage Industriel  ,
+3261	KG	60 X10,5 /136    50μ ,  Pour usage Industriel  ,
+1279	KG	60 X13 /176       50μ ,  Pour usage Industriel  ,
+1107	KG	60 x 17  / 92       90μ ,   Pour usage Industriel  ,
+1106	KG	60 x 17 / 130    90μ ,   Pour usage Industriel  ,
+970	KG	60 x 17 / 92    90μ ,   Pour usage Industriel  ,
+1383	KG	60 x 17 /130    120μ ,   Pour usage Industriel  ,
+1931	Kg	60 x 17 /92         90μ ,   Pour usage Industriel
+918	KG	60 x 17 /92    90μ ,   Pour usage Industriel  ,
+1382	KG	60 x 23 /155    90μ ,   Pour usage Industriel  ,
+1211	KG	60X17//92    90μ ,   Pour usage Industriel  ,
+3162	Kg	60X17/130, X 150μ Pour usage Industriel  ,
+506	KG	60X17/130, X 150μ Pour usage Industriel  , 18 colis
+1264	KG	60X17/92   90μ ,   Pour usage Industriel  ,
+1821	Kg	60X18 /100   ,   Pour usage Industriel  ,
+1030	KG	60X23/ 155 ,   Pour usage Industriel  ,
+3163	Kg	60X23/155, X 90μ Pour usage Industriel  ,
+507	KG	60X23/155, X 90μ Pour usage Industriel  , 21 colis
+845	KG	60x 18 / 100      70μ ,   Pour usage Industriel  ,
+1051	KG	60x23/155 ,    90u   Pour usage Industriel  ,
+2009	Kg	60x23/155 ,   Pour usage Industriel  ,
+3373	KG	61 X 10,5  / 136     60μ , Pour usage Industriel
+1667	Kg	61 X 23  / 125    80μ ,   Pour usage Industriel  ,
+664	KG	61 X 23 / 125     80μ ,   Pour usage Industriel  ,
+3374	KG	61 X 25  / 160     60μ , Pour usage Industriel
+1128	KG	61 X 25 /160     80μ , Pour usage Industriel
+1114	KG	61 X10,5 /136     60μ , Pour usage Industriel
+2424	Kg	61 x 10,5/ 136    50μ ,  Pour usage Industriel
+2346	Kg	61 x 24 / 100   /  80μ ,   Pour usage Industriel
+1470	KG	61 x 24 / 100 /  80μ ,   Pour usage Industriel
+1367	KG	61+23 /115   80μ ,   Pour usage Industriel  ,
+905	KG	61x18/163        80μ ,   Pour usage Industriel  ,
+906	KG	61x18/87         80μ ,   Pour usage Industriel  ,
+546	KG	61x23/115,  Pour usage Industriel  ,
+579	KG	62 / 69 ,   Pour usage Industriel  ,
+644	KG	62 / 70     70μ ,   Pour usage Industriel  ,
+1649	Kg	62 / 70   60μ ,   Pour usage Industriel  ,
+1380	KG	62 X 18 / 95    80μ ,   Pour usage Industriel  ,
+2263	Kg	62 X 18 / 95   80 μ ,   Pour usage Industriel  ,
+1875	Kg	62 X 18 /163        80 μ ,  Pour usage Industriel
+1398	KG	62 x 18 / 132     80μ ,   Pour usage Industriel  ,
+982	KG	62 x 18 / 163    70μ ,   Pour usage Industriel  ,
+2286	Kg	62 x 18 /132     80μ ,   Pour usage Industriel  ,
+1945	Kg	62 x 18 /163        70μ ,   Pour usage Industriel
+917	KG	62 x 18 /163    80μ ,   Pour usage Industriel  ,
+873	KG	62 x 25 / 155      90μ ,   Pour usage Industriel  ,
+1541	Kg	62/69 Pour usage Industriel
+520	KG	62/69,   Pour usage Industriel  ,
+1088	KG	62/70      60μ ,   Pour usage Industriel  ,
+542	KG	62/70 ,   Pour usage Industriel  ,
+555	KG	62/71,  Pour usage Industriel  ,
+1267	KG	62X18/132   80μ ,   Pour usage Industriel  ,
+1212	KG	62X18/163    70μ ,   Pour usage Industriel  ,
+1339	KG	62X18/95    80μ ,   Pour usage Industriel  ,
+1368	KG	63 / 71          70μ ,   Pour usage Industriel  ,
+2254	Kg	63 / 71   70μ ,   Pour usage Industriel  ,
+1438	KG	63 x 19 /93         80μ ,   Pour usage Industriel
+1420	KG	63 x 19 /93   80μ ,   Pour usage Industriel  ,
+1426	KG	63 x 19 /93   80μ ,   Pour usage Industriel,
+1736	Kg	63X23/126   80μ ,   Pour usage Industriel  ,
+727	KG	63x23/126      80μ ,   Pour usage Industriel  ,
+1451	KG	64 x 20 / 95   / 80μ , Pour usage Industriel
+522	KG	64/110 ,   Pour usage Industriel  ,
+3205	KG	64/95     80μ ,   Pour usage Industriel  ,
+1450	KG	65 / 73          /  60μ , Pour usage Industriel
+1280	KG	65 X13 /110      45μ ,  Pour usage Industriel  ,
+1424	KG	65/72   65μ ,   Pour usage Industriel  ,
+898	KG	68/72      50 μ ,   Pour usage Industriel  ,
+1860	Kg	68/72  50μ ,   Pour usage Industriel  ,
+907	KG	69 / 83            80μ ,   Pour usage Industriel  ,
+886	KG	72,5 / 147      80μ ,   Pour usage Industriel  ,
+897	KG	72,5/147   80μ ,   Pour usage Industriel  ,
+2285	Kg	72/85    100μ ,   Pour usage Industriel  ,
+1397	KG	72/85   100μ ,   Pour usage Industriel  ,
+1266	KG	72/85   110μ ,   Pour usage Industriel  ,
+1870	Kg	73 / 150               80μ ,   Pour usage Industriel
+1903	Kg	73 / 150         80μ ,   Pour usage Industriel
+2264	Kg	73 / 150     80μ ,   Pour usage Industriel  ,
+1429	KG	73 / 85   90μ ,   Pour usage Industriel  ,
+1453	KG	73 / 87         /  80μ , Pour usage Industriel
+577	KG	73 / 88      70μ ,   Pour usage Industriel  ,
+1474	KG	73 / 92   70μ ,   Pour usage Industriel
+1206	KG	73/150       80μ ,   Pour usage Industriel  ,
+941	KG	73/150    80μ ,   Pour usage Industriel  ,
+909	KG	73/150   80μ ,   Pour usage Industriel  ,
+1027	KG	73/150 ,    80u   Pour usage Industriel  ,
+556	KG	73/88,  Pour usage Industriel  ,
+645	KG	74 / 90         80μ ,   Pour usage Industriel  ,
+1650	Kg	74 / 90   80μ ,   Pour usage Industriel  ,
+1053	KG	74/90,           58u  Pour usage Industriel ,
+545	KG	74/90,  Pour usage Industriel  ,
+1740	Kg	76 / 90   70μ ,   Pour usage Industriel  ,
+731	KG	76/126      70μ ,   Pour usage Industriel  ,
+1089	KG	76/90      70μ ,   Pour usage Industriel  ,
+1616	Kg	77 / 140       90μ ,   Pour usage Industriel  ,
+602	KG	77 / 140     90μ ,   Pour usage Industriel  ,
+2276	Kg	77/140    70μ ,   Pour usage Industriel  ,
+1385	KG	77/140   70μ ,   Pour usage Industriel  ,
+1366	KG	77/140   90μ ,   Pour usage Industriel  ,
+1996	Kg	77/140 ,  90u  Pour usage Industriel  ,
+1034	KG	77/140 ,  90u Pour usage Industriel  ,
+1421	KG	79 / 140        65μ ,   Pour usage Industriel  ,
+1454	KG	80 / 146       /  80μ ,   Pour usage Industriel
+523	KG	85/160,   Pour usage Industriel  ,
+569	KG	87 / 163      100μ ,   Pour usage Industriel  ,
+892	KG	90 / 160   90μ ,   Pour usage Industriel  ,
+1904	Kg	90 /160         90 μ ,  Pour usage Industriel
+1954	Kg	90/160         90μ ,   Pour usage Industriel
+940	KG	90/160    90μ ,   Pour usage Industriel  ,
+904	KG	92/160              80 μ ,  Pour usage Industriel
+1207	KG	92/164      90μ ,   Pour usage Industriel  ,
+2128	Kg	92/164    90μ ,   Pour usage Industriel  ,
+1265	KG	92/164   90μ ,   Pour usage Industriel  ,
+1371	KG	92/167           95μ ,   Pour usage Industriel  ,
+2257	Kg	92/167   95μ ,   Pour usage Industriel  ,
+1422	KG	93 / 171        80μ ,   Pour usage Industriel  ,
+3206	KG	95/172      80μ ,   Pour usage Industriel  ,
+567	KG	96 / 150      100μ ,   Pour usage Industriel  ,
+1872	Kg	96 / 153              130μ ,   Pour usage Industriel  ,
+1409	KG	96/150           100μ ,   Pour usage Industriel  ,
+1192	KG	96/150       100μ ,   Pour usage Industriel  ,
+1324	KG	96/150      100μ ,   Pour usage Industriel  ,
+1241	KG	96/150     100μ ,   Pour usage Industriel  ,
+2117	Kg	96/150    100μ ,   Pour usage Industriel  ,
+2217	Kg	96/150   90μ ,   Pour usage Industriel  ,
+2152	Kg	96/150  100μ ,   Pour usage Industriel  ,
+1028	KG	96/150,  100u  Pour usage Industriel  ,
+908	KG	96/153   130μ ,   Pour usage Industriel  ,
+568	KG	97 / 130      100μ ,   Pour usage Industriel  ,
+2345	Kg	98 / 120       /  80μ , Pour usage Industriel
+1467	KG	98 / 120      /  80μ ,    Pour usage Industriel
+846	KG	BOUTEILLE STANDARD 1L
+1825	Kg	Carbonate Calcium
+849	KG	Carbonate Calcium  Pour Usage Industriel
+2722	Kg	ETANDOIRE  15   x  15 x   50 µ
+2685	Kg	ETANDOIRE  82    x  150 x   90μ
+3514	Kg	ETANDOIRE 82   x 150    x   70μ
+3499	Kg	ETANDOIRE 82 X 150 X 90µ
+1933	Kg	FILM THERMORETRACTABLE 115 / 115μ BLANC  SANS LOGO POUR USAGE INDUSTRIEL
+912	KG	FILM THERMORETRACTABLE 115 / 115μ BLANC SANS LOGO POUR USAGE INDUSTRIEL
+913	KG	FILM THERMORETRACTABLE 115 / 115μ ROUGE SANS LOGO POUR USAGE INDUSTRIEL
+2657	Kg	FILM THERMORETRACTABLE 154 * 130 sans logo
+1862	Kg	FILM THERMORETRACTABLE 175 / 120μ POUR USAGE INDUSTRIEL
+943	KG	FILM THERMORETRACTABLE 175 / 120μ POUR USAGE INDUSTRIEL 10 RX
+862	KG	FILM THERMORETRACTABLE 175 / 120μ POUR USAGE INDUSTRIEL 12 RX
+861	KG	FILM THERMORETRACTABLE 175 / 120μ POUR USAGE INDUSTRIEL 19 RX
+864	KG	FILM THERMORETRACTABLE 175 / 120μ POUR USAGE INDUSTRIEL 21 RX
+896	KG	FILM THERMORETRACTABLE 175 / 120μ POUR USAGE INDUSTRIEL 22 RX
+946	KG	FILM THERMORETRACTABLE 175 / 120μ POUR USAGE INDUSTRIEL 27 RX
+894	KG	FILM THERMORETRACTABLE 175 / 120μ POUR USAGE INDUSTRIEL 30 RX
+881	KG	FILM THERMORETRACTABLE 175 / 120μ POUR USAGE INDUSTRIEL 36 RX
+865	KG	FILM THERMORETRACTABLE 175 / 120μ POUR USAGE INDUSTRIEL 37 RX
+899	KG	FILM THERMORETRACTABLE 175 / 120μ POUR USAGE INDUSTRIEL 39 RX
+863	KG	FILM THERMORETRACTABLE 175 / 120μ POUR USAGE INDUSTRIEL 4 RX
+902	KG	FILM THERMORETRACTABLE 175 / 120μ POUR USAGE INDUSTRIEL 58 RX
+961	KG	FILM THERMORETRACTABLE 175 / 120μ POUR USAGE INDUSTRIEL 67 RX
+1091	KG	FILM THERMORETRACTABLE 68 / 100μ/120μ POUR USAGE INDUSTRIEL 3 RX
+1092	KG	FILM THERMORETRACTABLE 68 / 100μ/120μ POUR USAGE INDUSTRIEL 35 RX
+1108	KG	G,PANIER LINGE RONDE
+850	KG	GAINE  ROUGE  POLYTHELENE LDPE 120μ POUR USAGE INDUSTRIEL 11RX
+726	KG	GAINE  en LDPE Pour Usage  Industriel
+597	KG	GAINE 25 X 20μ Pour Usage Industriel , 10 ROULEAUX
+570	KG	GAINE 25 X 20μ Pour Usage Industriel , 6 ROULEAUX
+1611	Kg	GAINE 61 X 40μ Pour Usage Industriel , 10 ROULEAUX
+1735	Kg	GAINE en LDPE  Pour Usage industriel ,
+1980	None	MACHINE EXTRUDEUSE
+1810	None	MACHINE EXTRUDEUSE MODEL SJ-A55
+2214	None	MACHINE SOUDEUSE
+1172	KG	NEW PANIER LINGE CARRE
+2215	None	PARTIE MACHINE EXTRUDEUSE
+2611	Kg	POT 30L
+538	None	Pour Usage Industriel  ,
+238	KG	Rouleaux Transparent a Usage Industriel
+2723	Kg	SACHET LDPE  66/ 74 50 µ
+3494	KG	SACHET en LDPE  ( POT MIEL 1 KG )
+3492	KG	SACHET en LDPE ( G SARA )
+3495	KG	SACHET en LDPE ( POT MIEL ( 250G )
+3493	KG	SACHET en LDPE(  P REPAS )
+1281	KG	Sachet 100 x 100 x 40  TRANS ( 5378 ) F0303800  Pour Usage Industriel
+714	KG	Sachet 100 x 100 x 40  TRANS ( 5378 ) F0303800  Pour Usage Industriel 120 colis
+564	KG	Sachet 100 x 100 x 40  TRANS ( 5378 ) F0303800  Pour Usage Industriel 125 colis
+976	KG	Sachet 100 x 100 x 40  TRANS ( 5378 ) F0303800  Pour Usage Industriel 137 colis
+1171	KG	Sachet 100 x 100 x 40  TRANS ( 5378 ) F0303800  Pour Usage Industriel 148 Colis
+1033	KG	Sachet 100 x 100 x 40  TRANS ( 5378 ) F0303800  Pour Usage Industriel 149  colis
+353	KG	Sachet 100 x 100 x 40  TRANS ( 5378 ) F0303800  Pour Usage Industriel 150 colis
+1125	KG	Sachet 100 x 100 x 40  TRANS ( 5378 ) F0303800  Pour Usage Industriel 152 Colis
+619	KG	Sachet 100 x 100 x 40  TRANS ( 5378 ) F0303800  Pour Usage Industriel 152 colis
+1093	KG	Sachet 100 x 100 x 40  TRANS ( 5378 ) F0303800  Pour Usage Industriel 153 Colis
+911	KG	Sachet 100 x 100 x 40  TRANS ( 5378 ) F0303800  Pour Usage Industriel 153 colis
+280	KG	Sachet 100 x 100 x 40  TRANS ( 5378 ) F0303800  Pour Usage Industriel 202 colis
+715	KG	Sachet 100 x 100 x 40  TRANS ( 5378 ) F0303800  Pour Usage Industriel 29 colis
+399	KG	Sachet 100 x 100 x 40  TRANS ( 5378 ) F0303800  Pour Usage Industriel 51 colis
+263	KG	Sachet 100 x 100 x 40  TRANS ( 5378 ) F0303800  Pour Usage Industriel 57 colis
+264	KG	Sachet 100 x 100 x 40  TRANS ( 5378 ) F0303800  Pour Usage Industriel 65 colis
+565	KG	Sachet 100 x 100 x 40  TRANS ( 5378 ) F0303800  Pour Usage Industriel 76 colis
+265	KG	Sachet 100 x 100 x 40  TRANS ( 5378 ) F0303800  Pour Usage Industriel 82 colis
+1793	Kg	Sachet 100 x 100 x 40  TRANS F0303800  Pour Usage Industriel
+802	KG	Sachet 100 x 100 x 40  TRANS F0303800  Pour Usage Industriel 100 colis
+1472	KG	Sachet 100 x 100 x 40  TRANS F0303800  Pour Usage Industriel 106  colis
+876	KG	Sachet 100 x 100 x 40  TRANS F0303800  Pour Usage Industriel 111 colis
+1305	KG	Sachet 100 x 100 x 40  TRANS F0303800  Pour Usage Industriel 145 colis
+1423	KG	Sachet 100 x 100 x 40  TRANS F0303800  Pour Usage Industriel 156  colis
+1351	KG	Sachet 100 x 100 x 40  TRANS F0303800  Pour Usage Industriel 26 colis
+1372	KG	Sachet 100 x 100 x 40  TRANS F0303800  Pour Usage Industriel 33 colis
+1352	KG	Sachet 100 x 100 x 40  TRANS F0303800  Pour Usage Industriel 57 colis
+1353	KG	Sachet 100 x 100 x 40  TRANS F0303800  Pour Usage Industriel 68 colis
+1373	KG	Sachet 100 x 100 x 40  TRANS F0303800  Pour Usage Industriel 71  colis
+875	KG	Sachet 100 x 100 x 40  TRANS F0303800  Pour Usage Industriel 75 colis
+3219	KG	Sachet 100 x 100 x 40  TRANS Pour Usage Industriel
+1124	KG	Sachet Neutre BOITE CARRE Pour Usage Industriel
+1121	KG	Sachet Neutre BOITE KHADIJA Pour Usage Industriel
+1122	KG	Sachet Neutre BOITE NEZHA Pour Usage Industriel
+1123	KG	Sachet Neutre GRANDE BOITE KIKA Pour Usage Industriel
+1120	KG	Sachet Neutre SALADIER Pour Usage Industriel
+2929	Kg	Sachet Rail 2120 X 108    // F0308500
+222	KG	Sachet Rail 2120 X 108    // F0308500 Pour Usage Industriel 20 colis
+2544	Kg	Sachet Standar
+2693	Kg	Sachet Standard
+2638	Kg	Sachet en ( G. POT CARRE)
+2385	Kg	Sachet en ( LDPE NG BASSINE CARREE)
+2601	Kg	Sachet en ( NV. G .BASSINE )
+2447	Kg	Sachet en ( P . ETAGERRE)
+2620	Kg	Sachet en ( P. POT CARRE)
+2550	Kg	Sachet en (B. HAWAI )
+2654	Kg	Sachet en (B. STANDARD 1 L )
+2501	Kg	Sachet en (B. STANDARD 1 L)
+2688	Kg	Sachet en (B. STANDARD 1L )
+2551	Kg	Sachet en (B. STANDARD)
+2702	Kg	Sachet en (BASSINE BABY)
+2582	Kg	Sachet en (BASSINE SALADE )
+2587	Kg	Sachet en (BASSINE SALADE)
+2492	Kg	Sachet en (BOCAL 3L )
+2481	Kg	Sachet en (BOITE HAKAKA)
+2491	Kg	Sachet en (BOITE NORA)
+2490	Kg	Sachet en (BOITE ROND)
+2634	Kg	Sachet en (BOITE YASSMINE )
+2500	Kg	Sachet en (BOTAL 1L)
+2712	Kg	Sachet en (BOTTLE 1L)
+2622	Kg	Sachet en (CASROLE ROND )
+2632	Kg	Sachet en (G . ETAGERE)
+2619	Kg	Sachet en (G . PANNIER LINGE ROND )
+2664	Kg	Sachet en (G . REPAS)
+2653	Kg	Sachet en (G . SARA)
+2623	Kg	Sachet en (G, EGOUTOIR )
+2464	Kg	Sachet en (G, SARA)
+2554	Kg	Sachet en (G,REPAS )
+2553	Kg	Sachet en (G,SANDRILA )
+2676	Kg	Sachet en (G. ATLANTIQUE )
+2581	Kg	Sachet en (G. BASSINE BANDA )
+2719	Kg	Sachet en (G. EGOUTOIR)
+2718	Kg	Sachet en (G. PANNIER LINGE CARRE )
+2641	Kg	Sachet en (G. PARRABALL )
+2468	Kg	Sachet en (G. SACHET COL)
+2579	Kg	Sachet en (G. SARA )
+2589	Kg	Sachet en (LUNCH BOX 4 L )
+2679	Kg	Sachet en (M. BOITE CARREE)
+2678	Kg	Sachet en (MIAMI 1L)
+2604	Kg	Sachet en (MINI PLACARD )
+2633	Kg	Sachet en (MINI PLACARD)
+2552	Kg	Sachet en (MOJETO )
+2588	Kg	Sachet en (NEW . P. BASSINE CARRE)
+2703	Kg	Sachet en (NEW . PANNIER COUVERCLE)
+2586	Kg	Sachet en (NEW. M. BASSINE CARRE )
+2576	Kg	Sachet en (NV  G, BASSINE CARRE )
+2603	Kg	Sachet en (NV . PANNIER COUVERCLE )
+2575	Kg	Sachet en (P ETAGERE )
+2577	Kg	Sachet en (P, BOITE FRIGO )
+2573	Kg	Sachet en (P, EGOUTOIR)
+2574	Kg	Sachet en (P, SARA)
+2713	Kg	Sachet en (P. BOITE ATLANTIQUE )
+2580	Kg	Sachet en (P. BOITE KIKA)
+2640	Kg	Sachet en (P. EGOUTOIR )
+2605	Kg	Sachet en (P. PANABALL )
+2602	Kg	Sachet en (P. PANNIER CARRE)
+2583	Kg	Sachet en (P. PARRA BALL )
+2690	Kg	Sachet en (P. REPAS)
+2639	Kg	Sachet en (PANNIER ILAF )
+3351	KG	Sachet en (POT MIEL 1 KG )
+2518	Kg	Sachet en (POT MIEL 1 KG)
+2510	Kg	Sachet en (POT MIEL 1,5 KG)
+2532	Kg	Sachet en (POT MIEL 1KG )
+2691	Kg	Sachet en (POT MIEL 250G )
+2711	Kg	Sachet en (POT MIEL 500 G)
+2513	Kg	Sachet en (POT MIEL 500G)
+2606	Kg	Sachet en (POUBELLE CARREE)
+2482	Kg	Sachet en (POUBELLE ROND)
+2530	Kg	Sachet en (SEAU 12 L )
+2600	Kg	Sachet en (SEAU 12L )
+2531	Kg	Sachet en (SEAU 17 L )
+2511	Kg	Sachet en (SEAU 2 L)
+2704	Kg	Sachet en (SEAU 5 L)
+2512	Kg	Sachet en (SEAU 6 L TIGRE)
+2483	Kg	Sachet en (SEAU A GATEAU 5 L )
+2621	Kg	Sachet en (SEAU AICHA )
+2680	Kg	Sachet en (VERRE )
+2661	Kg	Sachet en (VERRE)
+799	KG	Sachet en LDPE   ( SEAU 15L )
+494	Kg	Sachet en LDPE   102/156      , X 65μ Pour Usage Industriel ,
+2709	Kg	Sachet en LDPE  (72 +12)  / 135 X 60μ
+2636	Kg	Sachet en LDPE  (G. POT EXAGONAL)
+533	KG	Sachet en LDPE  102/156 , X 70μ Pour Usage Industriel  52 colis
+1757	Kg	Sachet en LDPE  25/45 , X 80μ Pour Usage industriel
+3475	KG	Sachet en LDPE  28 / 45, X 40 μ Pour  Usage Industriel
+2721	Kg	Sachet en LDPE  35  / 61  X 40 μ
+2367	Kg	Sachet en LDPE  35 / 38    40μ Pour Usage industriel
+2368	kg	Sachet en LDPE  35 / 38    50μ Pour Usage industriel
+3526	KG	Sachet en LDPE  35 / 61  x 40 μ Pour  Usage Industriel
+1333	KG	Sachet en LDPE  46 X 15 / 120, X 65μ Pour Usage Industriel ,
+2224	Kg	Sachet en LDPE  46 X 15 / 120, X 65μ Pour usage industriel ,
+2404	Kg	Sachet en LDPE  46,5  / 95 , X 60 μ SAFA 4 L
+632	KG	Sachet en LDPE  48/90,   X 80μ Pour Usage Industriel  ,
+1792	Kg	Sachet en LDPE  49 / 75 , X 40μ Pour Usage industriel
+550	KG	Sachet en LDPE  50/90 , X 70μ Pour Usage Industriel  15 colis
+3085	Kg	Sachet en LDPE  50X80/10cm  , X 40mμ Pour Usage Industriel
+460	KG	Sachet en LDPE  52 X 10 / 120 , X 45μ Pour Usage Industriel  16 colis
+470	KG	Sachet en LDPE  52 X 23 / 155, X 80μ Pour Usage Industriel  32 colis ,
+532	KG	Sachet en LDPE  52X10/165 , X 70μ Pour Usage Industriel  18 colis
+2472	Kg	Sachet en LDPE  53,5  / 87  X 80 μ
+2495	Kg	Sachet en LDPE  53,5 / 90  , X 80 μ
+700	KG	Sachet en LDPE  54/130,X 70mμ Pour Usage Industriel
+3500	KG	Sachet en LDPE  55 / 103, X 35 μ Pour  Usage Industriel
+2493	Kg	Sachet en LDPE  56  / 108 , X 80 μ
+3086	Kg	Sachet en LDPE  56X90/10cm  , X 40mμ Pour Usage Industriel
+459	KG	Sachet en LDPE  60 / 140 , X 65μ Pour Usage Industriel  15 colis
+2391	Kg	Sachet en LDPE  60 /100, X 45μ Pour Usage Industriel
+643	KG	Sachet en LDPE  60 X 10/100 , X 70μ Pour Usage Industriel  16 colis
+3459	KG	Sachet en LDPE  60 X 11 / 135, X 60μ Pour  Usage Industriel
+640	KG	Sachet en LDPE  60 X 11 / 135, X 60μ Pour Usage Industriel
+402	KG	Sachet en LDPE  60 X 11 / 135, X 60μ Pour Usage Industriel 25 colis
+433	KG	Sachet en LDPE  60 X 11 / 135, X 60μ Pour Usage Industriel 26 colis
+488	KG	Sachet en LDPE  60 X 11 / 135, X 60μ Pour Usage Industriel 27 colis
+551	KG	Sachet en LDPE  60 X 11 / 135, X 60μ Pour Usage Industriel 28 colis
+3383	KG	Sachet en LDPE  60 X 11 / 135, X 65μ Pour  Usage Industriel
+1077	KG	Sachet en LDPE  60 X 15 / 85, X 36μ Pour Usage Industriel
+654	KG	Sachet en LDPE  60 X 15 / 85, X 60μ Pour Usage Industriel
+3084	Kg	Sachet en LDPE  60/100  , X 40mμ Pour Usage Industriel
+552	KG	Sachet en LDPE  60/140 , X 70μ Pour Usage Industriel  15 colis
+505	KG	Sachet en LDPE  60/90 , X 55μ Pour Usage Industriel  17 colis
+371	KG	Sachet en LDPE  60X10/100, X 70μ Pour Usage Industriel  17 colis
+534	KG	Sachet en LDPE  60X10/103 , X 70μ Pour Usage Industriel  17 colis
+3294	None	Sachet en LDPE  60x15 / 85x 45µ Pour Usage  Industriel
+642	KG	Sachet en LDPE  62 X 10 /156 , X 70μ Pour Usage Industriel  50 colis
+1763	Kg	Sachet en LDPE  62 x 21 /190 , X 80μ Pour Usage industriel
+531	KG	Sachet en LDPE  62X10/156 , X 70μ Pour Usage Industriel  52 colis
+2425	Kg	Sachet en LDPE  63,5  / 83 , X 80 μ BASSINE EXAGONE
+3262	KG	Sachet en LDPE  63,5  / 83 , X 80 μ BASSINE EXAGONE Usage  Industriel
+2471	Kg	Sachet en LDPE  65  / 108  X 80 μ
+1226	KG	Sachet en LDPE  65 X 13 / 110, X 45μ Pour
+1144	KG	Sachet en LDPE  65 X 13 / 110, X 50μ Pour
+1316	KG	Sachet en LDPE  65 X 13 / 155, X 45μ Pour Usage Industriel ,
+2208	Kg	Sachet en LDPE  65 X 13 / 155, X 45μ Pour usage industriel ,
+461	KG	Sachet en LDPE  65 X 13 / 155, X 60μ Pour Usage Industriel 53 colis
+1139	KG	Sachet en LDPE  65 X 13 / 80, X 50μ Pour
+1145	KG	Sachet en LDPE  65 X 13 /80, X 50μ Pour
+1140	KG	Sachet en LDPE  65 X 16 / 80, X 50μ Pour
+858	KG	Sachet en LDPE  65/120, X 80μ Pour Usage Industriel  15 colis ,
+3293	KG	Sachet en LDPE  65x13 / 80x 50μ Pour Usage  Industriel
+2405	None	Sachet en LDPE  66  / 95 , X 80 μ BASSINE 36
+3042	Kg	Sachet en LDPE  66 X 10  / 88  , X 40mμ Pour Usage Industriel
+3474	KG	Sachet en LDPE  70 / 135, X 60μ Pour  Usage Industriel
+1468	KG	Sachet en LDPE  72 X 12 / 140, X 65μ Pour
+3228	KG	Sachet en LDPE  72 X 12 / 140, X 65μ Pour  Usage Industriel
+1325	KG	Sachet en LDPE  72 X 12 / 140, X 65μ Pour Usage Industriel
+519	KG	Sachet en LDPE  72 X 23 / 180, X 80μ Pour Usage Industriel  33 colis ,
+1341	KG	Sachet en LDPE  74 X 13 / 140 X 65μ Pour Usage Industriel
+1323	KG	Sachet en LDPE  74 X 13 / 140, X 65μ Pour Usage Industriel
+2720	Kg	Sachet en LDPE  75  / 150  X 55 μ
+3525	KG	Sachet en LDPE  75 / 150 x 55 μ Pour  Usage Industriel
+3083	Kg	Sachet en LDPE  75/130  , X 40mμ Pour Usage Industriel
+490	KG	Sachet en LDPE  80 X 20 / 110  , X 20mμ Pour Usage Industriel ,
+2494	Kg	Sachet en LDPE  81  / 88 , X 80 μ
+384	KG	Sachet en LDPE  84 X 8 / 130 , X 70μ Pour Usage Industriel  15 colis
+434	KG	Sachet en LDPE  84 X 8 / 130 , X 70μ Pour Usage Industriel  16 colis
+1733	Kg	Sachet en LDPE  95/154 SOUFFLET 20cm, Pour Usage Industriel
+3087	Kg	Sachet en LDPE  95X190/10cm  , X 40mμ Pour Usage Industriel
+3037	Kg	Sachet en LDPE  Pour Usage industriel ,
+363	KG	Sachet en LDPE (  ) Pour Usage Industriel ,
+1336	KG	Sachet en LDPE (  BASSINE BEBY )
+1430	KG	Sachet en LDPE (  BIDOU 5L  )
+1401	KG	Sachet en LDPE (  BOCAL 3L )
+816	KG	Sachet en LDPE (  P, ETAGIER INTER   )
+822	KG	Sachet en LDPE (  P, POT HEXAGONAL )
+841	KG	Sachet en LDPE (  POUBELLE ROND )
+1156	KG	Sachet en LDPE ( 16/40)
+2403	Kg	Sachet en LDPE ( 31,5 + 5) / 69, X 70 μ Pour Usage industriel ,
+1138	KG	Sachet en LDPE ( 33 +   /80 )
+1157	KG	Sachet en LDPE ( 35 X6 /72 )
+2681	Kg	Sachet en LDPE ( 47 + 6 ) / 90   70μ pour  usage industriel
+2683	Kg	Sachet en LDPE ( 47 + 6 ) / 90  70μ pour  usage industriel
+614	KG	Sachet en LDPE ( B , HIND  )
+3113	Kg	Sachet en LDPE ( B , HIND  ) Pour Usage Industriel  ,
+3160	Kg	Sachet en LDPE ( B , HIND ) Pour Usage Industriel  , Pour Usage Industriel  ,
+1900	Kg	Sachet en LDPE ( B , NOURA  )
+955	KG	Sachet en LDPE ( B , STANDARD 1 L  )
+744	KG	Sachet en LDPE ( B , STANDARD 1L )
+1001	KG	Sachet en LDPE ( B , STANDARD 500G )
+2485	Kg	Sachet en LDPE ( B HIND)
+3350	KG	Sachet en LDPE ( B STANDAR 1 L )
+1237	KG	Sachet en LDPE ( B STANDARD  1 L )
+1018	KG	Sachet en LDPE ( B STANDARD 1L )
+1043	KG	Sachet en LDPE ( B STANDARD 500G )
+411	KG	Sachet en LDPE ( B STANDARD 500G ) Pour Usage Industriel ,
+678	KG	Sachet en LDPE ( B,  HIND  )
+705	KG	Sachet en LDPE ( B,  NOURA  )
+1168	KG	Sachet en LDPE ( B, HAFIDA )
+1296	KG	Sachet en LDPE ( B, HAKAKA )
+1200	KG	Sachet en LDPE ( B, HAWAI  )
+658	KG	Sachet en LDPE ( B, HIND  )
+504	KG	Sachet en LDPE ( B, HIND  ) Pour Usage Industriel  ,
+613	KG	Sachet en LDPE ( B, HIND )
+1297	KG	Sachet en LDPE ( B, MEGA )
+1236	KG	Sachet en LDPE ( B, NAWAL )
+373	KG	Sachet en LDPE ( B, NORA ) Pour Pour Usage Industriel ,
+650	KG	Sachet en LDPE ( B, NOURA  )
+1672	Kg	Sachet en LDPE ( B, NOURA  ) Sachet en LDPE ( B, HIND  )
+1654	Kg	Sachet en LDPE ( B, NOURA )
+498	KG	Sachet en LDPE ( B, NOURA ) Pour Usage Industriel  ,
+1177	KG	Sachet en LDPE ( B, OLIVE  )
+1413	KG	Sachet en LDPE ( B, OLIVE )
+513	KG	Sachet en LDPE ( B, STANDARD  1 L ) Pour Usage Industriel  ,
+1176	KG	Sachet en LDPE ( B, STANDARD  1L )
+1155	KG	Sachet en LDPE ( B, STANDARD  1L ) Sachet en LDPE ( B, HIND )
+1179	KG	Sachet en LDPE ( B, STANDARD  500 CL )
+486	KG	Sachet en LDPE ( B, STANDARD 1 L   ) Pour Usage Industriel  ,
+1683	Kg	Sachet en LDPE ( B, STANDARD 1 L  )
+708	KG	Sachet en LDPE ( B, STANDARD 1 L )
+979	KG	Sachet en LDPE ( B, STANDARD 1L  )
+1074	KG	Sachet en LDPE ( B, STANDARD 1L )
+376	KG	Sachet en LDPE ( B, STANDARD 1L ) Pour Usage Industriel  ,
+648	KG	Sachet en LDPE ( B, STANDARD 500G  )
+1362	KG	Sachet en LDPE ( B, STANDARD 500G )
+1076	KG	Sachet en LDPE ( B,HAFIDA )
+1135	KG	Sachet en LDPE ( B,HAKKAKA  )
+1688	Kg	Sachet en LDPE ( B,HIND  )
+449	KG	Sachet en LDPE ( B,HIND  ) Pour Usage Industriel  ,
+692	KG	Sachet en LDPE ( B,HIND )
+1187	KG	Sachet en LDPE ( B,NAWAL  )
+3065	Kg	Sachet en LDPE ( B,ROND 1,4 L ) Pour Usage Industriel  ,
+397	KG	Sachet en LDPE ( B,ROND 1,4 L ) Pour Usage Industriel ,
+467	KG	Sachet en LDPE ( B,STANDARD 1 L ) Pour Usage Industriel  ,
+1690	Kg	Sachet en LDPE ( B,STANDARD 1L  )
+3114	Kg	Sachet en LDPE ( B,STANDARD 1L  ) Pour Pour Usage Industriel ,
+673	KG	Sachet en LDPE ( B,STANDARD 1L )
+450	KG	Sachet en LDPE ( B,STANDARD 1L ) Pour Usage Industriel  , Sachet en LDPE ( G, SARA  ) Pour Usage Industriel  , Sachet en LDPE ( B,STANDARD 1L ) Pour Usage Industriel  , Sachet en LDPE ( B,STANDARD 500G ) Pour Usage Industriel  , Sachet en LDPE ( NEW POUBELLE  ) Pour Usage Industriel  , Sachet en LDPE ( SEAU 6 L ) Pour Usage Industriel  ,
+3104	Kg	Sachet en LDPE ( B,STANDARD 500G  ) Pour Pour Usage Industriel ,
+1653	Kg	Sachet en LDPE ( B,STANDARD 500G )
+3115	Kg	Sachet en LDPE ( B,STANDARD 500G ) Pour Pour Usage Industriel  ,
+442	KG	Sachet en LDPE ( B,STANDARD 500G ) Pour Usage Industriel  , Sachet en LDPE ( G,PANIER CARRE  ) Pour Usage Industriel  , Sachet en LDPE ( P,SARA ) Pour Usage Industriel  , Sachet en LDPE ( SEAU 5 L  ) Pour Usage Industriel  ,
+2477	Kg	Sachet en LDPE ( B. STANDARD 1L)
+1109	KG	Sachet en LDPE ( BASSINE  BABY  )
+610	KG	Sachet en LDPE ( BASSINE 34 )
+410	KG	Sachet en LDPE ( BASSINE 34 ) Pour Usage Industriel  ,
+826	KG	Sachet en LDPE ( BASSINE 34 L )
+840	KG	Sachet en LDPE ( BASSINE BABY  )
+793	KG	Sachet en LDPE ( BASSINE BABY )
+1298	KG	Sachet en LDPE ( BASSINE BEBY  )
+1244	KG	Sachet en LDPE ( BASSINE BEBY )
+804	KG	Sachet en LDPE ( BASSINE NOVA  )
+667	KG	Sachet en LDPE ( BASSINE SALADE  )
+1671	Kg	Sachet en LDPE ( BASSINE SALADE  ) Sachet en LDPE ( SEAU 22 L )
+593	KG	Sachet en LDPE ( BASSINE SALADE )
+462	KG	Sachet en LDPE ( BASSINE SALADE ) Pour Usage Industriel  ,
+1897	Kg	Sachet en LDPE ( BELLE   )
+935	KG	Sachet en LDPE ( BELLE  )
+1895	Kg	Sachet en LDPE ( BIDON 5 L   )
+933	KG	Sachet en LDPE ( BIDON 5 L )
+1238	KG	Sachet en LDPE ( BIDON 5L  )
+925	KG	Sachet en LDPE ( BIDON 5L )
+1024	KG	Sachet en LDPE ( BIDON JERICAN  10L )
+965	KG	Sachet en LDPE ( BIDON JERIKAN )
+1395	KG	Sachet en LDPE ( BIDOU 5 L  )
+1344	KG	Sachet en LDPE ( BIDOU 5 L )
+1317	KG	Sachet en LDPE ( BIDOU 5L )
+1376	KG	Sachet en LDPE ( BIDOU GIRIKAN )
+1038	KG	Sachet en LDPE ( BIGA 4 )
+1057	KG	Sachet en LDPE ( BIGA 5  )
+1040	KG	Sachet en LDPE ( BIGA 5 )
+1025	KG	Sachet en LDPE ( BIGA ETAGAIRE 4 )
+1026	KG	Sachet en LDPE ( BIGA ETAGAIRE 5 )
+956	KG	Sachet en LDPE ( BOCAL  1 L )
+990	KG	Sachet en LDPE ( BOCAL  ROND 2L )
+1065	KG	Sachet en LDPE ( BOCAL 1 )
+1484	KG	Sachet en LDPE ( BOCAL 1 L  )
+1224	KG	Sachet en LDPE ( BOCAL 1 L )
+1046	KG	Sachet en LDPE ( BOCAL 1L )
+812	KG	Sachet en LDPE ( BOCAL 2 L ROND )
+1047	KG	Sachet en LDPE ( BOCAL 2L )
+818	KG	Sachet en LDPE ( BOCAL 2L CARRE )
+1232	KG	Sachet en LDPE ( BOCAL 2L ROND )
+783	KG	Sachet en LDPE ( BOCAL 3 )
+1294	KG	Sachet en LDPE ( BOCAL 3 L )
+743	KG	Sachet en LDPE ( BOCAL 3L )
+2440	Kg	Sachet en LDPE ( BOCAL 3L)
+1094	KG	Sachet en LDPE ( BOCAL ROND 2L )
+1418	KG	Sachet en LDPE ( BOCHON STANDARD )
+1253	KG	Sachet en LDPE ( BOIT A PICE 5PCS  )
+1899	Kg	Sachet en LDPE ( BOIT HIND  )
+1158	KG	Sachet en LDPE ( BOITE  HIND )
+1475	KG	Sachet en LDPE ( BOITE A EPICE  )
+825	KG	Sachet en LDPE ( BOITE A EPICE  4PCS )
+780	KG	Sachet en LDPE ( BOITE A EPICE  5PCS )
+1278	KG	Sachet en LDPE ( BOITE A EPICE 4 PCS  )
+762	KG	Sachet en LDPE ( BOITE A EPICE 4PCS )
+656	KG	Sachet en LDPE ( BOITE A GATEAU  )
+1661	Kg	Sachet en LDPE ( BOITE A GATEAU  ) Sachet en LDPE ( SEAU 22 L )
+674	KG	Sachet en LDPE ( BOITE A GATEAU )
+1393	KG	Sachet en LDPE ( BOITE HAFIDA  )
+786	KG	Sachet en LDPE ( BOITE HAFIDA )
+968	KG	Sachet en LDPE ( BOITE HAKAKA  )
+1056	KG	Sachet en LDPE ( BOITE HAKAKA )
+798	KG	Sachet en LDPE ( BOITE HAKKAKA  )
+938	KG	Sachet en LDPE ( BOITE HIND )
+2269	Kg	Sachet en LDPE ( BOITE KIKA )
+820	KG	Sachet en LDPE ( BOITE NADA )
+1081	KG	Sachet en LDPE ( BOITE NORA )
+785	KG	Sachet en LDPE ( BOITE NOURA )
+966	KG	Sachet en LDPE ( BOITE ROND  )
+2395	Kg	Sachet en LDPE ( BOTEL 1L )
+1651	Kg	Sachet en LDPE ( BOTTLE   )
+660	KG	Sachet en LDPE ( BOTTLE 1 L  )
+704	KG	Sachet en LDPE ( BOTTLE 1 L )
+1178	KG	Sachet en LDPE ( BOTTLE 1L   )
+604	KG	Sachet en LDPE ( BOTTLE 1L )
+3099	Kg	Sachet en LDPE ( BOTTLE ROND ) Pour Usage Industriel  ,
+1442	KG	Sachet en LDPE ( BOUCHON STANDARD )
+828	KG	Sachet en LDPE ( BOUTEILLE STANDARD 1 L )
+809	KG	Sachet en LDPE ( BOUTEILLE STANDARD 500 )
+652	KG	Sachet en LDPE ( BOUTTLE )
+1149	KG	Sachet en LDPE ( Boite Hafida )
+1048	KG	Sachet en LDPE ( CASROL ROND  )
+1060	KG	Sachet en LDPE ( CASROL ROND )
+1102	KG	Sachet en LDPE ( CASROL TIGRE )
+931	KG	Sachet en LDPE ( CASSROL ROND  )
+740	KG	Sachet en LDPE ( COCKTEL )
+1624	Kg	Sachet en LDPE ( EXTRA 3  )
+609	KG	Sachet en LDPE ( EXTRA 3 )
+378	KG	Sachet en LDPE ( EXTRA 3 ) Pour Pour Usage Industriel ,
+581	KG	Sachet en LDPE ( EXTRA 3 ) Pour Usage Industriel  ,
+487	KG	Sachet en LDPE ( EXTRA 4   ) Pour Usage Industriel  ,
+3146	Kg	Sachet en LDPE ( EXTRA 4   ) Pour Usage Industriel  , Pour Usage Industriel  ,
+608	KG	Sachet en LDPE ( EXTRA 4  )
+694	KG	Sachet en LDPE ( EXTRA 4 )
+394	KG	Sachet en LDPE ( EXTRA 4 ) Pour Usage Industriel  ,
+1020	KG	Sachet en LDPE ( EXTRA 5 )
+1039	KG	Sachet en LDPE ( EXTRA 6 )
+1010	KG	Sachet en LDPE ( EXTRAT 3 )
+1011	KG	Sachet en LDPE ( EXTRAT 4 )
+1012	KG	Sachet en LDPE ( EXTRAT 5 )
+1013	KG	Sachet en LDPE ( EXTRAT 6 )
+1483	KG	Sachet en LDPE ( FLACON 1,5 L  )
+1487	KG	Sachet en LDPE ( FLACON 2 L )
+952	KG	Sachet en LDPE ( G ,  SARA  )
+716	KG	Sachet en LDPE ( G , BOITE A GATEAU )
+1307	KG	Sachet en LDPE ( G , BOITE FRIGO  )
+1173	KG	Sachet en LDPE ( G , EGOUTOIR )
+998	KG	Sachet en LDPE ( G , ETAGAIRE  )
+796	KG	Sachet en LDPE ( G , IGOUTOIR  )
+1656	Kg	Sachet en LDPE ( G , PANIER CARRE )
+928	KG	Sachet en LDPE ( G , PANIER FRUIT )
+3098	Kg	Sachet en LDPE ( G , POT EXAGONAL ) Pour Usage Industriel  ,
+695	KG	Sachet en LDPE ( G , SARA  )
+3103	Kg	Sachet en LDPE ( G , SARA  ) Pour Usage Industriel  ,
+3139	Kg	Sachet en LDPE ( G , SARA  ) Pour Usage Industriel ,
+1391	KG	Sachet en LDPE ( G BOITE KIKA )
+1361	KG	Sachet en LDPE ( G ETAGEIR )
+1082	KG	Sachet en LDPE ( G PANIER LINGE CARRE )
+1062	KG	Sachet en LDPE ( G PANIER LINGE ROND )
+1070	KG	Sachet en LDPE ( G POT MEIL 500G )
+1248	KG	Sachet en LDPE ( G REPAS  )
+2274	Kg	Sachet en LDPE ( G,  SARA )
+817	KG	Sachet en LDPE ( G, BASSINE BANDA  )
+1674	Kg	Sachet en LDPE ( G, BASSINE CARRE   )
+668	KG	Sachet en LDPE ( G, BASSINE CARRE  )
+580	KG	Sachet en LDPE ( G, BASSINE CARRE ) Pour Usage Industriel  ,
+484	KG	Sachet en LDPE ( G, BOITE A GATEAU  ) Pour Usage Industriel  ,
+706	KG	Sachet en LDPE ( G, BOITE A GATEAU )
+800	KG	Sachet en LDPE ( G, BOITE CARRE  )
+1080	KG	Sachet en LDPE ( G, BOITE CARRE )
+967	KG	Sachet en LDPE ( G, BOITE FRIGO )
+981	KG	Sachet en LDPE ( G, BOITE GATEAU )
+795	KG	Sachet en LDPE ( G, BOITE KIKA  )
+1293	KG	Sachet en LDPE ( G, EGOUTOIR )
+1170	KG	Sachet en LDPE ( G, ETAGAIRE  )
+1021	KG	Sachet en LDPE ( G, ETAGAIRE )
+1204	KG	Sachet en LDPE ( G, ETAGEIR    )
+1272	KG	Sachet en LDPE ( G, ETAGEIR )
+1085	KG	Sachet en LDPE ( G, ETAGEIRE )
+953	KG	Sachet en LDPE ( G, ETAGIERE   )
+950	KG	Sachet en LDPE ( G, IGOUTOIR  )
+1311	KG	Sachet en LDPE ( G, IGOUTOIR )
+510	KG	Sachet en LDPE ( G, IGOUTOIR ) Pour Usage Industriel  ,
+2373	Kg	Sachet en LDPE ( G, NEW PANIER LING CARRE)
+747	KG	Sachet en LDPE ( G, NEW,PANIER LINGE )
+1201	KG	Sachet en LDPE ( G, PANABALL  )
+651	KG	Sachet en LDPE ( G, PANIER CARRE  )
+3105	Kg	Sachet en LDPE ( G, PANIER CARRE  ) Pour Usage Industriel  ,
+374	KG	Sachet en LDPE ( G, PANIER CARRE ) Pour Usage Industriel  ,
+963	KG	Sachet en LDPE ( G, PANIER FRUIT  )
+1002	KG	Sachet en LDPE ( G, PANIER LINGE CARRE )
+1249	KG	Sachet en LDPE ( G, PANIER LINGE ROND )
+2430	Kg	Sachet en LDPE ( G, PANNIER LING ROND )
+2398	Kg	Sachet en LDPE ( G, PANNIER LINGE CARREE )
+791	KG	Sachet en LDPE ( G, PARABALL  )
+2375	Kg	Sachet en LDPE ( G, POT  CARRE )
+1195	KG	Sachet en LDPE ( G, POT CARRE  )
+808	KG	Sachet en LDPE ( G, POT CARRE )
+611	KG	Sachet en LDPE ( G, POT EXAGONAL  )
+1285	KG	Sachet en LDPE ( G, POT EXAGONAL )
+1347	KG	Sachet en LDPE ( G, POT LINGE CARRE )
+810	KG	Sachet en LDPE ( G, POT MIEL 250G  )
+765	KG	Sachet en LDPE ( G, POT MIEL 500G )
+1223	KG	Sachet en LDPE ( G, REPAS  )
+1402	KG	Sachet en LDPE ( G, REPAS )
+638	KG	Sachet en LDPE ( G, SARA  )
+508	KG	Sachet en LDPE ( G, SARA  ) Pour Usage Industriel  ,
+631	KG	Sachet en LDPE ( G, SARA )
+441	KG	Sachet en LDPE ( G, SARA ) Pour Usage Industriel  ,
+2396	Kg	Sachet en LDPE ( G, SARA)
+606	KG	Sachet en LDPE ( G,BOITE A GATEAU  )
+2401	None	Sachet en LDPE ( G,BOITE CARREE  )
+794	KG	Sachet en LDPE ( G,BOITE FRIGO )
+1105	KG	Sachet en LDPE ( G,BOITE KIKA  )
+1041	KG	Sachet en LDPE ( G,BOITE KIKA )
+980	KG	Sachet en LDPE ( G,N BASSINE CARRE  )
+764	KG	Sachet en LDPE ( G,NEW PANIER LINGE CARRE )
+443	KG	Sachet en LDPE ( G,PANIER CARRE  ) Pour Usage Industriel  ,
+689	KG	Sachet en LDPE ( G,PANIER CARRE )
+1417	KG	Sachet en LDPE ( G,PANIER LINGE ROND )
+463	KG	Sachet en LDPE ( G,POT CARRE  ) Pour Usage Industriel  ,
+1189	KG	Sachet en LDPE ( G,POT CARRE )
+1218	KG	Sachet en LDPE ( G,POT EXAGONAL )
+466	KG	Sachet en LDPE ( G,POT EXAGONAL ) Pour Usage Industriel  ,
+3064	Kg	Sachet en LDPE ( G,POT EXAGONALE ) Pour Usage Industriel  ,
+396	KG	Sachet en LDPE ( G,POT EXAGONALE ) Pour Usage Industriel ,
+737	KG	Sachet en LDPE ( G,POT MIEL 500G  )
+1165	KG	Sachet en LDPE ( G,REPAS )
+1191	KG	Sachet en LDPE ( G,SACHET COULEUR  )
+1642	Kg	Sachet en LDPE ( G,SARA   )
+3096	Kg	Sachet en LDPE ( G,SARA  ) Pour Pour Usage Industriel ,
+1162	KG	Sachet en LDPE ( G,SARA )
+769	KG	Sachet en LDPE ( G,SEAU POUBELLE )
+741	KG	Sachet en LDPE ( G-BASSINE CARRE )
+814	KG	Sachet en LDPE ( G-ETAGER SARA EXTER )
+843	KG	Sachet en LDPE ( G-PARABALL )
+739	KG	Sachet en LDPE ( G-POT MIEL 250G )
+844	KG	Sachet en LDPE ( G-SARA )
+2449	Kg	Sachet en LDPE ( G. ATLANTIQUE  )
+1415	KG	Sachet en LDPE ( GERIKAN 10L )
+1188	KG	Sachet en LDPE ( GRANDE SANDRILA )
+1150	KG	Sachet en LDPE ( Grand Repas  )
+1198	KG	Sachet en LDPE ( LINCH BOX 4L  )
+1153	KG	Sachet en LDPE ( LINCH BOX 4L )
+1199	KG	Sachet en LDPE ( LINCH BOX 5L  )
+1152	KG	Sachet en LDPE ( LINCH BOX 5L )
+1169	KG	Sachet en LDPE ( LINCHE BOX 5L )
+1247	KG	Sachet en LDPE ( LUNCH BOX 4 L )
+1184	KG	Sachet en LDPE ( LUNCH BOX 4L )
+1183	KG	Sachet en LDPE ( LUNCH BOX 5L )
+738	KG	Sachet en LDPE ( LUX B  )
+709	KG	Sachet en LDPE ( M ,  BASSINE  )
+703	KG	Sachet en LDPE ( M , POT, EXAGONAL )
+2422	Kg	Sachet en LDPE ( M PANNIER LINGE ROND )
+1359	KG	Sachet en LDPE ( M, ATHLANTIQUE )
+1245	KG	Sachet en LDPE ( M, ATLANTIQUE )
+629	KG	Sachet en LDPE ( M, BASSINE  )
+595	KG	Sachet en LDPE ( M, BASSINE )
+582	KG	Sachet en LDPE ( M, BASSINE ) Pour Usage Industriel  ,
+1078	KG	Sachet en LDPE ( M, BOITE A GATEAU )
+788	KG	Sachet en LDPE ( M, BOITE CARRE   )
+1230	KG	Sachet en LDPE ( M, BOITE CARRE  )
+2379	KG	Sachet en LDPE ( M, BOITTE CARRE )
+1319	KG	Sachet en LDPE ( M, PANIER LINGE ROND )
+717	KG	Sachet en LDPE ( M, POT  EXAGONAL )
+1694	Kg	Sachet en LDPE ( M, POT  EXAGONALE  )
+594	KG	Sachet en LDPE ( M, POT EXAGONAL  )
+666	KG	Sachet en LDPE ( M, POT EXAGONAL )
+681	KG	Sachet en LDPE ( M, POT EXAGONALE  )
+763	KG	Sachet en LDPE ( M, SANDRELLA )
+827	KG	Sachet en LDPE ( M, SANDRILLA )
+1268	KG	Sachet en LDPE ( M,BASSINE )
+1186	KG	Sachet en LDPE ( M,BOITE A GATEAU  )
+803	KG	Sachet en LDPE ( M,BOITE A GATEAU )
+1286	KG	Sachet en LDPE ( M,PANIER LINGE ROND )
+1079	KG	Sachet en LDPE ( M,PANIER LINGE ROND)
+1349	KG	Sachet en LDPE ( M,POT ,EXAGONAL )
+787	KG	Sachet en LDPE ( M,POT EXAGONAL  )
+1194	KG	Sachet en LDPE ( M,POT EXAGONAL )
+2442	Kg	Sachet en LDPE ( M. ATLANTIQUE)
+2450	Kg	Sachet en LDPE ( M. POT EXAGONAL )
+1180	KG	Sachet en LDPE ( MIAMI  1L )
+1394	KG	Sachet en LDPE ( MINI PLACARD  )
+2725	Kg	Sachet en LDPE ( MINI PLACARD  4 Inter )
+2726	Kg	Sachet en LDPE ( MINI PLACARD  5 Inter )
+929	KG	Sachet en LDPE ( MINI PLACARD )
+1433	KG	Sachet en LDPE ( MINI PLACARD 3 )
+1019	KG	Sachet en LDPE ( MINI PLACARD 4 )
+1824	Kg	Sachet en LDPE ( MINI PLACARDP 3 )
+819	KG	Sachet en LDPE ( MOJETO  )
+761	KG	Sachet en LDPE ( MOJETO )
+1225	KG	Sachet en LDPE ( MOKHITO  )
+3128	Kg	Sachet en LDPE ( N POUBELLE )
+719	KG	Sachet en LDPE ( N, BOITE  ROND  )
+1730	Kg	Sachet en LDPE ( N, BOITE ROND  )
+1732	Kg	Sachet en LDPE ( N, P ,  SARA  )
+722	KG	Sachet en LDPE ( N, P, SARA )
+503	KG	Sachet en LDPE ( N, P, SARA ) Pour Usage Industriel  ,
+468	KG	Sachet en LDPE ( N, POUBELLE  ) Pour Usage Industriel  ,
+1196	KG	Sachet en LDPE ( N,G, BASSINE CARRE  )
+1331	KG	Sachet en LDPE ( N,G, BASSINE CARRE )
+805	KG	Sachet en LDPE ( N,G,BASSINE CARRE  )
+1270	KG	Sachet en LDPE ( N,G,BASSINE CARRE )
+628	KG	Sachet en LDPE ( N,P , SARA )
+1692	Kg	Sachet en LDPE ( N,P, SARA )
+1637	Kg	Sachet en LDPE ( N,P,SARA  )
+679	KG	Sachet en LDPE ( N,P,SARA )
+3158	Kg	Sachet en LDPE ( N,P,SARA ) Pour Usage Industriel  ,
+1234	KG	Sachet en LDPE ( NEW ,G,BASSINE CARRE )
+2275	KG	Sachet en LDPE ( NEW BOCAL 1 L )
+1163	KG	Sachet en LDPE ( NEW BOTTLE )
+1129	KG	Sachet en LDPE ( NEW G BOITE CARRE  )
+1131	KG	Sachet en LDPE ( NEW G BOITE FRIGO )
+1252	KG	Sachet en LDPE ( NEW G POT CARRE )
+1130	KG	Sachet en LDPE ( NEW HAFIDA )
+1251	KG	Sachet en LDPE ( NEW M POT CARRE )
+379	KG	Sachet en LDPE ( NEW P, SARA  ) Pour Pour Usage Industriel ,
+3051	Kg	Sachet en LDPE ( NEW P,SARA ) Pour Usage Industriel  ,
+3349	KG	Sachet en LDPE ( NEW PANIER COUVERCLE )
+3117	Kg	Sachet en LDPE ( NEW POUBELLE  ) Pour Usage Industriel  ,
+375	KG	Sachet en LDPE ( NEW POUBELLE ) Pour Usage Industriel  ,
+1174	KG	Sachet en LDPE ( NEW VERRE  )
+823	KG	Sachet en LDPE ( NEW VERRE )
+994	KG	Sachet en LDPE ( NEW, G PANIER LINGE CARRE )
+1404	KG	Sachet en LDPE ( NEW, G, PANIER LINGE CARRE )
+1405	KG	Sachet en LDPE ( NEW, M, PANIER LINGE CARRE )
+937	KG	Sachet en LDPE ( OLIVE 1 L )
+1374	KG	Sachet en LDPE ( OLIVE 1L )
+1007	KG	Sachet en LDPE ( OLIVE 500G )
+697	KG	Sachet en LDPE ( P ,  BASSINE  )
+710	KG	Sachet en LDPE ( P ,  HASSNA  )
+1731	Kg	Sachet en LDPE ( P ,  SARA  )
+1003	KG	Sachet en LDPE ( P , BOITE KIKA )
+1299	KG	Sachet en LDPE ( P , ETAGEIR )
+393	KG	Sachet en LDPE ( P , MIEL 250G ) Pour Pour Usage Industriel ,
+696	KG	Sachet en LDPE ( P , SARA  )
+1348	KG	Sachet en LDPE ( P , SARA )
+2437	Kg	Sachet en LDPE ( P BOITE FRIGO )
+1022	KG	Sachet en LDPE ( P BOITE KIKA )
+1075	KG	Sachet en LDPE ( P ETAGAIRE  )
+1151	KG	Sachet en LDPE ( P ETAGAIRE )
+1360	KG	Sachet en LDPE ( P ETAGEIR  )
+2423	Kg	Sachet en LDPE ( P ETAGERE)
+392	KG	Sachet en LDPE ( P HASSNA  ) Pour Usage Industriel  ,
+372	KG	Sachet en LDPE ( P SARA  ) Pour Usage Industriel  ,
+3491	KG	Sachet en LDPE ( P SARA )
+1482	KG	Sachet en LDPE ( P,  MIEL 1 KG  )
+1416	KG	Sachet en LDPE ( P,  SARA  )
+663	KG	Sachet en LDPE ( P, BASSINE )
+806	KG	Sachet en LDPE ( P, BASSINE BANDA )
+781	KG	Sachet en LDPE ( P, BOITE FRIGO  )
+995	KG	Sachet en LDPE ( P, BOITE FRIGO )
+784	KG	Sachet en LDPE ( P, BOITE KIKA  )
+759	KG	Sachet en LDPE ( P, BOITE KIKA )
+919	KG	Sachet en LDPE ( P, EGOUTOIR )
+999	KG	Sachet en LDPE ( P, ETAGAIRE )
+1444	KG	Sachet en LDPE ( P, ETAGEIR  )
+1097	KG	Sachet en LDPE ( P, ETAGEIR )
+1271	KG	Sachet en LDPE ( P, ETAGEIR / EGOUTOIR  )
+824	KG	Sachet en LDPE ( P, ETAGER SARA INTER )
+920	KG	Sachet en LDPE ( P, ETAGIER  )
+815	KG	Sachet en LDPE ( P, ETAGIER EXTER )
+1327	KG	Sachet en LDPE ( P, FRUIT )
+634	KG	Sachet en LDPE ( P, HASSNA   )
+589	KG	Sachet en LDPE ( P, HASSNA  )
+3095	Kg	Sachet en LDPE ( P, HASSNA  ) Pour Usage Industriel  ,
+432	KG	Sachet en LDPE ( P, HASSNA  ) Pour Usage Industriel  , Sachet en LDPE ( G, SARA ) Pour Usage Industriel  , Sachet en LDPE ( EXTRA 3 ) Pour Usage Industriel  , Sachet en LDPE ( P, POT EXAGONAL ) Pour Usage Industriel  , Sachet en LDPE ( G, POT EXAGONAL ) Pour Usage Industriel  , Sachet en LDPE ( BOTTLE ROND  ) Pour Usage Industriel  ,
+1689	Kg	Sachet en LDPE ( P, HASSNA  ) Sachet en LDPE ( SEAU 2 L )
+670	KG	Sachet en LDPE ( P, HASSNA )
+485	KG	Sachet en LDPE ( P, HASSNA ) Pour Usage Industriel  ,
+1308	KG	Sachet en LDPE ( P, IGOUTOIR  )
+951	KG	Sachet en LDPE ( P, IGOUTOIR )
+512	KG	Sachet en LDPE ( P, IGOUTOIR ) Pour Usage Industriel  ,
+1219	KG	Sachet en LDPE ( P, ILAF )
+1185	KG	Sachet en LDPE ( P, MIEL 500G )
+3066	Kg	Sachet en LDPE ( P, MIEL 500G ) Pour Usage Industriel  ,
+398	KG	Sachet en LDPE ( P, MIEL 500G ) Pour Usage Industriel ,
+991	KG	Sachet en LDPE ( P, PANIER  )
+1287	KG	Sachet en LDPE ( P, PANIER CARRE )
+590	KG	Sachet en LDPE ( P, PANIER LING ROND  )
+499	KG	Sachet en LDPE ( P, PANIER LING ROND ) Pour Usage Industriel  ,
+412	KG	Sachet en LDPE ( P, PANIER LING ROND ) Pour Usage Industriel  , Sachet en LDPE ( G, BASSINE CARRE ) Pour Usage Industriel  , Sachet en LDPE ( POUBELLE ) Pour Usage Industriel  , Sachet en LDPE ( B,HIND ) Pour Usage Industriel  , Sachet en LDPE ( N,P,SARA ) Pour Usage Industriel  , Sachet en LDPE ( P,SARA ) Pour Usage Industriel  , Sachet en LDPE ( P,IGOUTOIR ) Pour Usage Industriel  ,
+790	KG	Sachet en LDPE ( P, PARABALL )
+1291	KG	Sachet en LDPE ( P, POT  CARRE )
+612	KG	Sachet en LDPE ( P, POT CARRE  )
+797	KG	Sachet en LDPE ( P, POT CARRE )
+509	KG	Sachet en LDPE ( P, POT EXAGONAL  ) Pour Usage Industriel  ,
+3164	Kg	Sachet en LDPE ( P, POT EXAGONAL ) Pour Usage Industriel  ,
+745	KG	Sachet en LDPE ( P, POT MIEL 500G  )
+766	KG	Sachet en LDPE ( P, POT MIEL 500G )
+1205	KG	Sachet en LDPE ( P, REPAS   )
+1328	KG	Sachet en LDPE ( P, REPAS )
+691	KG	Sachet en LDPE ( P, ROND  )
+3070	Kg	Sachet en LDPE ( P, ROND ) Pour Usage Industriel  ,
+958	KG	Sachet en LDPE ( P, SACHET COULEUR  )
+630	KG	Sachet en LDPE ( P, SARA  )
+3106	Kg	Sachet en LDPE ( P, SARA  ) Pour Usage Industriel  ,
+1680	Kg	Sachet en LDPE ( P, SARA  ) Sachet en LDPE ( SEAU 2 L )
+839	KG	Sachet en LDPE ( P, SARA )
+500	KG	Sachet en LDPE ( P, SARA ) Pour Usage Industriel  ,
+3071	Kg	Sachet en LDPE ( P, STANDARD 500G ) Pour Usage Industriel ,
+1273	KG	Sachet en LDPE ( P,BOITE KIKA  )
+1167	KG	Sachet en LDPE ( P,BOITE KIKA )
+742	KG	Sachet en LDPE ( P,ETAGAIRE SARA )
+3125	Kg	Sachet en LDPE ( P,HASSNA  )
+838	KG	Sachet en LDPE ( P,HASSNA )
+3138	Kg	Sachet en LDPE ( P,LING ROND   ) Pour Usage Industriel  ,
+1706	Kg	Sachet en LDPE ( P,PANIER LING ROND  )
+480	KG	Sachet en LDPE ( P,PANIER LING ROND  ) Pour Usage Industriel  ,
+693	KG	Sachet en LDPE ( P,PANIER LING ROND )
+1357	KG	Sachet en LDPE ( P,POT CARRE )
+1193	KG	Sachet en LDPE ( P,POT EXAGONAL )
+444	KG	Sachet en LDPE ( P,SARA ) Pour Usage Industriel  ,
+989	KG	Sachet en LDPE ( PANIER FRUIT  )
+1009	KG	Sachet en LDPE ( PANIER FRUIT )
+2372	Kg	Sachet en LDPE ( PANIER FRUIT)
+1067	KG	Sachet en LDPE ( PANIER HAMAM )
+1066	KG	Sachet en LDPE ( PANIER HAMAM TIGRE )
+1403	KG	Sachet en LDPE ( PANIER HANAN )
+807	KG	Sachet en LDPE ( PANIER HASSNA )
+782	KG	Sachet en LDPE ( PANIER ILAF )
+789	KG	Sachet en LDPE ( PANIER LINGE CARRE  )
+830	KG	Sachet en LDPE ( PANIER LINGE ROND )
+768	KG	Sachet en LDPE ( PANIER ROND  )
+637	KG	Sachet en LDPE ( PANIER ROND )
+2414	Kg	Sachet en LDPE ( PANNIER HAMAME)
+1103	KG	Sachet en LDPE ( PELLE  )
+1400	KG	Sachet en LDPE ( PELLE )
+1363	KG	Sachet en LDPE ( POT  MIEL 1KG  )
+1042	KG	Sachet en LDPE ( POT MEIL 1 KG )
+1044	KG	Sachet en LDPE ( POT MEIL 250G )
+1476	KG	Sachet en LDPE ( POT MIEL )
+1894	Kg	Sachet en LDPE ( POT MIEL 1 KG   )
+932	KG	Sachet en LDPE ( POT MIEL 1 KG  )
+811	KG	Sachet en LDPE ( POT MIEL 1 KG )
+829	KG	Sachet en LDPE ( POT MIEL 1,5  KG )
+1071	KG	Sachet en LDPE ( POT MIEL 1,5 KG  )
+1095	KG	Sachet en LDPE ( POT MIEL 1,5 KG )
+2413	Kg	Sachet en LDPE ( POT MIEL 1L )
+1006	KG	Sachet en LDPE ( POT MIEL 250 G )
+2378	KG	Sachet en LDPE ( POT MIEL 250G )
+1175	KG	Sachet en LDPE ( POT MIEL 500 G  )
+3490	KG	Sachet en LDPE ( POT MIEL 500 G )
+2458	Kg	Sachet en LDPE ( POT MIEL 500 G)
+1008	KG	Sachet en LDPE ( POT MIEL 500G  )
+1069	KG	Sachet en LDPE ( POT MIEL 500G )
+682	KG	Sachet en LDPE ( POT,MIEL 500G )
+511	KG	Sachet en LDPE ( POUBELLE ) Pour Usage Industriel  ,
+1300	KG	Sachet en LDPE ( POUBELLE BUNOU )
+1059	KG	Sachet en LDPE ( POUBELLE BURON )
+767	KG	Sachet en LDPE ( POUBELLE CARRE  )
+842	KG	Sachet en LDPE ( POUBELLE CARRE )
+1073	KG	Sachet en LDPE ( POUBELLE ROND  )
+833	KG	Sachet en LDPE ( POUBELLE ROND )
+1221	KG	Sachet en LDPE ( POUBELLE RONDE )
+1086	KG	Sachet en LDPE ( PRESS ORANGE )
+1220	KG	Sachet en LDPE ( PRESSE ORANGE )
+746	KG	Sachet en LDPE ( SANDRELLA  )
+720	KG	Sachet en LDPE ( SEAU  12 L )
+690	KG	Sachet en LDPE ( SEAU  12L  )
+1621	Kg	Sachet en LDPE ( SEAU  2L  )
+721	KG	Sachet en LDPE ( SEAU  3 L )
+718	KG	Sachet en LDPE ( SEAU  5 L )
+636	KG	Sachet en LDPE ( SEAU 12 L  )
+659	KG	Sachet en LDPE ( SEAU 12 L )
+1104	KG	Sachet en LDPE ( SEAU 12L )
+377	KG	Sachet en LDPE ( SEAU 12L ) Pour Pour Usage Industriel ,
+3050	Kg	Sachet en LDPE ( SEAU 12L ) Pour Usage Industriel  ,
+2416	Kg	Sachet en LDPE ( SEAU 15 L)
+1652	Kg	Sachet en LDPE ( SEAU 17 L   )
+646	KG	Sachet en LDPE ( SEAU 17 L  )
+653	KG	Sachet en LDPE ( SEAU 17 L )
+3072	Kg	Sachet en LDPE ( SEAU 17 L ) Pour Usage Industriel ,
+596	KG	Sachet en LDPE ( SEAU 17L  )
+1134	KG	Sachet en LDPE ( SEAU 17L )
+635	KG	Sachet en LDPE ( SEAU 2 L  )
+647	KG	Sachet en LDPE ( SEAU 2 L )
+464	KG	Sachet en LDPE ( SEAU 2 L ) Pour Usage Industriel  ,
+1154	KG	Sachet en LDPE ( SEAU 20 L )
+1132	KG	Sachet en LDPE ( SEAU 20L )
+639	KG	Sachet en LDPE ( SEAU 22  )
+583	KG	Sachet en LDPE ( SEAU 22 ) Pour Usage Industriel  ,
+1203	KG	Sachet en LDPE ( SEAU 22 L   )
+707	KG	Sachet en LDPE ( SEAU 22 L  )
+657	KG	Sachet en LDPE ( SEAU 22 L )
+1662	Kg	Sachet en LDPE ( SEAU 22 L ) Sachet en LDPE ( B, HIND  )
+831	KG	Sachet en LDPE ( SEAU 22L  )
+813	KG	Sachet en LDPE ( SEAU 22L )
+501	KG	Sachet en LDPE ( SEAU 26 L  ) Pour Usage Industriel  ,
+3156	Kg	Sachet en LDPE ( SEAU 26 L  ) Pour Usage Industriel  , Pour Usage Industriel  ,
+607	KG	Sachet en LDPE ( SEAU 2L  )
+3126	Kg	Sachet en LDPE ( SEAU 2L  ) Pour
+592	KG	Sachet en LDPE ( SEAU 2L )
+3067	Kg	Sachet en LDPE ( SEAU 2L ) Pour Pour Usage Industriel ,
+400	KG	Sachet en LDPE ( SEAU 2L ) Pour Pour Usage Industriel , Sachet en LDPE ( VERRE ) Pour Usage Industriel  , Sachet en LDPE ( SEAU 6 L ) Pour Usage Industriel  , Sachet en LDPE ( P, ROND ) Pour Usage Industriel  , Sachet en LDPE ( P, STANDARD 500G ) Pour Usage Industriel , Sachet en LDPE ( SEAU 17 L ) Pour Usage Industriel ,
+671	KG	Sachet en LDPE ( SEAU 3 L  )
+465	KG	Sachet en LDPE ( SEAU 3 L  ) Pour Usage Industriel  ,
+760	KG	Sachet en LDPE ( SEAU 3 L )
+605	KG	Sachet en LDPE ( SEAU 3L  )
+591	KG	Sachet en LDPE ( SEAU 3L )
+1891	Kg	Sachet en LDPE ( SEAU 4 TIGRE   )
+930	KG	Sachet en LDPE ( SEAU 4 TIGRE  )
+584	KG	Sachet en LDPE ( SEAU 5 ) Pour Usage Industriel  ,
+680	KG	Sachet en LDPE ( SEAU 5 L  )
+445	KG	Sachet en LDPE ( SEAU 5 L  ) Pour Usage Industriel  ,
+649	KG	Sachet en LDPE ( SEAU 5 L )
+395	KG	Sachet en LDPE ( SEAU 5 L ) Pour Usage Industriel  ,
+626	KG	Sachet en LDPE ( SEAU 5L  )
+603	KG	Sachet en LDPE ( SEAU 5L )
+3127	Kg	Sachet en LDPE ( SEAU 5L ) Pour
+3159	Kg	Sachet en LDPE ( SEAU 5L ) Pour Usage Industriel  ,
+672	KG	Sachet en LDPE ( SEAU 6 L  )
+481	KG	Sachet en LDPE ( SEAU 6 L  ) Pour Usage Industriel  ,
+3157	Kg	Sachet en LDPE ( SEAU 6 L  ) Pour Usage Industriel  , Pour Usage Industriel  ,
+661	KG	Sachet en LDPE ( SEAU 6 L )
+451	KG	Sachet en LDPE ( SEAU 6 L ) Pour Usage Industriel  ,
+1068	KG	Sachet en LDPE ( SEAU 6 L TIGRE  )
+627	KG	Sachet en LDPE ( SEAU 6L  )
+502	KG	Sachet en LDPE ( SEAU 6L  ) Pour Usage Industriel  ,
+1112	KG	Sachet en LDPE ( SEAU 6L  TIGRE )
+616	KG	Sachet en LDPE ( SEAU 6L )
+1356	KG	Sachet en LDPE ( SEAU A GATEAU )
+3348	KG	Sachet en LDPE ( SEAU A GATEAU 12 L )
+1346	KG	Sachet en LDPE ( SEAU A GATEAU 12L )
+2431	Kg	Sachet en LDPE ( SEAU A GATEAU 17 L)
+2399	Kg	Sachet en LDPE ( SEAU A GATEAU 17L  )
+821	KG	Sachet en LDPE ( SEAU A GATEAU 5 L )
+2433	Kg	Sachet en LDPE ( SEAU A GATEAU 5 L)
+1392	KG	Sachet en LDPE ( SEAU A GATEAU 5L )
+792	KG	Sachet en LDPE ( SEAU AICHA  )
+662	KG	Sachet en LDPE ( SEAU AICHA )
+633	KG	Sachet en LDPE ( VERRE  )
+625	KG	Sachet en LDPE ( VERRE )
+3068	Kg	Sachet en LDPE ( VERRE ) Pour Usage Industriel  ,
+1197	KG	Sachet en LDPE ( VERRE OGZOTIQUE  )
+3243	KG	Sachet en LDPE (23/28)  50μ Pour Usage  Industriel
+3220	KG	Sachet en LDPE (23/28)  50μ Usage  Industriel
+2643	Kg	Sachet en LDPE (40 + 16)  / 102     80μ Pour Usage industriel
+3460	KG	Sachet en LDPE (40 + 16)  / 102     80μ Pour Usage industriel Pour Usage industriel
+2698	Kg	Sachet en LDPE (41+9)   / 95    55μ
+2696	Kg	Sachet en LDPE (42+10)  / 120     50μ
+2707	Kg	Sachet en LDPE (46 + 10) / 125  x 70µ Usage  Industriel
+3496	KG	Sachet en LDPE (47 + 6 ) / 90   , X 70μ Pour Usage Industriel  ,
+2682	Kg	Sachet en LDPE (50+11) / 110   70μ pour  usage industriel
+2635	Kg	Sachet en LDPE (74 + 13) / 140  x 60µ Pour Usage industriel ,
+3452	KG	Sachet en LDPE (74 + 13) / 140  x 60µ Usage  Industriel
+2708	Kg	Sachet en LDPE (74 + 13) / 140  x 65µ Usage  Industriel
+2671	Kg	Sachet en LDPE (74 +13) / 140 x 60 µ Pour Usage industriel ,
+2387	KG	Sachet en LDPE (B , STANDARD 1L)
+2677	Kg	Sachet en LDPE (B . STANDARD 500G)
+3346	KG	Sachet en LDPE (B HAWAI )
+2421	Kg	Sachet en LDPE (B HIND)
+2486	Kg	Sachet en LDPE (B MEGA)
+1274	KG	Sachet en LDPE (B NOURA )
+1337	KG	Sachet en LDPE (B, HIND  )
+1334	KG	Sachet en LDPE (B, OLIVE  )
+1277	KG	Sachet en LDPE (B, OLIVE  1L )
+1318	KG	Sachet en LDPE (B, OLIVE )
+1330	KG	Sachet en LDPE (B, STANDARD 1L )
+1335	KG	Sachet en LDPE (B, STANDARD 500 G )
+1250	KG	Sachet en LDPE (B,HAFIDA )
+2514	Kg	Sachet en LDPE (B. HAWAI)
+2496	Kg	Sachet en LDPE (B. OLIVE 500G)
+2515	Kg	Sachet en LDPE (B. STANDARD 1 L)
+2525	Kg	Sachet en LDPE (B. STANDARD 1L)
+2549	Kg	Sachet en LDPE (B.OLIVE)
+2487	Kg	Sachet en LDPE (BASSINE BABY)
+1290	KG	Sachet en LDPE (BASSINE SALADE )
+2382	Kg	Sachet en LDPE (BASSINE SALADE)
+2394	Kg	Sachet en LDPE (BIDO 5 L  )
+2674	Kg	Sachet en LDPE (BIDOU 5L)
+1061	KG	Sachet en LDPE (BIGA 5 )
+2700	Kg	Sachet en LDPE (BIGA 5)
+2714	Kg	Sachet en LDPE (BIGA)
+3506	KG	Sachet en LDPE (BIGA5)
+1282	KG	Sachet en LDPE (BOCAL 1L  )
+1343	KG	Sachet en LDPE (BOCAL 1L )
+2497	Kg	Sachet en LDPE (BOCAL 1L ROND ET CARRE)
+2415	Kg	Sachet en LDPE (BOCAL 2L  )
+2529	Kg	Sachet en LDPE (BOCAL 2L)
+2371	Kg	Sachet en LDPE (BOCAL 3L  )
+2528	Kg	Sachet en LDPE (BOCAL 3L)
+2488	Kg	Sachet en LDPE (BOCAL ROND 2L )
+2418	Kg	Sachet en LDPE (BOCAL1L  )
+2498	Kg	Sachet en LDPE (BOITE  EPICE 4 PCS )
+1035	KG	Sachet en LDPE (BOITE A EPICE 4 PCS)
+1036	KG	Sachet en LDPE (BOITE A EPICE 5 PCS)
+2598	Kg	Sachet en LDPE (BOITE A EPICES 5 PCS)
+2489	Kg	Sachet en LDPE (BOITE HAFIDA)
+1164	KG	Sachet en LDPE (BOITE MEGA )
+2499	Kg	Sachet en LDPE (BOITE NADA)
+2376	Kg	Sachet en LDPE (BOTTLE 1L  )
+1111	KG	Sachet en LDPE (BOTTLE 1L )
+2460	Kg	Sachet en LDPE (BOTTLE 1L)
+2508	Kg	Sachet en LDPE (CASSROLE TIGRE)
+2715	Kg	Sachet en LDPE (EXTRA 6)
+2388	KG	Sachet en LDPE (EXTRAT 5   )
+2461	Kg	Sachet en LDPE (FLACON 2L )
+2436	Kg	Sachet en LDPE (FLACON 2L)
+2392	Kg	Sachet en LDPE (G , PANIER LINGE ROND)
+832	KG	Sachet en LDPE (G - SANDRILLA  )
+2618	Kg	Sachet en LDPE (G . POT CARRE)
+1288	KG	Sachet en LDPE (G ATLANTIQUE )
+1246	KG	Sachet en LDPE (G PANIER LINGE CARRE )
+834	KG	Sachet en LDPE (G POT MIEL 500G )
+1023	KG	Sachet en LDPE (G Panier LINGE CARRE )
+2374	Kg	Sachet en LDPE (G REPAS)
+1350	KG	Sachet en LDPE (G,  REPAS )
+1239	KG	Sachet en LDPE (G, BASSINE PARRABALL)
+993	KG	Sachet en LDPE (G, BOITE FRIGO )
+2569	Kg	Sachet en LDPE (G, EGOUTOIR)
+1320	KG	Sachet en LDPE (G, ETAGEIR )
+1231	KG	Sachet en LDPE (G, NEW PANIER LINGE CARRE)
+2599	Kg	Sachet en LDPE (G, NEW PANNIER LINGE CARRE)
+1889	Kg	Sachet en LDPE (G, PANIER FRUIT  )
+1406	KG	Sachet en LDPE (G, PANIER LINGE CARRE )
+1332	KG	Sachet en LDPE (G, Panier Linge Rond )
+1329	KG	Sachet en LDPE (G, SARA )
+2570	Kg	Sachet en LDPE (G, SARA)
+1045	KG	Sachet en LDPE (G,PANIER LINGE CARRE )
+2585	Kg	Sachet en LDPE (G,PARRA BALL)
+1310	KG	Sachet en LDPE (G,POT CARRE )
+1136	KG	Sachet en LDPE (G,POT MIEL 250 G  )
+2631	Kg	Sachet en LDPE (G. BOITE KIKA)
+2650	Kg	Sachet en LDPE (G. EGOUTOIR)
+2652	Kg	Sachet en LDPE (G. ETAGERE)
+2675	Kg	Sachet en LDPE (G. NEW PANNIER LING CARRE)
+2584	Kg	Sachet en LDPE (G. PANNIER LINGE CARRE)
+2445	Kg	Sachet en LDPE (G. REPAS)
+2689	Kg	Sachet en LDPE (G. SARA)
+2617	Kg	Sachet en LDPE (G.SARA)
+2665	Kg	Sachet en LDPE (GIMIKAN)
+2438	Kg	Sachet en LDPE (LUNCH BOX 4 L)
+1284	KG	Sachet en LDPE (LUNCH BOX 4L )
+2466	Kg	Sachet en LDPE (LUNCH BOX 5 L  )
+2655	Kg	Sachet en LDPE (LUNCH BOX 5 L)
+2439	Kg	Sachet en LDPE (LUNCH BOX 5L )
+2571	Kg	Sachet en LDPE (LUNCH BOX 5L)
+2386	Kg	Sachet en LDPE (M BOITTE A GATEAU )
+615	KG	Sachet en LDPE (M, BASSINE   )
+2271	Kg	Sachet en LDPE (M, BASSINE )
+1049	KG	Sachet en LDPE (M, BOITE A GATEAU )
+1037	KG	Sachet en LDPE (M, PANIER LINGE ROND )
+847	KG	Sachet en LDPE (M, PANIER LINGE ROND)
+2272	Kg	Sachet en LDPE (M,PANIER LINGE CARRE )
+1358	KG	Sachet en LDPE (M,PANIER LINGE ROND )
+2662	Kg	Sachet en LDPE (M. ATLANTIQUE)
+2446	Kg	Sachet en LDPE (M. BASSINE)
+2667	Kg	Sachet en LDPE (M. BOITE CARRE)
+2629	Kg	Sachet en LDPE (M. POT EXAGONAL)
+3352	KG	Sachet en LDPE (MIAMI 1,5 L )
+2526	Kg	Sachet en LDPE (MIAMI 1,5 L)
+2527	Kg	Sachet en LDPE (MIAMI 1L)
+848	KG	Sachet en LDPE (MINI PLACARD 3)
+2666	Kg	Sachet en LDPE (MINI PLACARD)
+2393	Kg	Sachet en LDPE (MOJETO  )
+2459	Kg	Sachet en LDPE (MOJETO)
+1309	KG	Sachet en LDPE (N,G, PANIER LINGE CARRE )
+1084	KG	Sachet en LDPE (N,G,BASSINE CARRE  )
+1302	KG	Sachet en LDPE (N,G,BASSINE CARRE )
+1375	KG	Sachet en LDPE (N,G,PANIER LINGE CARRE )
+984	KG	Sachet en LDPE (NEW BIDON 10 L )
+2630	Kg	Sachet en LDPE (NEW G.PANNIER LING CARRE)
+2516	Kg	Sachet en LDPE (NEW PAIR COUVERCLE )
+1443	KG	Sachet en LDPE (NEW,M, PANIER LINGE CARRE )
+1017	KG	Sachet en LDPE (New G Panier Carre )
+985	KG	Sachet en LDPE (OLIVE 1L  )
+2383	Kg	Sachet en LDPE (P  ETAGERE)
+1901	Kg	Sachet en LDPE (P ,  BOITE  KIKA  )
+3260	KG	Sachet en LDPE (P , ETAGERE )
+1254	KG	Sachet en LDPE (P EGOUTOIR )
+2384	Kg	Sachet en LDPE (P HAMMAM FLEURE)
+1283	KG	Sachet en LDPE (P MIEL 1KG  )
+2419	Kg	Sachet en LDPE (P PANNIER CARRE)
+2377	KG	Sachet en LDPE (P SARA)
+1292	KG	Sachet en LDPE (P, EGOUTOIR )
+1269	KG	Sachet en LDPE (P, HASSNA )
+1486	KG	Sachet en LDPE (P, MIEL 500G )
+1240	KG	Sachet en LDPE (P, PARABALL )
+947	KG	Sachet en LDPE (P, POT EXAGONAL  )
+1704	Kg	Sachet en LDPE (P, ROND )
+1306	KG	Sachet en LDPE (P, SACHE COULEUR )
+1289	KG	Sachet en LDPE (P, SARA  )
+1321	KG	Sachet en LDPE (P, SARA )
+2465	Kg	Sachet en LDPE (P, SARA)
+1058	KG	Sachet en LDPE (P,BOITE KIKA)
+1301	KG	Sachet en LDPE (P,SARA )
+2637	Kg	Sachet en LDPE (P. BOITE ATLANTIQUE)
+2728	Kg	Sachet en LDPE (P. BOITE KIKA)
+2651	Kg	Sachet en LDPE (P. ETAGERE)
+2701	Kg	Sachet en LDPE (P. SACHEE COULEUR)
+2467	Kg	Sachet en LDPE (P. SACHET  COL)
+2616	Kg	Sachet en LDPE (P. SARA)
+1233	KG	Sachet en LDPE (PANIER FRUIT )
+2448	Kg	Sachet en LDPE (PANNIER FRUIT)
+1414	KG	Sachet en LDPE (POT MIEL 1 KG  )
+2478	Kg	Sachet en LDPE (POT MIEL 1 KG)
+2717	Kg	Sachet en LDPE (POT MIEL 1 Kg)
+1345	KG	Sachet en LDPE (POT MIEL 1,5 KG  )
+2462	Kg	Sachet en LDPE (POT MIEL 1,5 KG)
+2716	Kg	Sachet en LDPE (POT MIEL 1,5 Kg)
+2663	Kg	Sachet en LDPE (POT MIEL 1,5 kg)
+1276	KG	Sachet en LDPE (POT MIEL 1,5KG )
+1326	KG	Sachet en LDPE (POT MIEL 1KG )
+2463	Kg	Sachet en LDPE (POT MIEL 1KG)
+2548	Kg	Sachet en LDPE (POT MIEL 1kg)
+1137	KG	Sachet en LDPE (POT MIEL 250 G )
+2660	Kg	Sachet en LDPE (POT MIEL 250 G)
+1322	KG	Sachet en LDPE (POT MIEL 250G )
+2687	Kg	Sachet en LDPE (POT MIEL 500 G)
+1390	KG	Sachet en LDPE (POT MIEL 500G )
+2479	Kg	Sachet en LDPE (POT MIEL 500G)
+1275	KG	Sachet en LDPE (POUBELLE CARRE )
+2397	Kg	Sachet en LDPE (POUBELLE CARREE )
+1355	KG	Sachet en LDPE (POUBELLE ROND )
+2381	Kg	Sachet en LDPE (POUBELLE ROND)
+1255	KG	Sachet en LDPE (POUBELLE RONE )
+2517	Kg	Sachet en LDPE (SEAU 12L)
+1295	KG	Sachet en LDPE (SEAU 15 L )
+1303	KG	Sachet en LDPE (SEAU 17 L  )
+2727	Kg	Sachet en LDPE (SEAU 17 L )
+2444	Kg	Sachet en LDPE (SEAU 17 L)
+1072	KG	Sachet en LDPE (SEAU 20L )
+1888	Kg	Sachet en LDPE (SEAU 22L )
+1243	KG	Sachet en LDPE (SEAU 2L )
+2572	Kg	Sachet en LDPE (SEAU 6 L)
+2435	Kg	Sachet en LDPE (SEAU A AGATEAU 20L  )
+2686	Kg	Sachet en LDPE (SEAU A GAT 17L)
+2434	Kg	Sachet en LDPE (SEAU A GATEAU 12L )
+3347	KG	Sachet en LDPE (SEAU A GATEAU 17 L)
+2480	Kg	Sachet en LDPE (SEAU A GATEAU 17L)
+2507	Kg	Sachet en LDPE (SEAU A GATEAU 20L)
+2432	Kg	Sachet en LDPE (SEAU A GATEAU 3L  )
+1235	KG	Sachet en LDPE (SEAU AICHA )
+2506	Kg	Sachet en LDPE (SEAU AICHA)
+1485	KG	Sachet en LDPE (SEAU POUBELLE ROND )
+2417	Kg	Sachet en LDPE (VERRE )
+2509	Kg	Sachet en LDPE (VERRE)
+866	KG	Sachet en LDPE , X 60μ Pour Usage Industriel  ,
+1552	Kg	Sachet en LDPE 102/156 X 70μ Pour Usage Industriel ,
+851	KG	Sachet en LDPE 110/120  S 20cm ,X 60μ Pour Usage Industriel
+1228	KG	Sachet en LDPE 110/120 S 20cm ,X 60μ Pour Usage Industriel
+698	KG	Sachet en LDPE 110/120,X SOUFFLET 20cm Pour Usage Industriel
+1535	Kg	Sachet en LDPE 110/120x20cm,X 60mμ Pour Usage Industriel
+514	KG	Sachet en LDPE 110/120x20cm,X 60mμ Pour Usage Industriel 15 colis ,
+960	KG	Sachet en LDPE 110/150  S 20cm ,X 60μ Pour Usage Industriel
+1536	Kg	Sachet en LDPE 110/150x20cm, X 50mμ Pour Usage Industriel
+515	KG	Sachet en LDPE 110/150x20cm, X 50mμ Pour Usage Industriel   14 colis ,
+1537	Kg	Sachet en LDPE 110/170x20cm,X 60mμ Pour Usage Industriel
+516	KG	Sachet en LDPE 110/170x20cm,X 60mμ Pour Usage Industriel  19 colis ,
+2994	Kg	Sachet en LDPE 18/40, X 50μ Pour Usage industriel
+3108	Kg	Sachet en LDPE 18/40, X 70μ Pour Usage industriel
+617	KG	Sachet en LDPE 18/47, X 20mμ
+618	KG	Sachet en LDPE 18/75, X 20mμ
+2535	Kg	Sachet en LDPE 23  / 40     35μ Pour Usage industriel
+2380	Kg	Sachet en LDPE 23 / 128 , X 50μ Pour Usage industriel
+2659	Kg	Sachet en LDPE 23 / 28 , X 50μ Pour Usage industriel
+2353	Kg	Sachet en LDPE 23 X 9 / 115 , X 70μ Pour Usage industriel
+1478	KG	Sachet en LDPE 23 X8 / 113 , X 60μ Pour Usage industriel
+2592	Kg	Sachet en LDPE 24 / 112   60μ Pour Usage industriel
+571	KG	Sachet en LDPE 25 X 9 /75, X 30mμ
+3110	Kg	Sachet en LDPE 25/40, X 70μ Pour Usage industriel
+975	KG	Sachet en LDPE 25/45 , X 80μ Pour Usage Industriel 14 colis ,
+1938	Kg	Sachet en LDPE 25/45 , X 80μ Pour Usage industriel
+750	KG	Sachet en LDPE 25/45, X 80μ Pour Usage Industriel 11 colis ,
+427	KG	Sachet en LDPE 25/45, X 80μ Pour Usage Industriel 12 colis ,
+3091	Kg	Sachet en LDPE 25/45, X 80μ Pour Usage industriel
+1480	KG	Sachet en LDPE 26 X 11/ 110, X 60μ Pour Usage industriel
+1435	KG	Sachet en LDPE 26 X 9 / 98 , X 60μ Pour Usage industriel
+2590	Kg	Sachet en LDPE 27  / 100     60μ Pour Usage industriel
+572	KG	Sachet en LDPE 27 / 100, X 30mμ
+2295	Kg	Sachet en LDPE 27/33   40μ Pour Usage industriel ,
+1407	KG	Sachet en LDPE 27/33, X 40μ Pour Usage  Industriel
+2534	Kg	Sachet en LDPE 28  / 45     35μ Pour Usage industriel
+2695	Kg	Sachet en LDPE 28  / 45     40μ
+2441	Kg	Sachet en LDPE 28  / 45     40μ Pour Usage industriel
+2593	Kg	Sachet en LDPE 28 / 110   60μ Pour Usage industriel
+3058	Kg	Sachet en LDPE 28 / 40 , X 80μ Pour Usage industriel
+3412	KG	Sachet en LDPE 28/ 45   40μ Pour Usage industriel
+2595	Kg	Sachet en LDPE 28/ 45   60μ Pour Usage industriel
+436	KG	Sachet en LDPE 28/32 , X 80μ Pour Usage Industriel 11 colis ,
+3100	Kg	Sachet en LDPE 28/32, X 80μ Pour Usage industriel
+388	KG	Sachet en LDPE 28/40 , X 80μ Pour Usage Industriel 11 colis ,
+435	KG	Sachet en LDPE 28/40 , X 80μ Pour Usage Industriel 6 colis ,
+3109	Kg	Sachet en LDPE 28/40, X 70μ Pour Usage industriel
+856	KG	Sachet en LDPE 28/40, X 80μ Pour Usage Industriel  10 colis ,
+751	KG	Sachet en LDPE 28/40, X 80μ Pour Usage Industriel  16 colis ,
+1758	Kg	Sachet en LDPE 28/40, X 80μ Pour Usage industriel
+1465	KG	Sachet en LDPE 30 / 110 , X 60μ Pour Usage industriel
+3248	KG	Sachet en LDPE 30 / 80  S 10cm  ,X 60μ Pour Usage Industriel
+2255	Kg	Sachet en LDPE 30 X 6 / 64    70μ Pour Usage industriel ,
+877	KG	Sachet en LDPE 30 X 8 / 50, X 80μ Pour Usage Industriel 25 colis ,
+1844	Kg	Sachet en LDPE 30 X 8 /50 , X 80μ Pour Usage industriel
+1614	Kg	Sachet en LDPE 30 x 8 / 60, X 80μ Pour Usage industriel
+1615	Kg	Sachet en LDPE 30 x 8 / 70, X 80μ Pour Usage industriel
+600	KG	Sachet en LDPE 30 x 8 /60, X 80μ Pour Usage Industriel 11colis ,
+601	KG	Sachet en LDPE 30 x 8 /70, X 80μ Pour Usage Industriel 12 colis ,
+753	KG	Sachet en LDPE 30+8/50, X 80μ Pour Usage Industriel 28 colis ,
+1369	KG	Sachet en LDPE 30X6/64 , X 70μ Pour Usage  Industriel
+1760	Kg	Sachet en LDPE 30x8/50, X 80μ Pour Usage industriel
+3054	Kg	Sachet en LDPE 30x8/60, X 80μ Pour Usage industriel
+3055	Kg	Sachet en LDPE 30x8/70, X 80μ Pour Usage industriel
+1466	KG	Sachet en LDPE 31 X 12 / 82 , X 60μ Pour Usage industriel
+2697	Kg	Sachet en LDPE 32  / 110     40μ
+3239	KG	Sachet en LDPE 33,5 +5 /69 , X 70μ Pour Usage  Industriel
+2071	Kg	Sachet en LDPE 33/92   S 7cm ,X 40μ Pour Usage Industriel
+1127	KG	Sachet en LDPE 33/92  S 7 cm ,X 40μ Pour Usage Industriel
+1462	KG	Sachet en LDPE 33/95  S 7cm     ,X 50μ Pour Usage Industriel
+1159	KG	Sachet en LDPE 33/95  S 7cm ,X 40μ Pour Usage Industriel
+2473	Kg	Sachet en LDPE 34  / 70 X 70 μ
+3308	Kg	Sachet en LDPE 34  / 70 X 70 μ Sachet en LDPE 56  / 108 X 80 μ
+3319	Kg	Sachet en LDPE 34  / 87  X 80 μ
+2232	Kg	Sachet en LDPE 34 / 68  X 60μ Pour Usage industriel ,
+1342	KG	Sachet en LDPE 34 /68 , X 60μ Pour Usage  Industriel
+1441	KG	Sachet en LDPE 34/73,5  X 60μ Pour Usage industriel ,
+3209	KG	Sachet en LDPE 35 / 38      40μ Pour Usage industriel
+1448	KG	Sachet en LDPE 35,5/46  X 45μ Pour Usage industriel ,
+1370	KG	Sachet en LDPE 35/114  S  5 cm   ,X60μ Pour Usage Industriel
+2370	Kg	Sachet en LDPE 36 / 46 X 45μ Pour Usage industriel ,
+3212	KG	Sachet en LDPE 36 /46 , X 45μ Pour Usage  Industriel
+1481	KG	Sachet en LDPE 36 X 16 / 100 , X 70μ Pour Usage industriel
+2536	Kg	Sachet en LDPE 37 +16 / 102   80μ Pour Usage industriel
+3247	KG	Sachet en LDPE 38 / 130  S 10cm  ,X 60μ Pour Usage Industriel
+2542	Kg	Sachet en LDPE 40 /60, X 40μ Pour Usage industriel
+2543	Kg	Sachet en LDPE 40 /60, X 40μ Pour Usage industriel (Forme Feuille)
+3369	Kg	Sachet en LDPE 40 /60, X 40μ Pour Usage industriel Pour usage Industriel
+3370	Kg	Sachet en LDPE 40 /60, X 80μ
+1726	Kg	Sachet en LDPE 40/60 , X 60μ Pour Usage industriel
+713	KG	Sachet en LDPE 40/60, X 60μ Pour Usage Industriel 16 colis ,
+2594	Kg	Sachet en LDPE 41 / 91   60μ Pour Usage industriel
+1464	KG	Sachet en LDPE 41 X 8 / 90 , X 60μ Pour Usage industriel
+1477	KG	Sachet en LDPE 41 X 9 / 105 , X 70μ Pour Usage industriel
+1463	KG	Sachet en LDPE 41 X 9 / 115 , X 70μ Pour Usage industriel
+926	KG	Sachet en LDPE 41 x 16 /68  , X 60μ Pour Usage Industriel  ,
+914	KG	Sachet en LDPE 41/68  , X 32μ Pour Usage Industriel  ,
+2591	Kg	Sachet en LDPE 42  / 118     60μ Pour Usage industriel
+1436	KG	Sachet en LDPE 42 X 9 /120 , X 60μ Pour Usage industriel
+2284	kg	Sachet en LDPE 44/94   75μ Pour Usage industriel ,
+1396	KG	Sachet en LDPE 44/94, X 75μ Pour Usage  Industriel
+655	KG	Sachet en LDPE 45 x 10  /110  , X 80μ Pour Usage Industriel  ,
+1117	KG	Sachet en LDPE 45/130      ,X 40μ Pour Usage Industriel
+971	KG	Sachet en LDPE 45/130   ,X 40μ Pour Usage Industriel
+1686	Kg	Sachet en LDPE 45/130,X 40mμ Pour Usage Industriel
+677	KG	Sachet en LDPE 45/130,X 40mμ Pour Usage Industriel  15 colis ,
+854	KG	Sachet en LDPE 45/130,X 40μ Pour Usage Industriel
+1582	Kg	Sachet en LDPE 45/52 X 80μ Pour Usage industriel ,
+566	KG	Sachet en LDPE 45/52, X 80μ Pour Usage Industriel 11 colis ,
+779	KG	Sachet en LDPE 45/52, X 80μ Pour Usage Industriel 22 colis ,
+1116	KG	Sachet en LDPE 45/52, X 80μ Pour Usage Industriel 27 colis ,
+1447	KG	Sachet en LDPE 45/65  X 60μ Pour Usage industriel ,
+723	KG	Sachet en LDPE 45X130,X 40mμ Pour Usage Industriel
+3246	KG	Sachet en LDPE 46 / 110   S 10cm  ,X 60μ Pour Usage Industriel
+2296	Kg	Sachet en LDPE 46 X 9 / 165  X 60μ Pour Usage industriel ,
+1408	KG	Sachet en LDPE 46 X 9 /165, X 60μ Pour Usage  Industriel
+525	KG	Sachet en LDPE 46 x 9 / 140, X 70μ Pour Usage  Industriel
+530	KG	Sachet en LDPE 46 x 9 / 165, X 60μ Pour Usage  Industriel
+3414	KG	Sachet en LDPE 46/ 125 Usage  Industriel
+2597	Kg	Sachet en LDPE 46/125 Pour Usage industriel ,
+1547	Kg	Sachet en LDPE 46x9/140  X 60μ Pour Usage industriel ,
+1551	Kg	Sachet en LDPE 46x9/165  X 60μ Pour Usage industriel ,
+669	KG	Sachet en LDPE 47 X 6 / 90, X 70μ Pour Usage  Industriel
+1676	Kg	Sachet en LDPE 47 X 6 /90   70μ Pour Usage industriel ,
+2118	Kg	Sachet en LDPE 47 X 6/90  70μ Pour Usage industriel ,
+2278	Kg	Sachet en LDPE 47/83,5    75μ Pour Usage industriel ,
+1388	KG	Sachet en LDPE 47/83,5, X 75μ Pour Usage  Industriel
+1641	Kg	Sachet en LDPE 48 / 90 , X 80μ Pour Usage industriel
+1479	KG	Sachet en LDPE 48 X 18 / 90  , X 80μ Pour Usage industriel
+801	KG	Sachet en LDPE 49 / 75   , X 40μ Pour Usage Industriel 13 colis ,
+2699	Kg	Sachet en LDPE 50  / 106     50μ
+2406	Kg	Sachet en LDPE 50 +15   / 115 , X 80 μ Pour usage industriel
+1632	Kg	Sachet en LDPE 50 / 70  80μ , Pour Usage Industriel
+1570	Kg	Sachet en LDPE 50 / 90 X 70μ Pour Usage Industriel ,
+1004	KG	Sachet en LDPE 50 X 11 / 110, X 70μ Pour Usage  Industriel
+3393	KG	Sachet en LDPE 50 X 11 /110  , X 70μ Pour Usage Industriel  ,
+1967	Kg	Sachet en LDPE 50 X 11/110  70μ Pour Usage industriel ,
+2457	Kg	Sachet en LDPE 50 X 11/110  70μ pour  usage industriel
+3242	KG	Sachet en LDPE 50+15 /115 , X 80μ Pour Usage  Industriel
+3210	KG	Sachet en LDPE 50/ 105         50μ Pour Usage industriel
+482	KG	Sachet en LDPE 50/100 , X 50μ Pour Usage Industriel  15  colis
+575	KG	Sachet en LDPE 50/12 x 12 / 129 , X 20mμ
+576	KG	Sachet en LDPE 50/12 x 12 / 129 , X 20mμ S2
+901	KG	Sachet en LDPE 50/80  S 10cm ,X 40μ Pour Usage Industriel
+1455	KG	Sachet en LDPE 50/80  S 10cm ,X 60μ Pour Usage Industriel
+419	KG	Sachet en LDPE 50/80x10cm  , X 40mμ Pour Usage Industriel   11 colis ,
+1576	Kg	Sachet en LDPE 52 / 110 , X 100μ Pour Usage industriel
+1852	Kg	Sachet en LDPE 52 / 110 , X 80μ Pour Usage industriel
+518	KG	Sachet en LDPE 52 / 110, X 100μ Pour Usage Industriel 22 colis ,
+390	KG	Sachet en LDPE 52 X 23 / 155  , X 80μ Pour Usage Industriel 31 colis ,
+3130	Kg	Sachet en LDPE 52 x 23 / 155, X 80μ Pour Usage industriel
+887	KG	Sachet en LDPE 52/ 110, X 80μ Pour Usage Industriel 42 colis ,
+1539	Kg	Sachet en LDPE 52/110   , X100μ Pour Usage industriel
+1741	Kg	Sachet en LDPE 52/110 , X 80μ Pour Usage industriel
+878	KG	Sachet en LDPE 52/110, X 100μ Pour Usage Industriel  11 colis ,
+558	KG	Sachet en LDPE 52/110, X 100μ Pour Usage Industriel 10 colis ,
+1845	Kg	Sachet en LDPE 52/110, X 100μ Pour Usage industriel
+772	KG	Sachet en LDPE 52/110, X 80μ Pour Usage Industriel  43 colis ,
+734	KG	Sachet en LDPE 52/110, X 80μ Pour Usage Industriel 42 colis ,
+1775	Kg	Sachet en LDPE 52/110, X 80μ Pour Usage industriel
+1830	Kg	Sachet en LDPE 52/75 , X 40μ Pour Usage industriel
+855	KG	Sachet en LDPE 52/75, X 40μ Pour Usage Industriel 10 colis ,
+755	KG	Sachet en LDPE 52/75, X 40μ Pour Usage Industriel 6 colis ,
+1761	Kg	Sachet en LDPE 52/90 , X 80μ Pour Usage industriel
+754	KG	Sachet en LDPE 52/90, X 80μ Pour Usage Industriel 10 colis ,
+1554	Kg	Sachet en LDPE 52X10/165 X 70μ Pour Usage Industriel ,
+3059	Kg	Sachet en LDPE 52x23/155, X 80μ Pour Usage industriel
+3318	Kg	Sachet en LDPE 53,8  / 87  X 80 μ
+2694	Kg	Sachet en LDPE 55  / 103     50μ
+3244	KG	Sachet en LDPE 55 / 130 S10cm ,X 60μ Pour Usage Industriel
+888	KG	Sachet en LDPE 55 / 90 , X 150μ Pour Usage Industriel  9 colis ,
+389	KG	Sachet en LDPE 55 / 90 , X 150μ Pour Usage Industriel 24 colis ,
+1853	Kg	Sachet en LDPE 55 / 90, X 150μ Pour Usage industriel
+440	KG	Sachet en LDPE 55/90 , X 150μ Pour Usage Industriel 11 colis ,
+453	KG	Sachet en LDPE 55/90 , X 150μ Pour Usage Industriel 20 colis ,
+428	KG	Sachet en LDPE 55/90 , X 60μ Pour Usage Industriel 12 colis ,
+860	KG	Sachet en LDPE 55/90, X 150μ Pour Usage Industriel  11 colis ,
+1833	Kg	Sachet en LDPE 55/90, X 150μ Pour Usage industriel
+1601	Kg	Sachet en LDPE 55/90, X 60μ Pour Usage industriel
+587	KG	Sachet en LDPE 55/90, X60μ Pour Usage Industriel  ,
+586	KG	Sachet en LDPE 55/90, X60μ Pour Usage Industriel 11 colis ,
+2277	Kg	Sachet en LDPE 55/95    90μ Pour Usage industriel ,
+1387	KG	Sachet en LDPE 55/95, X 90μ Pour Usage  Industriel
+749	KG	Sachet en LDPE 55X13/175, X 40μ Neutre Pour Usage Industriel 7 colis ,
+1756	Kg	Sachet en LDPE 55x13/175, X 40μ Neutre
+3317	Kg	Sachet en LDPE 56  / 108 X 80 μ
+561	KG	Sachet en LDPE 56 x 18 / 90 , X 80μ Pour Usage Industriel 15 colis ,
+1578	Kg	Sachet en LDPE 56 x 18 / 90,X 80μ Pour Usage industriel
+1143	KG	Sachet en LDPE 56/100  S 10cm ,X 60μ Pour Usage Industriel
+959	KG	Sachet en LDPE 56/130  S 10cm ,X 40μ Pour Usage Industriel
+1312	KG	Sachet en LDPE 56/130  S 10cm ,X 60μ Pour Usage Industriel
+853	KG	Sachet en LDPE 56/130 ,X 40μ Pour Usage Industriel
+868	KG	Sachet en LDPE 56/130 S 10cm ,X 40μ Pour Usage Industriel
+701	KG	Sachet en LDPE 56/130,X 40mμ Pour Usage Industriel
+900	KG	Sachet en LDPE 56/90  S 10cm ,X 40μ Pour Usage Industriel
+1456	KG	Sachet en LDPE 56/90  S 10cm ,X 60μ Pour Usage Industriel
+852	KG	Sachet en LDPE 56/90 S 10cm ,X 40μ Pour Usage Industriel
+420	KG	Sachet en LDPE 56/90x10cm  , X 40mμ Pour Usage Industriel  21 colis ,
+1538	Kg	Sachet en LDPE 56/90x10cm,X 40mμ Pour Usage Industriel
+517	KG	Sachet en LDPE 56/90x10cm,X 40mμ Pour Usage Industriel  18 colis ,
+1142	KG	Sachet en LDPE 57/88  S 10cm ,X 70μ Pour Usage Industriel
+489	KG	Sachet en LDPE 58 X 20 / 90  , X 20mμ Pour Usage Industriel ,
+457	KG	Sachet en LDPE 58 X 20 / 90  , X 60mμ Pour Usage Industriel ,
+3147	Kg	Sachet en LDPE 58 X 20 / 90,     X 20mμ Pour Usage Industriel,
+3122	Kg	Sachet en LDPE 58 X 20 / 90,     X 60mμ Pour Usage Industriel,
+573	KG	Sachet en LDPE 58 X 20 / 90, X 20mμ S3
+1612	Kg	Sachet en LDPE 59 / 100 , X 80μ Pour Usage industriel
+774	KG	Sachet en LDPE 59/100, X 80μ Pour Usage Industriel 24 colis ,
+598	KG	Sachet en LDPE 59/100, X 80μ Pour Usage Industriel 26 colis ,
+1776	Kg	Sachet en LDPE 59/100, X 80μ Pour Usage industriel
+2658	Kg	Sachet en LDPE 6 70  /135 X 60μ
+3424	Kg	Sachet en LDPE 60  / 100 X 60 μ
+2705	Kg	Sachet en LDPE 60  / 60     30μ Pour Usage industriel Sachet en LDPE 70 / 45     30μ Pour Usage industriel
+2642	Kg	Sachet en LDPE 60  x 11 /135 X 60μ
+2612	Kg	Sachet en LDPE 60 / 100 X 60 μ
+2538	Kg	Sachet en LDPE 60 / 120    Pour Usage industriel
+1571	Kg	Sachet en LDPE 60 / 140 X 70μ Pour Usage Industriel ,
+3073	Kg	Sachet en LDPE 60 / 140, X 65μ Pour Usage Industriel ,
+1549	Kg	Sachet en LDPE 60 / 80, X 40μ Pour Usage industriel
+3227	KG	Sachet en LDPE 60 /135 ,  X 65μ
+2706	Kg	Sachet en LDPE 60 X / 120  70μ pour  usage industriel
+3093	Kg	Sachet en LDPE 60 X 10 / 103, X 70μ Pour Usage Industriel ,
+2578	Kg	Sachet en LDPE 60 X 11/120  70μ pour  usage industriel
+2027	Kg	Sachet en LDPE 60 X 15 / 85 X 36μ Pour Usage industriel
+1657	Kg	Sachet en LDPE 60 X 15 / 85 X 60μ Pour Usage industriel
+439	KG	Sachet en LDPE 60 X10 / 90 , X 80μ Pour Usage Industriel 42 colis ,
+2565	Kg	Sachet en LDPE 60 x 11 /135 X 65μ
+3316	KG	Sachet en LDPE 60+ 11 /135 ,  X 65μ
+2484	Kg	Sachet en LDPE 60+11 /135 X 65μ
+1261	KG	Sachet en LDPE 60/100   S 10cm  ,X 40μ Pour Usage Industriel
+418	KG	Sachet en LDPE 60/100  , X 40mμ Pour Usage Industriel 11 colis ,
+1461	KG	Sachet en LDPE 60/100  S  10 cm   ,X60μ Pour Usage Industriel
+415	KG	Sachet en LDPE 60/110 , X 80μ Pour Usage Industriel 11 colis ,
+3082	Kg	Sachet en LDPE 60/110 , X 80μ Pour Usage industriel
+757	KG	Sachet en LDPE 60/110, X 80μ Pour Usage Industriel 15 colis ,
+2537	Kg	Sachet en LDPE 60/130      Pour Usage industriel
+857	KG	Sachet en LDPE 60/130, X 80μ Pour Usage Industriel  25 colis ,
+1831	Kg	Sachet en LDPE 60/130, X 80μ Pour Usage industriel
+2389	Kg	Sachet en LDPE 60/135 X 65μ
+430	KG	Sachet en LDPE 60/140, X 65μ Pour Usage Industriel  16 colis
+401	KG	Sachet en LDPE 60/140, X 65μ Pour Usage Industriel  17 colis
+438	KG	Sachet en LDPE 60/80 , X 80μ Pour Usage Industriel 11 colis ,
+528	KG	Sachet en LDPE 60/80, X 40μ Pour Usage Industriel 18 colis ,
+3101	Kg	Sachet en LDPE 60/80, X 80μ Pour Usage industriel
+3102	Kg	Sachet en LDPE 60X10 /90, X 80μ Pour Usage industriel
+1555	Kg	Sachet en LDPE 60X10/103 X 70μ Pour Usage Industriel ,
+405	KG	Sachet en LDPE 60X10/90, X 80μ Pour Usage Industriel 26 colis ,
+1543	Kg	Sachet en LDPE 60X11/135 X 65μ Pour Usage industriel
+431	KG	Sachet en LDPE 60x10/103, X 70μ Pour Usage Industriel  17 colis
+3076	Kg	Sachet en LDPE 60x10/90, X 80μ Pour Usage industriel
+2470	None	Sachet en LDPE 60x15 /85 x45µ Pour Usage industriel
+884	KG	Sachet en LDPE 61 X 14 /154   , X 60μ Pour Usage Industriel  ,
+2260	Kg	Sachet en LDPE 61 x 15 /110  X 65μ Pour Usage industriel ,
+1580	Kg	Sachet en LDPE 61/90 X 50μ Pour Usage industriel ,
+563	KG	Sachet en LDPE 61/90, X 50μ Pour Usage  Industriel
+1377	None	Sachet en LDPE 61x15/110, X 65μ Pour Usage  Industriel
+407	KG	Sachet en LDPE 62 X 21 / 113 , X 80μ Pour Usage Industriel 48 colis ,
+469	KG	Sachet en LDPE 62 X 21 / 113, X 80μ Pour Usage Industriel 52 colis ,
+391	KG	Sachet en LDPE 62 X 21 / 155 , X 80μ Pour Usage Industriel 21 colis ,
+424	KG	Sachet en LDPE 62 X 21 / 190 , X 80μ Pour Usage Industriel 32 colis ,
+3129	Kg	Sachet en LDPE 62 x 21 / 113, X 80μ Pour Usage industriel
+758	KG	Sachet en LDPE 62 x 21 /190, X 80μ Pour Usage Industriel 26 colis ,
+1553	Kg	Sachet en LDPE 62X10/156 X 70μ Pour Usage Industriel ,
+1759	Kg	Sachet en LDPE 62X21/113, X 80μ Pour Usage industriel
+1742	Kg	Sachet en LDPE 62X21/155, X 80μ Pour Usage industriel
+540	KG	Sachet en LDPE 62X21/190, X 80μ Pour Usage Industriel 27 colis ,
+773	KG	Sachet en LDPE 62x21/113, X 80μ Pour Usage Industriel 50 colis ,
+752	KG	Sachet en LDPE 62x21/113, X 80μ Pour Usage Industriel 80 colis ,
+3078	Kg	Sachet en LDPE 62x21/113, X 80μ Pour Usage industriel
+859	KG	Sachet en LDPE 62x21/155, X 80μ Pour Usage Industriel 10 colis ,
+735	KG	Sachet en LDPE 62x21/155, X 80μ Pour Usage Industriel 11 colis ,
+3060	Kg	Sachet en LDPE 62x21/155, X 80μ Pour Usage industriel
+1560	Kg	Sachet en LDPE 62x21/190, X 80μ Pour Usage industriel
+1410	KG	Sachet en LDPE 63,5 / 100, X   75μ Pour Usage  Industriel
+2299	Kg	Sachet en LDPE 63,5/100   75μ Pour Usage industriel ,
+2265	Kg	Sachet en LDPE 63/83,5    80μ Pour Usage industriel ,
+1381	KG	Sachet en LDPE 63/83,5, X 80μ Pour Usage  Industriel
+1812	Kg	Sachet en LDPE 64 X 22 / 100 Neutre
+1813	Kg	Sachet en LDPE 64 X 22 / 75  Neutre
+836	KG	Sachet en LDPE 64 X 22/ 100,  Neutre Pour Usage Industriel 26 colis ,
+891	KG	Sachet en LDPE 64 X 22/ 100,  Neutre Pour Usage Industriel 27 colis ,
+837	KG	Sachet en LDPE 64 X 22/ 75,  Neutre Pour Usage Industriel 28 colis ,
+687	KG	Sachet en LDPE 64x22/75, X 40μ Pour Usage Industriel 16 colis ,
+1700	Kg	Sachet en LDPE 64x22/75, X40μ Neutre
+1550	Kg	Sachet en LDPE 65 / 120 ,X 80μ Pour Usage industriel
+1658	Kg	Sachet en LDPE 65 X 13 / 155 X 60μ Pour Usage industriel
+2474	None	Sachet en LDPE 65 x 13 / 110 x 50µ Pour Usage industriel
+2564	None	Sachet en LDPE 65 x 13 / 115 x 50µ Pour Usage industriel
+983	KG	Sachet en LDPE 65/100  S 10cm ,X 40μ Pour Usage Industriel
+883	KG	Sachet en LDPE 65/100 S 10cm ,X 40μ Pour Usage Industriel
+1685	Kg	Sachet en LDPE 65/100, X 40mμ Pour Usage Industriel
+676	KG	Sachet en LDPE 65/100, X 40mμ Pour Usage Industriel   15 colis ,
+1774	Kg	Sachet en LDPE 65/120 , X 80μ Pour Usage industriel
+771	KG	Sachet en LDPE 65/120, X 80μ Pour Usage Industriel 16 colis ,
+529	KG	Sachet en LDPE 65/120, X 80μ Pour Usage Industriel 27 colis ,
+1832	Kg	Sachet en LDPE 65/120, X 80μ Pour Usage industriel
+421	KG	Sachet en LDPE 65/65, X 80μ Pour Usage Industriel 11 colis ,
+3088	Kg	Sachet en LDPE 65/65, X 80μ Pour Usage industriel
+1440	KG	Sachet en LDPE 65/96  X 80μ Pour Usage industriel ,
+1365	KG	Sachet en LDPE 65/96, X 80μ Pour Usage  Industriel
+2469	None	Sachet en LDPE 65x13 / 80x 50µ Pour Usage industriel
+1699	Kg	Sachet en LDPE 65x21/100, X 40μ Bleu
+686	KG	Sachet en LDPE 65x21/100, X 40μ Bleu Pour Usage Industriel 13 colis ,
+1697	Kg	Sachet en LDPE 65x21/100, X 40μ Neutre
+684	KG	Sachet en LDPE 65x21/100, X 40μ Neutre Pour Usage Industriel 27 colis ,
+1698	Kg	Sachet en LDPE 65x21/100, X 40μ Rouge
+685	KG	Sachet en LDPE 65x21/100, X 40μ Rouge Pour Usage Industriel 11 colis ,
+3241	KG	Sachet en LDPE 66 /99 , X 80μ Pour Usage  Industriel
+369	KG	Sachet en LDPE 66 X 10 / 88  , X 40mμ Pour Usage Industriel 19 colis ,
+1460	KG	Sachet en LDPE 66/110  S  10 cm   ,X60μ Pour Usage Industriel
+699	KG	Sachet en LDPE 66/110, SOUFFLET 10 cm Pour Usage Industriel
+3249	KG	Sachet en LDPE 67 X 13 /156 ,X 50μ Pour Usage Industriel
+2412	Kg	Sachet en LDPE 67x13/156  X 50μ Pour Usage industriel ,
+1119	KG	Sachet en LDPE 68/92  S 10cm ,X 80μ Pour Usage Industriel
+1160	KG	Sachet en LDPE 68/92 S 10cm ,X 80μ Pour Usage Industriel
+1701	Kg	Sachet en LDPE 68x21/60, X 80μ NEUTRE
+688	KG	Sachet en LDPE 68x21/60, X 80μ Pour Usage Industriel 17 colis ,
+1874	Kg	Sachet en LDPE 70  /  95, X 80μ Pour Usage industriel
+1902	Kg	Sachet en LDPE 70  / 145, X35μ Pour Usage industriel
+1577	Kg	Sachet en LDPE 70 / 140, X 80μ Pour Usage industriel
+3245	KG	Sachet en LDPE 70 / 150  S 20cm  ,X 60μ Pour Usage Industriel
+890	KG	Sachet en LDPE 70 / 80 , X 80μ Pour Usage Industriel 11 colis ,
+1855	Kg	Sachet en LDPE 70 / 80, X 80μ Pour Usage industriel
+889	KG	Sachet en LDPE 70 / 95 , X 80μ Pour Usage Industriel 26 colis ,
+1854	Kg	Sachet en LDPE 70 / 95 , X 80μ Pour Usage industriel
+483	KG	Sachet en LDPE 70 X 25 / 115, X 80μ Pour Usage Industriel 82 colis ,
+885	KG	Sachet en LDPE 70 X 25 /115   , X 80μ Pour Usage Industriel 53 colis ,
+1850	Kg	Sachet en LDPE 70 X 25 /115, X 80μ Pour Usage industriel
+2995	Kg	Sachet en LDPE 70 X10 /130, X 80μ Pour Usage industriel
+3141	Kg	Sachet en LDPE 70 x 25 / 115, X 80μ Pour Usage industriel
+452	KG	Sachet en LDPE 70/140 , X 80μ Pour Usage Industriel 27colis ,
+406	KG	Sachet en LDPE 70/140 , X 80μ Pour Usage Industriel 30 colis ,
+557	KG	Sachet en LDPE 70/140, X 80μ Pour Usage Industriel 21 colis ,
+559	KG	Sachet en LDPE 70/140, X 80μ Pour Usage Industriel 30 colis ,
+3077	Kg	Sachet en LDPE 70/140, X 80μ Pour Usage industriel
+939	KG	Sachet en LDPE 70/145, X 35μ Pour Usage Industriel 56 colis ,
+422	KG	Sachet en LDPE 70/80 , X 80μ Pour Usage Industriel 11 colis ,
+3089	Kg	Sachet en LDPE 70/80, X 80μ Pour Usage industriel
+413	KG	Sachet en LDPE 70/90, X 60μ Pour Usage Industriel 21 colis ,
+3080	Kg	Sachet en LDPE 70/90, X 60μ Pour Usage industriel
+426	KG	Sachet en LDPE 70/95 , X 80μ Pour Usage Industriel 29 colis ,
+425	KG	Sachet en LDPE 70/95 , X 80μ Pour Usage Industriel 8 colis ,
+732	KG	Sachet en LDPE 70/95, X 80μ Pour Usage Industriel 17colis ,
+733	KG	Sachet en LDPE 70/95, X 80μ Pour Usage Industriel 20 colis ,
+535	KG	Sachet en LDPE 70/95, X 80μ Pour Usage Industriel 34 colis ,
+585	KG	Sachet en LDPE 70/95, X 80μ Pour Usage Industriel 39 colis ,
+916	KG	Sachet en LDPE 70/95, X 80μ Pour Usage Industriel 48 colis ,
+915	KG	Sachet en LDPE 70/95, X 80μ Pour Usage Industriel 54 colis ,
+1600	Kg	Sachet en LDPE 70/95, X 80μ Pour Usage industriel
+1556	Kg	Sachet en LDPE 70/95,X 80μ Pour Usage industriel
+3053	Kg	Sachet en LDPE 70x23/220, X 80μ Pour Usage industriel
+1015	KG	Sachet en LDPE 72 / 70  , X 60μ Pour Usage Industriel  ,
+454	KG	Sachet en LDPE 72 X 23 / 160 , X 80μ Pour Usage Industriel 31 colis ,
+455	KG	Sachet en LDPE 72 X 23 / 180 , X 80μ Pour Usage Industriel 23 colis ,
+2502	Kg	Sachet en LDPE 72 x 12 /140 X 65μ
+2390	Kg	Sachet en LDPE 72X12/140 X 65μ Pour Usage
+2218	Kg	Sachet en LDPE 72X12/140 X 65μ Pour Usage industriel
+3119	Kg	Sachet en LDPE 72X23/160, X 80μ Pour Usage industriel
+3120	Kg	Sachet en LDPE 72X23/180, X 80μ Pour Usage industriel
+1540	Kg	Sachet en LDPE 72x23 /180,X 80μ Pour Usage industriel
+3079	Kg	Sachet en LDPE 72x23/160, X 80μ Pour Usage industriel
+3445	KG	Sachet en LDPE 74  / 140 Usage  Industriel
+2656	Kg	Sachet en LDPE 74  140 Pour Usage industriel ,
+2628	Kg	Sachet en LDPE 74 140 Pour Usage industriel ,
+2302	Kg	Sachet en LDPE 74 X13 / 140  X 65μ Pour Usage industriel ,
+1389	KG	Sachet en LDPE 74/13/140, X 65μ Pour Usage  Industriel
+2216	Kg	Sachet en LDPE 74X13/140 X 65μ Pour Usage industriel
+1534	Kg	Sachet en LDPE 74x13/140  X 65μ Pour Usage industriel ,
+3203	KG	Sachet en LDPE 74x13/140  X 65μ Usage  Industriel
+3074	Kg	Sachet en LDPE 74x13/140  X 80μ Pour Usage industriel ,
+497	KG	Sachet en LDPE 74x13/140, X 65μ Pour Usage  Industriel
+1146	KG	Sachet en LDPE 74x13/140, X 65μ Pour Usage  Industriel 24 COLIS
+1126	KG	Sachet en LDPE 74x13/140, X 65μ Pour Usage  Industriel 27 COLIS
+1063	KG	Sachet en LDPE 74x13/140, X 65μ Pour Usage  Industriel 29 COLIS
+1055	KG	Sachet en LDPE 74x13/140, X 65μ Pour Usage  Industriel 32 COLIS
+1141	KG	Sachet en LDPE 74x13/140, X 65μ Pour Usage  Industriel 35 COLIS
+1304	KG	Sachet en LDPE 74x13/140, X 65μ Pour Usage  Industriel 44 colis
+1148	KG	Sachet en LDPE 74x13/140, X 65μ Pour Usage  Industriel 76 COLIS
+471	KG	Sachet en LDPE 74x13/140, X 70μ Pour Usage  Industriel
+446	KG	Sachet en LDPE 74x13/140, X 80μ Pour Usage  Industriel  20 colis
+403	KG	Sachet en LDPE 74x13/140, X 80μ Pour Usage  Industriel  22 colis
+458	KG	Sachet en LDPE 74x13/140, X 80μ Pour Usage  Industriel  27 colis
+1977	Kg	Sachet en LDPE 74x13/145  X 65μ Pour Usage industriel ,
+1014	KG	Sachet en LDPE 74x13/145, X 65μ Pour Usage  Industriel
+3092	Kg	Sachet en LDPE 74x13/150  X 80μ Pour Usage industriel ,
+429	KG	Sachet en LDPE 74x13/150, X 80μ Pour Usage  Industriel  29 colis
+1602	Kg	Sachet en LDPE 75 / 130,X 40mμ Pour Usage Industriel
+2261	Kg	Sachet en LDPE 75 x15/110  X 45μ Pour Usage industriel ,
+416	KG	Sachet en LDPE 75/130  , X 40mμ Pour Usage Industriel 22 colis ,
+882	KG	Sachet en LDPE 75/130  S 10cm ,X 60μ Pour Usage Industriel
+588	KG	Sachet en LDPE 75/130,X 40mμ Pour Usage Industriel 19 colis ,
+702	KG	Sachet en LDPE 75/130,X 60mμ Pour Usage Industriel
+675	KG	Sachet en LDPE 75/130,X 60mμ Pour Usage Industriel 16 colis ,
+1791	Kg	Sachet en LDPE 75/130,X 60μ Pour Usage Industriel
+1229	KG	Sachet en LDPE 75/90 S 10cm ,X 60μ Pour Usage Industriel
+1378	KG	Sachet en LDPE 75x15/140, X 45μ Pour Usage  Industriel
+1939	Kg	Sachet en LDPE 76 x 13/150  X 65μ Pour Usage industriel ,
+977	KG	Sachet en LDPE 76x13/150, X 65μ Pour Usage  Industriel
+1561	Kg	Sachet en LDPE 78 / 165 ,X 50μ Pour Usage industriel
+1613	Kg	Sachet en LDPE 78 / 165, X 50μ Pour Usage industriel
+3075	Kg	Sachet en LDPE 78 /110 , X 80μ Pour Usage industriel
+404	KG	Sachet en LDPE 78/110 , X 80μ Pour Usage Industriel 11 colis ,
+756	KG	Sachet en LDPE 78/110, X 80μ Pour Usage Industriel 26 colis ,
+541	KG	Sachet en LDPE 78/165, X 50μ Pour Usage Industriel 77 colis ,
+599	KG	Sachet en LDPE 78/165, X 50μ Pour Usage Industriel 85 colis ,
+386	KG	Sachet en LDPE 79 /1 33/  , X 50μ Pour Usage Industriel  ,
+537	KG	Sachet en LDPE 79 /110/  , X 50μ
+1032	KG	Sachet en LDPE 79 /133  , X 60μ
+641	KG	Sachet en LDPE 79 /133  , X 60μ Pour Usage Industriel  ,
+536	KG	Sachet en LDPE 79 /133/  , X 50μ Pour Usage Industriel  ,
+683	KG	Sachet en LDPE 79 /133/  , X 60μ Pour Usage Industriel  ,
+1579	Kg	Sachet en LDPE 80 / 85  ,X 80μ Pour Usage industriel
+562	KG	Sachet en LDPE 80 / 85, X 80μ Pour Usage Industriel 20 colis ,
+560	KG	Sachet en LDPE 80 X 10 /160, X 80μ Pour Usage Industriel 5 colis ,
+387	KG	Sachet en LDPE 80 X 20 / 110  , X 30mμ Pour Usage Industriel ,
+3148	Kg	Sachet en LDPE 80 X 20 / 110,     X 20mμ Pour Usage Industriel,
+3057	Kg	Sachet en LDPE 80 X 20 / 110,     X 30mμ Pour Usage Industriel,
+574	KG	Sachet en LDPE 80 X 20 / 110, X 20mμ S1
+3052	Kg	Sachet en LDPE 80/120, X 80μ Pour Usage industriel
+423	KG	Sachet en LDPE 80/140 , X 80μ Pour Usage Industriel 32 colis ,
+1936	Kg	Sachet en LDPE 80/140 , X 80μ Pour Usage industriel
+973	KG	Sachet en LDPE 80/140, X 80μ Pour Usage Industriel 36 colis ,
+3090	Kg	Sachet en LDPE 80/140, X 80μ Pour Usage industriel
+414	KG	Sachet en LDPE 80/85 , X 80μ Pour Usage Industriel 11 colis ,
+437	KG	Sachet en LDPE 80/85 , X 80μ Pour Usage Industriel 21 colis ,
+3081	Kg	Sachet en LDPE 80/85, X 80μ Pour Usage industriel
+456	KG	Sachet en LDPE 80/87 , X 80μ Pour Usage Industriel 20 colis ,
+3121	Kg	Sachet en LDPE 80/87, X 80μ Pour Usage industriel
+1439	KG	Sachet en LDPE 80/90  X 70μ Pour Usage industriel ,
+1364	KG	Sachet en LDPE 80/90 , X 70μ Pour Usage  Industriel
+539	KG	Sachet en LDPE 80X10/160, X 80μ Pour Usage Industriel 5 colis ,
+1559	Kg	Sachet en LDPE 80x10/160, X 80μ Pour Usage industriel
+3428	Kg	Sachet en LDPE 81  / 88 X 65 μ
+2607	Kg	Sachet en LDPE 81 / 88 X 65 μ
+927	KG	Sachet en LDPE 81 /134   , X 60μ Pour Usage Industriel  ,
+3513	KG	Sachet en LDPE 81 /90  , X 60μ Pour Usage Industriel  ,
+1399	KG	Sachet en LDPE 81/90  , X 70μ Pour Usage Industriel  ,
+770	KG	Sachet en LDPE 82 + 12 /164  , X 60μ Pour Usage Industriel  ,
+944	KG	Sachet en LDPE 82 X12 /145    , X 60μ Pour Usage Industriel  ,
+3094	Kg	Sachet en LDPE 84 X 8 / 130, X 70μ Pour Usage Industriel ,
+867	KG	Sachet en LDPE 84/140  S 20cm ,X 80μ Pour Usage Industriel
+1227	KG	Sachet en LDPE 84/140 S 20cm  ,X 80μ Pour Usage Industriel
+1118	KG	Sachet en LDPE 84/140 S 20cm ,X 80μ Pour Usage Industriel
+1734	Kg	Sachet en LDPE 84/140 SOUFFLET 20cm,X80mμ Pour Pour Usage Industriel
+835	KG	Sachet en LDPE 84/140 X 20 cm de soufflet, X 80μ Pour Usage Industriel
+1811	Kg	Sachet en LDPE 84/140x20,X 80μ Pour Usage Industriel
+725	KG	Sachet en LDPE 84X140 SOUFFLET 20cm ,X 80mμ Pour Usage Industriel
+3368	KG	Sachet en LDPE 85 /170  , X 60μ Pour Usage Industriel  ,
+895	KG	Sachet en LDPE 85 X 12,5 /170  , X 75μ Pour Usage Industriel  ,
+1471	KG	Sachet en LDPE 85/170  , X 60μ Pour Usage Industriel  ,
+1457	KG	Sachet en LDPE 86/88   S 10cm  ,X 60μ Pour Usage Industriel
+1260	KG	Sachet en LDPE 86/88  S 10cm  ,X 40μ Pour Usage Industriel
+1313	KG	Sachet en LDPE 86/88  S 10cm  ,X 50μ Pour Usage Industriel
+870	KG	Sachet en LDPE 86/88  S 10cm ,X 40μ Pour Usage Industriel
+974	KG	Sachet en LDPE 90 X 10 /120 , X 80μ Pour Usage Industriel  51 colis ,
+1937	Kg	Sachet en LDPE 90 X 10 /120 , X 80μ Pour Usage industriel
+1725	Kg	Sachet en LDPE 90/115, X 60μ Pour Usage Industriel
+712	KG	Sachet en LDPE 90/115, X 60μ Pour Usage Industriel 7 colis ,
+879	KG	Sachet en LDPE 95 / 115, X 80μ Pour Usage Industriel 24 colis ,
+1548	Kg	Sachet en LDPE 95 / 170, X 80μ Pour Usage industriel
+1846	Kg	Sachet en LDPE 95 /115, X 80μ Pour Usage industriel
+1458	KG	Sachet en LDPE 95/112   S 20cm  ,X 80μ Pour Usage Industriel
+775	KG	Sachet en LDPE 95/115, X 80μ Pour Usage Industriel 25 colis ,
+736	KG	Sachet en LDPE 95/115, X 80μ Pour Usage Industriel 49 colis ,
+1743	Kg	Sachet en LDPE 95/115, X 80μ Pour Usage industriel
+1256	KG	Sachet en LDPE 95/135   S 20cm  ,X 60μ Pour Usage Industriel
+1459	KG	Sachet en LDPE 95/135   S 20cm  ,X 80μ Pour Usage Industriel
+972	KG	Sachet en LDPE 95/135  S 20cm ,X 60μ Pour Usage Industriel
+1050	KG	Sachet en LDPE 95/135 S 20cm ,X 60μ Pour Usage Industriel
+1257	KG	Sachet en LDPE 95/154   S 20cm  ,X 60μ Pour Usage Industriel
+1314	KG	Sachet en LDPE 95/154   S 20cm  ,X 80μ Pour Usage Industriel
+869	KG	Sachet en LDPE 95/154  S 20cm ,X 60μ Pour Usage Industriel
+724	KG	Sachet en LDPE 95/154, SOUFFLET 20cm Pour Usage Industriel
+526	KG	Sachet en LDPE 95/170, X 80μ Pour Usage Industriel 12 colis ,
+527	KG	Sachet en LDPE 95/170, X 80μ Pour Usage Industriel 40 colis ,
+1262	KG	Sachet en LDPE 95/174   S 20cm  ,X 60μ Pour Usage Industriel
+1315	KG	Sachet en LDPE 95/174   S 20cm  ,X 80μ Pour Usage Industriel
+1016	KG	Sachet en LDPE 95/174  S 20cm ,X 60μ Pour Usage Industriel
+1087	KG	Sachet en LDPE 95/174 S 20cm ,X 60μ Pour Usage Industriel
+417	KG	Sachet en LDPE 95/190  , X 40mμ Pour Usage Industriel 12 colis ,
+477	KG	Sachet en LDPE CHONSSURE 50X15/68, X 80μ Pour usage Industriel 16 colis ,
+3135	Kg	Sachet en LDPE CHONSSURE 50X15/68, X μ Pour usage Industriel 16 colis ,
+476	KG	Sachet en LDPE COLLIER PP 21/24, X 50μ Pour usage Industriel 13 colis ,
+3134	Kg	Sachet en LDPE COLLIER PP 21/24, X 50μ Pour usage Industriel 16 colis ,
+475	KG	Sachet en LDPE COLLIER PP 21/24, X 50μ Pour usage Industriel 3 colis ,
+3136	Kg	Sachet en LDPE COLLIER PPR 61/68, X 40μ Pour usage Industriel 16 colis ,
+478	KG	Sachet en LDPE COLLIER PPR 61/68, X 40μ Pour usage Industriel 3 colis ,
+492	KG	Sachet en LDPE EGOUTOIR SALADE 73/88, X 70μ Pour usage Industriel 27 colis ,
+491	KG	Sachet en LDPE ETENDOIRE 72,5/147, X 95μ Pour usage Industriel 26 colis ,
+474	KG	Sachet en LDPE PLACARD 56X15/112,X 80μ Pour usage Industriel 26 colis ,
+3137	Kg	Sachet en LDPE POUBELLE PETIT MODEL 44/58, X 40μ Pour usage Industriel 20 colis ,
+479	KG	Sachet en LDPE POUBELLE PETIT MODEL 44/58, X 40μ Pour usage Industriel 3 colis ,
+945	KG	Sachet en LDPE Pour Usage Industriel  ,
+472	KG	Sachet en LDPE RACCORD DE PICAGE 44/54, X 50μ Pour usage Industriel 20 colis ,
+473	KG	Sachet en LDPE RONG CARRE BASTA 59X16/92, X 90μ Pour usage Industriel 21 colis ,
+3489	KG	Sachet en LDPE SEAU A GATEAU 17 L
+493	KG	Sachet en LDPE TABLETTE + TOIT 53/108, X 60μ Pour usage Industriel 17colis ,
+2724	Kg	Sachet en LDPE( MINI PLACARD  3 Inter )
+3211	KG	Sachet en LDPE20 X7/96        50μ Pour Usage industriel
+2369	kg	Sachet en LDPE20 x 7 / 96    50μ Pour Usage industriel
+3278	KG	Sachet en LDPE28/45      40μ Pour Usage industriel
+3240	KG	Sachet en LDPE46,5 /95 , X 60μ Pour Usage  Industriel
+3250	KG	Sachet en LDPE74 X 13 X 65μ Pour Usage Industriel
+3140	Kg	Sachet en PEPD    50 / 100      , X 55μ Pour Usage Industriel ,
+2915	Kg	Sachet en PEPD   ( 80/120)  Pour Usage industriel ,
+2912	Kg	Sachet en PEPD   ( HAKAKA )  Pour Usage industriel ,
+3025	Kg	Sachet en PEPD   Pour Usage industriel ,
+2916	Kg	Sachet en PEPD  ( 80 X 13/130 ) Pour Usage industriel ,
+2913	Kg	Sachet en PEPD  ( BOITE RONDE ) Pour Usage industriel ,
+205	KG	Sachet en PEPD  42/91  ( BOITE RONDE ) Pour Usage Industriel ,
+204	KG	Sachet en PEPD  44/86  ( HAKAKA )  Pour Usage Industriel ,
+3376	KG	Sachet en PEPD  45/60, X 90μ Pour Usage Industriel
+880	KG	Sachet en PEPD  45/60, X 90μ Pour Usage Industriel 24 colis
+196	KG	Sachet en PEPD  45/60, X 90μ Pour Usage Industriel 25 colis
+317	KG	Sachet en PEPD  45/60, X 90μ Pour Usage Industriel 26 colis
+68	KG	Sachet en PEPD  45/60, X 90μ Pour Usage Industriel 27 colis
+1527	KG	Sachet en PEPD  50X7/110, X 60,50μ Pour Usage Industriel 26 colis
+3377	KG	Sachet en PEPD  53  + 10  X 105 X 50μ     Pour Pour sage Industriel
+2559	Kg	Sachet en PEPD  53  + 10  X 105 X 50μ Pour sage Industriel
+1528	KG	Sachet en PEPD  56X18/94, X 70μ Pour Usage Industriel 27 colis
+3152	Kg	Sachet en PEPD  60 X 10 / 103    , X 70μ Pour Usage Industriel ,
+496	Kg	Sachet en PEPD  60 X 10 / 103  , X 70μ Pour Usage Industriel ,
+69	KG	Sachet en PEPD  60 X 11 / 135, X 60,5μ Pour Usage Industriel 25 colis
+361	KG	Sachet en PEPD  60 X 11 / 135, X 60μ Pour Usage Industriel
+312	KG	Sachet en PEPD  60 X 11 / 135, X 60μ Pour Usage Industriel 24 colis
+24	KG	Sachet en PEPD  60 X 11 / 135, X 60μ Pour Usage Industriel 25 colis
+142	KG	Sachet en PEPD  60 X 11 / 135, X 65μ Pour Usage Industriel 25 colis
+1491	KG	Sachet en PEPD  60 X 11 / 135, X 80μ Pour Usage Industriel 25 colis
+64	KG	Sachet en PEPD  60/100, X 80μ Pour Usage Industriel 15 colis
+1490	KG	Sachet en PEPD  60/100, X 80μ Pour Usage Industriel 9 colis
+495	Kg	Sachet en PEPD  62 X 10 / 156  , X70μ Pour Usage Industriel ,
+277	KG	Sachet en PEPD  70 x 7 / 95 , X 60μ Pour Usage Industriel 25 colis ,
+323	KG	Sachet en PEPD  78 / 165 Transparent non Glissant, X 80μ PouUsage Industriel 112 colis ,
+350	KG	Sachet en PEPD  78 / 165 Transparent non Glissant, X 80μ PouUsage Industriel 53 colis ,
+207	KG	Sachet en PEPD  80 / 120  Pour  Usage Industriel ,
+208	KG	Sachet en PEPD  80 X 13 / 130  Pour Usage Industriel ,
+370	KG	Sachet en PEPD  82 X 12 / 164  , X 60μ Pour Usage Industriel  ,
+1489	KG	Sachet en PEPD  82/135, X 80μ Pour Usage Industriel 26 colis
+1907	Kg	Sachet en PEPD  Pour Usage industriel
+340	KG	Sachet en PEPD (  ) Pour Usage Industriel ,
+148	KG	Sachet en PEPD (  72/220  ) Pour Usage Industriel 10 colis ,
+341	KG	Sachet en PEPD (  77/175  ) Pour Usage Industriel ,
+3186	Kg	Sachet en PEPD (  EXTRA 4 )
+1506	KG	Sachet en PEPD (  EXTRA 4 ) Pour Usage Industriel 20 colis
+237	KG	Sachet en PEPD ( 15/15 ) Pour Usage Industriel  5 colis ,
+267	KG	Sachet en PEPD ( 15/15 ) Pour Usage Industriel  9 colis ,
+2936	Kg	Sachet en PEPD ( 15/15 ) Pour Usage Industriel ,
+447	KG	Sachet en PEPD ( 33/63 ) Pour Usage Industriel  11 colis ,
+315	KG	Sachet en PEPD ( 38 X 12 / 107  ) Pour Usage Industriel  ,
+2998	Kg	Sachet en PEPD ( 38 X 12 / 107 ) Pour Usage Industriel  ,
+147	KG	Sachet en PEPD ( 41/65 ) Pour Usage Industriel 10 colis ,
+2764	Kg	Sachet en PEPD ( 41/80 ) Pour Usage Industriel ,
+2860	Kg	Sachet en PEPD ( 42x12 / 99 ) Pour Usage Industriel , M, BASSINE
+3111	Kg	Sachet en PEPD ( 55/63 ) Pour Usage Industriel ,
+194	KG	Sachet en PEPD ( 56 x 10 / 100 ) Pour Usage Industriel  10 colis ,
+2906	Kg	Sachet en PEPD ( 56 x 10 / 100 ) Pour Usage Industriel ,
+448	KG	Sachet en PEPD ( 84/160 ) Pour Usage Industriel  13 colis ,
+3112	Kg	Sachet en PEPD ( 84/160 ) Pour Usage Industriel ,
+33	KG	Sachet en PEPD ( B , STANDARD 1L ) Pour Usage Industriel 11 colis ,
+2925	Kg	Sachet en PEPD ( B , STANDARD 500G  )
+216	KG	Sachet en PEPD ( B STANDARD 1 L ) Pour Usage Industriel ,
+2881	Kg	Sachet en PEPD ( B STANDARD 1L )
+2852	Kg	Sachet en PEPD ( B, HIND  )
+3006	Kg	Sachet en PEPD ( B, HIND  ) Pour Usage Industriel ,
+2808	Kg	Sachet en PEPD ( B, HIND )
+2966	Kg	Sachet en PEPD ( B, HIND ) Pour Usage Industriel  ,
+273	KG	Sachet en PEPD ( B, HIND ) Pour Usage Industriel ,
+2850	Kg	Sachet en PEPD ( B, NOURA  )
+131	KG	Sachet en PEPD ( B, NOURA  ) Pour Usage Industriel 11 colis
+308	KG	Sachet en PEPD ( B, STANDARD  ) Pour Usage Industriel  ,
+3009	Kg	Sachet en PEPD ( B, STANDARD  ) Pour Usage Industriel ,
+327	KG	Sachet en PEPD ( B, STANDARD ) Pour Usage Industriel  ,
+3041	Kg	Sachet en PEPD ( B, STANDARD ) Pour Usage Industriel ,
+2736	Kg	Sachet en PEPD ( B, STANDARD 1 L )
+1522	KG	Sachet en PEPD ( B, STANDARD 1 L ) Pour Usage Industriel 17 colis
+368	KG	Sachet en PEPD ( B, STANDARD 1L ) Pour Usage Industriel  ,
+2756	Kg	Sachet en PEPD ( B, STANDARD 1L ) Pour Usage Industriel ,
+129	KG	Sachet en PEPD ( B, STANDARD 1L ) Usage Industriel 21 colis
+134	KG	Sachet en PEPD ( B,HIND  ) Pour Usage Industriel 19 colis
+88	KG	Sachet en PEPD ( B,HIND ) Pour Usage Industriel 16 colis ,
+90	KG	Sachet en PEPD ( B,ROND 1,4 L ) Pour Usage Industriel 11 colis ,
+2810	Kg	Sachet en PEPD ( B,ROND 1,4L  )
+2990	Kg	Sachet en PEPD ( B,STANDARD  ) Pour Usage Industriel  ,
+2921	Kg	Sachet en PEPD ( B,STANDARD 1 L )
+2884	Kg	Sachet en PEPD ( B,STANDARD 500  )
+2829	Kg	Sachet en PEPD ( B,STANDARD 500 G )
+218	KG	Sachet en PEPD ( B,STANDARD 500G  ) Pour Usage Industriel  ,
+2737	Kg	Sachet en PEPD ( B,STANDARD 500G )
+262	KG	Sachet en PEPD ( B,STANDARD 500G ) Pour Usage Industriel  ,
+1523	KG	Sachet en PEPD ( B,STANDARD 500G ) Pour Usage Industriel 15 colis
+112	KG	Sachet en PEPD ( B,STANDARD 500GE  ) Pour Usage Industriel 20 colis ,
+269	KG	Sachet en PEPD ( BASSINE  34 ) Pour Usage Industriel ,
+2874	Kg	Sachet en PEPD ( BASSINE 34  )
+2734	Kg	Sachet en PEPD ( BASSINE 34 )
+212	KG	Sachet en PEPD ( BASSINE 34 ) Pour Usage Industriel  ,
+283	KG	Sachet en PEPD ( BASSINE 34 ) Pour Usage Industriel ,
+1499	KG	Sachet en PEPD ( BASSINE 34 ) Pour Usage Industriel 10 colis
+161	KG	Sachet en PEPD ( BASSINE 34 ) Pour Usage Industriel 10 colis ,
+1520	KG	Sachet en PEPD ( BASSINE 34 ) Pour Usage Industriel 19 colis
+1508	KG	Sachet en PEPD ( BASSINE 34 ) Pour Usage Industriel 9 colis
+2823	Kg	Sachet en PEPD ( BASSINE SALADE  )
+286	KG	Sachet en PEPD ( BASSINE SALADE  ) Pour Usage Industriel  ,
+185	KG	Sachet en PEPD ( BASSINE SALADE  ) Pour Usage Industriel  13 colis ,
+1509	KG	Sachet en PEPD ( BASSINE SALADE  ) Pour Usage Industriel 10 colis
+2744	Kg	Sachet en PEPD ( BASSINE SALADE ) Pour Usage Industriel ,
+20	KG	Sachet en PEPD ( BASSINE SALADE ) Pour Usage Industriel 11 colis ,
+106	KG	Sachet en PEPD ( BASSINE SALADE ) Pour Usage Industriel 14 colis ,
+2830	Kg	Sachet en PEPD ( BIGA 3  )
+113	KG	Sachet en PEPD ( BIGA 3  ) Pour Usage Industriel 10 colis ,
+3187	Kg	Sachet en PEPD ( BIGA 3 )
+1507	KG	Sachet en PEPD ( BIGA 3 ) Pour Usage Industriel 10 colis
+3192	Kg	Sachet en PEPD ( BIGA 6 )
+1514	KG	Sachet en PEPD ( BIGA 6 ) Pour Usage Industriel 11 colis
+2904	Kg	Sachet en PEPD ( BOITE A 5 PIECES   )
+191	KG	Sachet en PEPD ( BOITE A 5 PIECES  ) Pour Usage Industriel  12 colis ,
+217	KG	Sachet en PEPD ( BOITE HIND   ) Pour Usage Industriel  ,
+2924	Kg	Sachet en PEPD ( BOITE HIND )
+2747	Kg	Sachet en PEPD ( BOITE HIND ) Pour Usage Industriel ,
+23	KG	Sachet en PEPD ( BOITE HIND ) Pour Usage Industriel 11 colis ,
+2757	Kg	Sachet en PEPD ( BOITE NORA ) Pour Usage Industriel ,
+34	KG	Sachet en PEPD ( BOITE NORA ) Pour Usage Industriel 19 colis ,
+2914	Kg	Sachet en PEPD ( BOITE RECTONGLE N° 5 )  Pour Usage industriel ,
+2739	Kg	Sachet en PEPD ( BOTTLE 1,4 L   )
+1525	KG	Sachet en PEPD ( BOTTLE 1,4 L   ) Pour Usage Industriel 10 colis
+2883	Kg	Sachet en PEPD ( BOTTLE ROND 1,4L )
+3181	Kg	Sachet en PEPD ( BOUTEILLE STANDARD 1 L )
+1500	KG	Sachet en PEPD ( BOUTEILLE STANDARD 1 L ) Pour Usage Industriel 22 colis
+2945	Kg	Sachet en PEPD ( BOUTEILLE STANDARD 1L   )
+2952	Kg	Sachet en PEPD ( BOUTEILLE STANDARD1L ) Pour Usage Industriel ,
+188	KG	Sachet en PEPD ( EXTRA 3   ) Pour Usage Industriel  19 colis ,
+2872	Kg	Sachet en PEPD ( EXTRA 3  )
+158	KG	Sachet en PEPD ( EXTRA 3  ) Pour Usage Industriel 21 colis ,
+2731	Kg	Sachet en PEPD ( EXTRA 3 )
+288	KG	Sachet en PEPD ( EXTRA 3 ) Pour Usage Industriel  ,
+2970	Kg	Sachet en PEPD ( EXTRA 3 ) Pour Usage Industriel ,
+1517	KG	Sachet en PEPD ( EXTRA 3 ) Pour Usage Industriel 16 colis
+1504	KG	Sachet en PEPD ( EXTRA 3 ) Pour Usage Industriel 22 colis
+2855	Kg	Sachet en PEPD ( EXTRA 4  )
+2997	Kg	Sachet en PEPD ( EXTRA 4  ) Pour Usage Industriel ,
+138	KG	Sachet en PEPD ( EXTRA 4  ) Pour Usage Industriel 10 colis
+354	KG	Sachet en PEPD ( EXTRA 4 ) Pour Pour Usage Industriel ,
+316	KG	Sachet en PEPD ( EXTRA 4 ) Pour Usage Industriel  ,
+187	KG	Sachet en PEPD ( EXTRA 4 ) Pour Usage Industriel  21 colis ,
+3039	Kg	Sachet en PEPD ( EXTRA 4 ) Pour Usage Industriel ,
+22	KG	Sachet en PEPD ( G , ASSIETTE ) Pour Usage Industriel 10 colis ,
+2974	Kg	Sachet en PEPD ( G , POT CARRE ) Pour Usage Industriel ,
+2973	Kg	Sachet en PEPD ( G , POT EXAGONAL ) Pour Usage Industriel  ,
+21	KG	Sachet en PEPD ( G , SARA ) Pour Usage Industriel 20 colis ,
+329	KG	Sachet en PEPD ( G POT EXAGONALE  ) Usage Industriel  ,
+2746	Kg	Sachet en PEPD ( G, ASSIETTE ) Pour Usage Industriel ,
+360	KG	Sachet en PEPD ( G, BASSINE CARRE  ) Pour Usage Industriel  ,
+54	KG	Sachet en PEPD ( G, PANIER CARRE  ) Pour Usage Industriel 20 colis ,
+304	KG	Sachet en PEPD ( G, PANIER CARRE ) Pour Usage Industriel  ,
+2986	Kg	Sachet en PEPD ( G, PANIER CARRE ) Pour Usage Industriel ,
+287	KG	Sachet en PEPD ( G, POT CARRE ) Pour Usage Industriel  ,
+285	KG	Sachet en PEPD ( G, POT EXAGONAL ) Pour Usage Industriel  ,
+3011	Kg	Sachet en PEPD ( G, POT EXAGONALE  ) Pour Usage Industriel  ,
+367	KG	Sachet en PEPD ( G, SARA  ) Pour Pour Usage Industriel ,
+307	KG	Sachet en PEPD ( G, SARA  ) Pour Usage Industriel  ,
+3040	Kg	Sachet en PEPD ( G, SARA  ) Pour Usage Industriel ,
+3189	Kg	Sachet en PEPD ( G, SARA )
+2745	Kg	Sachet en PEPD ( G, SARA ) Pour Usage Industriel ,
+1511	KG	Sachet en PEPD ( G, SARA ) Pour Usage Industriel 19 colis
+2777	Kg	Sachet en PEPD ( G,PANIER CARRE   ) Pour Usage Industriel ,
+333	KG	Sachet en PEPD ( G,PANIER CARRE ) Pour Usage Industriel  ,
+2886	Kg	Sachet en PEPD ( G,POT CARRE   )
+2825	Kg	Sachet en PEPD ( G,POT EXAGONALE  )
+108	KG	Sachet en PEPD ( G,POT EXAGONALE ) Pour Usage Industriel 11 colis ,
+2738	Kg	Sachet en PEPD ( G,POT HEXAGONAL  )
+1524	KG	Sachet en PEPD ( G,POT HEXAGONAL  ) Pour Usage Industriel 11 colis
+356	KG	Sachet en PEPD ( G,SARA ) Pour Usage Industriel  ,
+3191	Kg	Sachet en PEPD ( GRAND PANIER CARRE )
+1513	KG	Sachet en PEPD ( GRAND PANIER CARRE ) Pour Usage Industriel  21 colis
+3188	Kg	Sachet en PEPD ( IGOUTOIR 2 )
+326	KG	Sachet en PEPD ( IGOUTOIR 2 ) Pour Usage Industriel  ,
+3008	Kg	Sachet en PEPD ( IGOUTOIR 2 ) Pour Usage Industriel ,
+1510	KG	Sachet en PEPD ( IGOUTOIR 2 ) Pour Usage Industriel 11 colis
+2923	Kg	Sachet en PEPD ( M , BASSINE )
+259	KG	Sachet en PEPD ( M , BASSINE ) Pour Usage Industriel  ,
+2960	Kg	Sachet en PEPD ( M , POT EXAGONAL ) Pour Usage Industriel ,
+111	KG	Sachet en PEPD ( M, BASSINE  ) Pour Usage Industriel 10 colis ,
+2828	Kg	Sachet en PEPD ( M, BASSINE )
+248	KG	Sachet en PEPD ( M, BASSINE ) Pour Usage Industriel ,
+270	KG	Sachet en PEPD ( M, POT EXAGONAL ) Pour Usage Industriel ,
+213	KG	Sachet en PEPD ( M,BASSINE  ) Pour Usage Industriel  ,
+154	KG	Sachet en PEPD ( M,BASSINE  ) Pour Usage Industriel 29 colis ,
+2950	Kg	Sachet en PEPD ( M,BASSINE ) Pour Usage Industriel ,
+3173	Kg	Sachet en PEPD ( M,POT HEXAGONAL) Pour Usage Industriel ,
+1495	KG	Sachet en PEPD ( M,POT HEXAGONAL) Pour Usage Industriel 11 colis
+2900	Kg	Sachet en PEPD ( MOYEN BASSINE  )
+186	KG	Sachet en PEPD ( MOYEN BASSINE ) Pour Usage Industriel  21 colis ,
+3183	Kg	Sachet en PEPD ( N, P, SARA )
+1502	KG	Sachet en PEPD ( N, P, SARA ) Pour Usage Industriel 11 colis
+2851	Kg	Sachet en PEPD ( N,P,SARA  )
+2961	Kg	Sachet en PEPD ( N,P,SARA  ) Pour Usage Industriel ,
+271	KG	Sachet en PEPD ( N,P,SARA ) Pour Usage Industriel  ,
+132	KG	Sachet en PEPD ( N,P,SARA ) Pour Usage Industriel 11 colis
+330	KG	Sachet en PEPD ( NEW P,SARA ) Pour Usage Industriel  ,
+2805	Kg	Sachet en PEPD ( NEW POUBELLE  )
+2962	Kg	Sachet en PEPD ( NEW POUBELLE  ) Pour Usage Industriel ,
+85	KG	Sachet en PEPD ( NEW POUBELLE  ) Pour Usage Industriel 15 colis ,
+2870	Kg	Sachet en PEPD ( NEW POUBELLE )
+274	KG	Sachet en PEPD ( NEW POUBELLE ) Pour Usage Industriel  ,
+155	KG	Sachet en PEPD ( NEW POUBELLE ) Pour Usage Industriel 11 colis ,
+2918	Kg	Sachet en PEPD ( P , HASSNA )
+335	KG	Sachet en PEPD ( P , HASSNA ) Pour Usage Industriel  ,
+2975	Kg	Sachet en PEPD ( P , POT CARRE ) Pour Usage Industriel ,
+35	KG	Sachet en PEPD ( P , SARA  ) Pour Usage Industriel 20 colis ,
+289	KG	Sachet en PEPD ( P , SARA ) Pour Usage Industriel  ,
+305	KG	Sachet en PEPD ( P BASSINE  ) Pour Usage Industriel  ,
+210	KG	Sachet en PEPD ( P HASSNA   ) Pour Usage Industriel  ,
+3007	Kg	Sachet en PEPD ( P HASSNA ) Pour Usage Industriel ,
+2972	Kg	Sachet en PEPD ( P SARA  ) Pour Usage Industriel ,
+2996	Kg	Sachet en PEPD ( P SARA ) Pour Usage Industriel ,
+2758	Kg	Sachet en PEPD ( P,  SARA  ) Pour Usage Industriel ,
+2987	Kg	Sachet en PEPD ( P, BASSINE  ) Pour Usage Industriel ,
+2853	Kg	Sachet en PEPD ( P, BOITE A GATEAU   )
+135	KG	Sachet en PEPD ( P, BOITE A GATEAU  ) Pour Usage Industriel 17 colis
+178	KG	Sachet en PEPD ( P, CARRE ) Pour Usage Industriel  10 colis ,
+2763	Kg	Sachet en PEPD ( P, EGOUTOIR  ) Pour Usage Industriel ,
+2898	Kg	Sachet en PEPD ( P, HASSNA   )
+2826	Kg	Sachet en PEPD ( P, HASSNA  )
+276	KG	Sachet en PEPD ( P, HASSNA  ) Pour Usage Industriel  ,
+109	KG	Sachet en PEPD ( P, HASSNA  ) Pour Usage Industriel 15 colis ,
+2730	Kg	Sachet en PEPD ( P, HASSNA )
+314	KG	Sachet en PEPD ( P, HASSNA ) Pour Usage Industriel  ,
+2814	Kg	Sachet en PEPD ( P, HASSNA ) Pour Usage Industriel ,
+1516	KG	Sachet en PEPD ( P, HASSNA ) Pour Usage Industriel 21 colis
+94	KG	Sachet en PEPD ( P, HASSNA ) Pour Usage Industriel 21 colis ,
+325	KG	Sachet en PEPD ( P, HIND ) Pour Usage Industriel  ,
+55	KG	Sachet en PEPD ( P, IGOUTOIN   ) Pour Usage Industriel 31 colis ,
+2778	Kg	Sachet en PEPD ( P, IGOUTOIN  ) Pour Usage Industriel ,
+284	KG	Sachet en PEPD ( P, IGOUTOIR  ) Pour Usage Industriel  ,
+2971	Kg	Sachet en PEPD ( P, IGOUTOIR  ) Pour Usage Industriel ,
+337	KG	Sachet en PEPD ( P, PANIER LING ROND ) Pour Pour Usage Industriel  ,
+275	KG	Sachet en PEPD ( P, PANIER LING ROND ) Pour Usage Industriel ,
+2875	KG	Sachet en PEPD ( P, PANIER LINGE ROND  )
+2871	Kg	Sachet en PEPD ( P, POT CARRE  )
+282	KG	Sachet en PEPD ( P, POT CARRE  ) Pour Usage Industriel  ,
+3010	Kg	Sachet en PEPD ( P, ROND 1L ) Pour Usage Industriel  ,
+2807	Kg	Sachet en PEPD ( P, SARA  )
+87	KG	Sachet en PEPD ( P, SARA  ) Pour Usage Industriel 20 colis ,
+3182	Kg	Sachet en PEPD ( P, SARA )
+313	KG	Sachet en PEPD ( P, SARA ) Pour Usage Industriel  ,
+133	KG	Sachet en PEPD ( P, SARA ) Pour Usage Industriel 19 colis
+1501	KG	Sachet en PEPD ( P, SARA ) Pour Usage Industriel 22 colis
+339	KG	Sachet en PEPD ( P, STANDARD 1 L ) Pour Usage Industriel  ,
+3185	Kg	Sachet en PEPD ( P,BASSINE )
+1505	KG	Sachet en PEPD ( P,BASSINE ) Pour Usage Industriel 11 colis
+2811	Kg	Sachet en PEPD ( P,BOITE A GATEAU   )
+91	KG	Sachet en PEPD ( P,BOITE A GATEAU ) Pour Usage Industriel 9 colis ,
+2895	Kg	Sachet en PEPD ( P,CARRE  )
+40	KG	Sachet en PEPD ( P,EGOUTOIR ) Pour Usage Industriel 18 colis ,
+2773	Kg	Sachet en PEPD ( P,HASSNA   ) Pour Usage Industriel ,
+137	KG	Sachet en PEPD ( P,HASSNA   ) Pour Usage Industriel 11 colis
+157	KG	Sachet en PEPD ( P,HASSNA  ) Pour Usage Industriel 21 colis ,
+3179	Kg	Sachet en PEPD ( P,HASSNA )
+183	KG	Sachet en PEPD ( P,HASSNA ) Pour Usage Industriel  11 colis ,
+1497	KG	Sachet en PEPD ( P,HASSNA ) Pour Usage Industriel 22 colis
+50	KG	Sachet en PEPD ( P,HJASSNA   ) Pour Usage Industriel 21 colis ,
+3171	Kg	Sachet en PEPD ( P,IGOUTOIR ) Pour Usage Industriel ,
+1493	KG	Sachet en PEPD ( P,IGOUTOIR ) Pour Usage Industriel 11 colis
+2963	Kg	Sachet en PEPD ( P,PANIER LING ROND  ) Pour Usage Industriel  ,
+162	KG	Sachet en PEPD ( P,PANIER LING ROND ) Pour Usage Industriel 11 colis ,
+156	KG	Sachet en PEPD ( P,POT CARRE  ) Pour Usage Industriel 11 colis ,
+2809	Kg	Sachet en PEPD ( P,POT CARRE )
+1503	KG	Sachet en PEPD ( P,POT CARRE ) Pour Usage Industriel 19 colis
+89	KG	Sachet en PEPD ( P,POT CARRE ) Pour Usage Industriel 19 colis ,
+328	KG	Sachet en PEPD ( P,ROND 1L ) Pour Usage Industriel  ,
+2882	Kg	Sachet en PEPD ( P,SARA )
+357	KG	Sachet en PEPD ( P,SARA ) Pour Usage Industriel  ,
+2899	Kg	Sachet en PEPD ( PANIER CARRE  )
+192	KG	Sachet en PEPD ( PANIER CARRE  ) Pour Usage Industriel  12 colis ,
+184	KG	Sachet en PEPD ( PANIER CARRE ) Pour Usage Industriel  10 colis ,
+2942	Kg	Sachet en PEPD ( PANIER HASSNA )
+3031	Kg	Sachet en PEPD ( PETIT POT EXAGONAL ) Pour Usage Industriel ,
+346	KG	Sachet en PEPD ( PETITE POT EXAGONAL ) Pour Usage Industriel  ,
+3180	Kg	Sachet en PEPD ( POT MIEI 500G )
+1498	KG	Sachet en PEPD ( POT MIEI 500G ) Pour Usage Industriel 10 colis
+177	KG	Sachet en PEPD ( POT MIEL  ) Pour Usage Industriel  13 colis ,
+2812	Kg	Sachet en PEPD ( POT MIEL 250G  ) Pour Usage Industriel ,
+2894	Kg	Sachet en PEPD ( POT MIEL 250G )
+332	KG	Sachet en PEPD ( POT MIEL 250G ) Pour Usage Industriel  ,
+2775	Kg	Sachet en PEPD ( POT MIEL 250G ) Pour Usage Industriel ,
+92	KG	Sachet en PEPD ( POT MIEL 250G ) Pour Usage Industriel 11 colis ,
+52	KG	Sachet en PEPD ( POT MIEL 250G ) Pour Usage Industriel 9 colis ,
+2885	Kg	Sachet en PEPD ( POT MIEL 500 )
+2740	Kg	Sachet en PEPD ( POT MIEL 500 G  )
+1526	KG	Sachet en PEPD ( POT MIEL 500 G  ) Pour Usage Industriel 11 colis
+336	KG	Sachet en PEPD ( POT MIEL 500G ) Pour Usage Industriel  ,
+2774	Kg	Sachet en PEPD ( POT MIEL 500G ) Pour Usage Industriel ,
+1492	KG	Sachet en PEPD ( POT MIEL 500G ) Pour Usage Industriel 10 colis
+51	KG	Sachet en PEPD ( POT MIEL 500G ) Pour Usage Industriel 10 colis ,
+86	KG	Sachet en PEPD ( POUBELLE   ) Pour Usage Industriel 22 colis ,
+2858	Kg	Sachet en PEPD ( POUBELLE  )
+2806	Kg	Sachet en PEPD ( POUBELLE )
+245	KG	Sachet en PEPD ( POUBELLE ) Pour Usage Industriel  ,
+141	KG	Sachet en PEPD ( POUBELLE ) Pour Usage Industriel  22 colis ,
+105	KG	Sachet en PEPD ( POUBELLE ) Pour Usage Industriel 11 colis ,
+3172	Kg	Sachet en PEPD ( POUBELLE) Pour Usage Industriel ,
+1494	KG	Sachet en PEPD ( POUBELLE) Pour Usage Industriel 16 colis
+110	KG	Sachet en PEPD ( PP, LINGE ROND  ) Pour Usage Industriel 11 colis ,
+2827	Kg	Sachet en PEPD ( PP, LINGE ROND )
+2857	Kg	Sachet en PEPD ( SEAU  2L )
+189	KG	Sachet en PEPD ( SEAU 12 L   ) Pour Usage Industriel 9 colis ,
+2902	Kg	Sachet en PEPD ( SEAU 12 L  )
+163	KG	Sachet en PEPD ( SEAU 12 L  ) Pour Usage Industriel 21 colis ,
+2732	Kg	Sachet en PEPD ( SEAU 12 L )
+331	KG	Sachet en PEPD ( SEAU 12 L ) Pour Usage Industriel  ,
+1518	KG	Sachet en PEPD ( SEAU 12 L ) Pour Usage Industriel 11 colis
+2876	Kg	Sachet en PEPD ( SEAU 12L  )
+2755	Kg	Sachet en PEPD ( SEAU 12L  ) Pour Usage Industriel ,
+32	KG	Sachet en PEPD ( SEAU 12L  ) Pour Usage Industriel 10 colis ,
+130	KG	Sachet en PEPD ( SEAU 12L  ) Pour Usage Industriel 16 colis
+2803	Kg	Sachet en PEPD ( SEAU 12L )
+83	KG	Sachet en PEPD ( SEAU 12L ) Pour Usage Industriel 26 colis ,
+344	KG	Sachet en PEPD ( SEAU 17 L  ) Pour Pour Usage Industriel ,
+2824	Kg	Sachet en PEPD ( SEAU 17 L )
+3029	Kg	Sachet en PEPD ( SEAU 17 L ) Pour Usage Industriel ,
+107	KG	Sachet en PEPD ( SEAU 17 L) Pour Usage Industriel 20 colis ,
+2873	Kg	Sachet en PEPD ( SEAU 17L  )
+160	KG	Sachet en PEPD ( SEAU 17L ) Pour Usage Industriel 21 colis ,
+2920	Kg	Sachet en PEPD ( SEAU 2 L  )
+355	KG	Sachet en PEPD ( SEAU 2 L  ) Pour Usage Industriel  ,
+2804	Kg	Sachet en PEPD ( SEAU 2 L )
+215	KG	Sachet en PEPD ( SEAU 2 L ) Pour Usage Industriel  ,
+2985	Kg	Sachet en PEPD ( SEAU 2 L ) Pour Usage Industriel ,
+140	KG	Sachet en PEPD ( SEAU 2 L) Pour Usage Industriel  20 colis ,
+2887	Kg	Sachet en PEPD ( SEAU 22 L   )
+190	KG	Sachet en PEPD ( SEAU 22 L   ) Pour Usage Industriel  9 colis ,
+2903	Kg	Sachet en PEPD ( SEAU 22 L  )
+2776	Kg	Sachet en PEPD ( SEAU 22 L  ) Pour Usage Industriel ,
+343	KG	Sachet en PEPD ( SEAU 22 L ) Pour Usage Industriel  ,
+3028	Kg	Sachet en PEPD ( SEAU 22 L ) Pour Usage Industriel ,
+104	KG	Sachet en PEPD ( SEAU 22 L) Pour Usage Industriel 21 colis ,
+53	KG	Sachet en PEPD ( SEAU 22L  ) Pour Usage Industriel 16 colis ,
+2733	Kg	Sachet en PEPD ( SEAU 22L )
+1519	KG	Sachet en PEPD ( SEAU 22L ) Pour Usage Industriel 11 colis
+2944	Kg	Sachet en PEPD ( SEAU 26 L  )
+244	KG	Sachet en PEPD ( SEAU 26 L  ) Pour Usage Industriel ,
+2735	Kg	Sachet en PEPD ( SEAU 2L  )
+246	KG	Sachet en PEPD ( SEAU 2L  ) Pour Usage Industriel  ,
+2953	Kg	Sachet en PEPD ( SEAU 2L  ) Pour Usage Industriel ,
+1521	KG	Sachet en PEPD ( SEAU 2L  ) Pour Usage Industriel 19 colis
+153	KG	Sachet en PEPD ( SEAU 2L  ) Pour Usage Industriel 19 colis ,
+84	KG	Sachet en PEPD ( SEAU 2L  ) Pour Usage Industriel 24 colis ,
+2868	Kg	Sachet en PEPD ( SEAU 2L )
+176	KG	Sachet en PEPD ( SEAU 2L ) Pour Usage Industriel  10 colis ,
+180	KG	Sachet en PEPD ( SEAU 2L ) Pour Usage Industriel  36 colis ,
+358	KG	Sachet en PEPD ( SEAU 3 ) Pour Pour Usage Industriel ,
+2922	Kg	Sachet en PEPD ( SEAU 3 L  )
+214	KG	Sachet en PEPD ( SEAU 3L  ) Pour Usage Industriel  ,
+2813	Kg	Sachet en PEPD ( SEAU 3L ) Pour Usage Industriel ,
+93	KG	Sachet en PEPD ( SEAU 3L ) Pour Usage Industriel 15 colis ,
+2897	Kg	Sachet en PEPD ( SEAU 5 L  )
+345	KG	Sachet en PEPD ( SEAU 5 L  ) Pour Usage Industriel  ,
+3030	Kg	Sachet en PEPD ( SEAU 5 L ) Pour Usage Industriel ,
+182	KG	Sachet en PEPD ( SEAU 5L   ) Pour Usage Industriel  19 colis ,
+2856	Kg	Sachet en PEPD ( SEAU 5L  )
+139	KG	Sachet en PEPD ( SEAU 5L  ) Pour Usage Industriel 11 colis
+2802	Kg	Sachet en PEPD ( SEAU 5L )
+159	KG	Sachet en PEPD ( SEAU 5L ) Pour Usage Industriel 20 colis ,
+82	KG	Sachet en PEPD ( SEAU 5L ) Pour Usage Industriel 21 colis ,
+2896	Kg	Sachet en PEPD ( SEAU 6 L  )
+260	KG	Sachet en PEPD ( SEAU 6 L  ) Pour Usage Industriel ,
+338	KG	Sachet en PEPD ( SEAU 6 L )  Pour Usage Industriel  ,
+272	KG	Sachet en PEPD ( SEAU 6 L ) Pour Usage Industriel  ,
+250	KG	Sachet en PEPD ( SEAU 6 L ) Pour Usage Industriel ,
+181	KG	Sachet en PEPD ( SEAU 6L   ) Pour Usage Industriel  14 colis ,
+2854	Kg	Sachet en PEPD ( SEAU 6L  )
+209	KG	Sachet en PEPD ( SEAU 6L  ) Pour Usage Industriel  ,
+81	KG	Sachet en PEPD ( SEAU 6L  ) Pour Usage Industriel 21 colis ,
+2917	Kg	Sachet en PEPD ( SEAU 6L )
+2965	Kg	Sachet en PEPD ( SEAU 6L ) Pour Usage Industriel  ,
+2951	Kg	Sachet en PEPD ( SEAU 6L ) Pour Usage Industriel ,
+136	KG	Sachet en PEPD ( SEAU 6L ) Pour Usage Industriel 15 colis
+1496	KG	Sachet en PEPD ( SEAU 6L ) Pour Usage Industriel 19 colis
+211	KG	Sachet en PEPD ( SEAU A GATEAU 17 L  ) Pour Pour Usage Industriel ,
+2919	Kg	Sachet en PEPD ( SEAU A GATEAU 17 L )
+3190	Kg	Sachet en PEPD ( SEAU POUBELLE ROND)
+1512	KG	Sachet en PEPD ( SEAU POUBELLE ROND) Pour Usage Industriel 11 colis
+2869	Kg	Sachet en PEPD ( VERRE  )
+306	KG	Sachet en PEPD ( VERRE  ) Pour Usage Industriel  ,
+2988	Kg	Sachet en PEPD ( VERRE  ) Pour Usage Industriel ,
+2943	Kg	Sachet en PEPD ( VERRE )
+359	KG	Sachet en PEPD ( VERRE ) Pour Pour Usage Industriel ,
+152	KG	Sachet en PEPD ( VERRE ) Pour Usage Industriel  10 colis ,
+179	KG	Sachet en PEPD ( VERRE ) Pour Usage Industriel  11 colis ,
+251	KG	Sachet en PEPD ( VERRE ) Pour Usage Industriel ,
+41	KG	Sachet en PEPD (41/80 ) Pour Usage Industriel 21 colis ,
+143	KG	Sachet en PEPD (42 x12 /99 ) Pour Usage Industriel 21 colis , ( M , BASSINE  )
+243	KG	Sachet en PEPD (PANIER  HASSNA) Pour Usage Industriel  ,
+2780	Kg	Sachet en PEPD 100/140 Pour Usage industriel ,
+57	KG	Sachet en PEPD 100/140,  Pour Usage Industriel  10 colis
+115	KG	Sachet en PEPD 100/140, X 60μ Pour Usage Industriel  11 colis ,
+2832	Kg	Sachet en PEPD 100/140, X 60μ Pour Usage industriel
+2760	Kg	Sachet en PEPD 102 / 156 , X 65μ Pour Usage Industriel ,
+37	KG	Sachet en PEPD 102 / 156,  X 65μ Pour Usage Industriel  49 colis
+66	KG	Sachet en PEPD 102 / 156,  X 65μ Pour Usage Industriel  50 colis
+225	KG	Sachet en PEPD 102 / 156,  X 65μ Pour Usage Industriel  52 colis
+2977	Kg	Sachet en PEPD 102 / 156, X 45μ Pour Usage Industriel ,
+290	KG	Sachet en PEPD 102/156, X 45μ Pour Usage Industriel  49 colis
+2893	Kg	Sachet en PEPD 17/35,  X 70μ Pour Usage industriel ,
+63	KG	Sachet en PEPD 17/35, X 30μ Pour Usage Industriel
+175	KG	Sachet en PEPD 17/35, X 35μ Pour Usage Industriel  5 colis
+2785	Kg	Sachet en PEPD 18/35, X 30μ Pour Usage Industriel,
+232	KG	Sachet en PEPD 18/40, X 70μ Pour Usage Industriel  24  colis
+309	KG	Sachet en PEPD 20/40  , X 50μ Pour Usage Industriel 10 colis ,
+2991	Kg	Sachet en PEPD 20/40, X 50μ Pour Usage industriel
+2792	Kg	Sachet en PEPD 20/54,  X 60μ Pour Usage industriel ,
+72	KG	Sachet en PEPD 20/54,  X 80μ Pour Usage Industriel  10 colis
+2791	Kg	Sachet en PEPD 22/48,  X 80μ Pour Usage industriel ,
+71	KG	Sachet en PEPD 22/48, X 80μ Pour Usage Industriel  10 colis
+6	KG	Sachet en PEPD 25 / 45 , X 80μ Pour Usage Industriel  14 colis
+292	KG	Sachet en PEPD 25 / 45, X 80μ Pour Usage Industriel 15 colis ,
+234	KG	Sachet en PEPD 25/40, X 70μ Pour Usage Industriel  26 colis
+310	KG	Sachet en PEPD 25/45  , X 50μ Pour Usage Industriel 13 colis ,
+3169	Kg	Sachet en PEPD 25/45 X 80μ Pour Usage industriel
+1	KG	Sachet en PEPD 25/45, X 80μ Pour Usage Industriel 13 colis
+2979	Kg	Sachet en PEPD 25/45, X 80μ Pour Usage industriel
+18	KG	Sachet en PEPD 28/40,  X 80μ Pour Usage Industriel  10 colis
+2742	Kg	Sachet en PEPD 28/40,  X 80μ Pour Usage industriel
+2798	Kg	Sachet en PEPD 28/40,  X 80μ Pour Usage industriel ,
+61	KG	Sachet en PEPD 28/40, X 30μ Pour Usage Industriel
+2783	Kg	Sachet en PEPD 28/40, X 30μ Pour Usage Industriel,
+233	KG	Sachet en PEPD 28/40, X 70μ Pour Usage Industriel  24 colis
+78	KG	Sachet en PEPD 28/40, X 80μ Pour Usage Industriel  17 colis
+255	KG	Sachet en PEPD 28/40, X 80μ Pour Usage Industriel 16 colis ,
+2948	Kg	Sachet en PEPD 28/40, X 80μ Pour Usage industriel
+2845	Kg	Sachet en PEPD 28/44,  X 30μ Pour Usage industriel ,
+62	KG	Sachet en PEPD 28/44, X 30μ Pour Usage Industriel
+128	KG	Sachet en PEPD 28/44, X 30μ Pour Usage Industriel  5 colis
+2784	Kg	Sachet en PEPD 28/44, X 30μ Pour Usage Industriel,
+2847	Kg	Sachet en PEPD 30 X 8 / 50,  X 80μ Pour Usage industriel ,
+382	KG	Sachet en PEPD 30 X 8 / 60  , X 80μ Pour Usage Industriel 5 colis ,
+2795	Kg	Sachet en PEPD 30 X 8 / 60,  X 80μ Pour Usage industriel ,
+75	KG	Sachet en PEPD 30 X 8 / 60, X 80μ Pour Usage Industriel  10 colis
+383	KG	Sachet en PEPD 30 X 8 / 70  , X 80μ Pour Usage Industriel 5 colis ,
+220	KG	Sachet en PEPD 30 x 8 / 60 , X 80μ Pour Usage Industriel  9 colis
+2927	Kg	Sachet en PEPD 30 x 8 / 60,  X 80μ Pour Usage industriel ,
+311	KG	Sachet en PEPD 30/50 , X 60μ Pour Usage Industriel 13 colis ,
+2993	Kg	Sachet en PEPD 30/50, X 60μ Pour Usage industriel
+11	KG	Sachet en PEPD 30/8 X 70, X 80μ Pour Usage Industriel  13 colis
+3197	Kg	Sachet en PEPD 30/8 X 70, X 80μ Pour Usage industriel
+3165	Kg	Sachet en PEPD 30/8X50 X 80μ Pour Usage industriel
+3168	Kg	Sachet en PEPD 30/8X70 X 80μ Pour Usage industriel
+2817	Kg	Sachet en PEPD 30/90,  X 70μ Pour Usage industriel ,
+97	KG	Sachet en PEPD 30/90, X 70μ Pour Usage Industriel  8 colis
+2957	Kg	Sachet en PEPD 30X8/60, X 80μ Pour Usage industriel
+2821	Kg	Sachet en PEPD 30x8/60,  X 80μ Pour Usage industriel ,
+102	KG	Sachet en PEPD 30x8/60, X 80μ Pour Usage Industriel  25 colis
+2889	Kg	Sachet en PEPD 32 X 12 / 97,  X 60μ Pour Usage industriel ,
+171	KG	Sachet en PEPD 32 X 12 / 97, X  60 μ Pour Usage Industriel  11 colis
+149	KG	Sachet en PEPD 32 X 8 / 90, X  50μ Pour Usage Industriel  11 colis
+150	KG	Sachet en PEPD 32 X8 / 70, X  50μ Pour Usage Industriel  11 colis
+1488	KG	Sachet en PEPD 32/70, X 80μ Pour Usage Industriel 4 colis
+2866	Kg	Sachet en PEPD 32X8/70 ,  X 50μ Pour Usage industriel ,
+2865	Kg	Sachet en PEPD 32X8/90,  X 50μ Pour Usage industriel ,
+231	KG	Sachet en PEPD 33 / 110, X 70μ Pour Usage Industriel  10 colis
+2816	Kg	Sachet en PEPD 33/110,  X 70μ Pour Usage industriel ,
+96	KG	Sachet en PEPD 33/110, X 70μ Pour Usage Industriel  9 colis
+2890	Kg	Sachet en PEPD 34 X 8 / 52 ,  X 60μ Pour Usage industriel ,
+172	KG	Sachet en PEPD 34 X 8 / 52, X  60μ Pour Usage Industriel  9 colis
+201	KG	Sachet en PEPD 36 / 115 , X 70μ Pour Usage Industriel  7 colis
+2910	Kg	Sachet en PEPD 36/115,  X 70μ Pour Usage industriel ,
+2786	Kg	Sachet en PEPD 36/115, X 70μ Pour  Usage Industriel,
+60	KG	Sachet en PEPD 36/115, X 70μ Pour Usage Industriel  8 colis
+235	KG	Sachet en PEPD 36/140 , X 60μ Pour Usage Industriel 27 colis ,
+70	KG	Sachet en PEPD 36/140, X 60μ Pour Usage Industriel  6 colis
+2935	Kg	Sachet en PEPD 36/140, X 60μ Pour Usage industriel
+2790	Kg	Sachet en PEPD 36/140, X 60μ Pour Usage industriel ,
+166	KG	Sachet en PEPD 40/105, X 70μ Pour Usage Industriel  7 colis
+2879	Kg	Sachet en PEPD 40/105, X 70μ Pour Usage industriel ,
+297	KG	Sachet en PEPD 40/60  , X 70μ Pour Usage Industriel 16 colis ,
+118	KG	Sachet en PEPD 40/60, X 70μ Pour Usage Industriel 28 colis ,
+2835	Kg	Sachet en PEPD 40/60, X 70μ Pour Usage industriel
+240	KG	Sachet en PEPD 40X8/60,  X 25μ Pour Usage Industriel  20 colis
+2939	Kg	Sachet en PEPD 40X8/60,  X 25μ Pour Usage industriel ,
+1885	Kg	Sachet en PEPD 41 x 16 /68, X 60μ Pour Usage industriel
+2863	Kg	Sachet en PEPD 41/65,   Pour Usage industriel ,
+1873	Kg	Sachet en PEPD 41/68, X 32μ Pour Usage industriel
+151	KG	Sachet en PEPD 42 X 12 / 81, X  70μ Pour Usage Industriel  12 colis
+2867	Kg	Sachet en PEPD 42X12/81,  X 70μ Pour Usage industriel ,
+45	KG	Sachet en PEPD 43/80, X 70μ Pour Usage Industriel  6 colis
+2768	Kg	Sachet en PEPD 43/80, X 70μ Pour Usage industriel ,
+1659	Kg	Sachet en PEPD 45 X 10 /110  X 80μ Pour Usage industriel >
+1762	Kg	Sachet en PEPD 45x60, X 90μ Pour Usage industriel
+117	KG	Sachet en PEPD 48x8,5/140, X 70μ Pour Usage Industriel  12 colis ,
+2834	Kg	Sachet en PEPD 48x8,5/140, X 70μ Pour Usage industriel
+3034	Kg	Sachet en PEPD 50 / 90, X 55μ Pour Usage Industriel ,
+122	KG	Sachet en PEPD 50/100, X 55μ Pour Usage Industriel  16  colis
+2839	Kg	Sachet en PEPD 50/100, X 55μ Pour Usage Industriel ,
+2891	Kg	Sachet en PEPD 50/112,  X 70μ Pour Usage industriel ,
+124	KG	Sachet en PEPD 50/112, X 70μ Pour Usage Industriel  8 colis
+2841	Kg	Sachet en PEPD 50/112, X 70μ Pour Usage industriel ,
+2838	Kg	Sachet en PEPD 50/90 , X 55μ Pour Usage Industriel ,
+3161	Kg	Sachet en PEPD 50/90 X 55μ Pour Usage Industriel ,
+56	KG	Sachet en PEPD 50/90, X 55μ Pour Usage Industriel  16 colis
+2779	Kg	Sachet en PEPD 50/90, X 55μ Pour Usage Industriel ,
+3175	Kg	Sachet en PEPD 50x7/110 X 60,5μ Pour Usage Industrie
+347	KG	Sachet en PEPD 52 / 110  , X 100μ Pour Usage Industriel 15 colis ,
+12	KG	Sachet en PEPD 52 / 110,  X 80μ Pour Usage Industriel  40 colis
+3198	Kg	Sachet en PEPD 52 / 110,  X 80μ Pour Usage industriel
+2749	Kg	Sachet en PEPD 52 / 90 , X 80μ Pour Usage industriel
+321	KG	Sachet en PEPD 52 X 23 / 190  , X 80μ Pour Usage Industriel 26 colis ,
+3124	Kg	Sachet en PEPD 52 x 10 / 120, X 45μ Pour Usage Industriel ,
+318	KG	Sachet en PEPD 52/110  , X 80μ Pour Usage Industriel 38 colis ,
+236	KG	Sachet en PEPD 52/110 , X 100μ Pour Usage Industriel 16 colis ,
+252	KG	Sachet en PEPD 52/110 , X 100μ Pour Usage Industriel 21 colis ,
+2940	Kg	Sachet en PEPD 52/110,  X 100μ Pour Usage industriel ,
+2861	Kg	Sachet en PEPD 52/110,  X 80μ Pour Usage industriel ,
+241	KG	Sachet en PEPD 52/110, X 100μ Pour Usage Industriel  21 colis
+294	KG	Sachet en PEPD 52/110, X 100μ Pour Usage Industriel 41 colis ,
+2934	Kg	Sachet en PEPD 52/110, X 100μ Pour Usage industriel
+145	KG	Sachet en PEPD 52/110, X 80μ Pour Usage Industriel  32 colis
+3000	Kg	Sachet en PEPD 52/110, X 80μ Pour Usage industriel
+257	KG	Sachet en PEPD 52/75 , X 60μ Pour Usage Industriel 20 colis ,
+298	KG	Sachet en PEPD 52/75 , X 60μ Pour Usage Industriel 26 colis ,
+258	KG	Sachet en PEPD 52/75 , X 60μ Pour Usage Industriel 32 colis ,
+253	KG	Sachet en PEPD 52/75 , X 60μ Pour Usage Industriel 60 colis ,
+2819	Kg	Sachet en PEPD 52/75,  X 60μ Pour Usage industriel ,
+100	KG	Sachet en PEPD 52/75, X 60μ Pour Usage Industriel  31 colis
+2946	Kg	Sachet en PEPD 52/75, X 60μ Pour Usage industriel
+79	KG	Sachet en PEPD 52/90,  X 80μ Pour Usage Industriel  10 colis
+2799	Kg	Sachet en PEPD 52/90,  X 80μ Pour Usage industriel ,
+25	KG	Sachet en PEPD 52/90, X 80μ Pour Usage Industriel  13 colis ,
+3004	Kg	Sachet en PEPD 52x23/190, X 80μ Pour Usage industriel
+198	KG	Sachet en PEPD 53 / 132, X 70μ Pour Usage Industriel  10 colis
+2842	Kg	Sachet en PEPD 53/132,  X 70μ Pour Usage industriel ,
+125	KG	Sachet en PEPD 53/132, X 70μ Pour Usage Industriel  11 colis
+193	KG	Sachet en PEPD 54 x 10 / 120, X  Pour Usage Industriel  15  colis
+2907	Kg	Sachet en PEPD 54 x 10 / 120, X  Pour Usage Industriel ,
+195	KG	Sachet en PEPD 54 x 10 / 120, X 40μ Pour Usage Industriel  15  colis
+349	KG	Sachet en PEPD 55 / 90  , X 150μ Pour Usage Industriel 11 colis ,
+2933	Kg	Sachet en PEPD 55 / 90 ,  X 80μ Pour Usage industriel ,
+227	KG	Sachet en PEPD 55 / 90 , X 150μ Pour Usage Industriel  16 colis
+3199	Kg	Sachet en PEPD 55 / 90,  X 150μ Pour Usage industriel
+13	KG	Sachet en PEPD 55 / 90,  X 150μ Pour Usage industriel 13 colis
+2969	Kg	Sachet en PEPD 55 / 90, X 60μ Pour Usage industriel
+293	KG	Sachet en PEPD 55/90 , X 150μ Pour Usage Industriel 21 colis ,
+2982	Kg	Sachet en PEPD 55/90 , X 150μ Pour Usage industriel
+281	KG	Sachet en PEPD 55/90 , X 60μ Pour Usage Industriel 11 colis ,
+80	KG	Sachet en PEPD 55/90,  X 150μ Pour Usage Industriel  12 colis
+2800	Kg	Sachet en PEPD 55/90,  X 150μ Pour Usage industriel ,
+38	KG	Sachet en PEPD 55/90, X 150μ Pour Usage Industriel  15 colis
+144	KG	Sachet en PEPD 55/90, X 150μ Pour Usage Industriel  23 colis
+299	KG	Sachet en PEPD 55/90, X 150μ Pour Usage Industriel 10 colis ,
+2980	Kg	Sachet en PEPD 55/90, X 150μ Pour Usage industriel
+2761	Kg	Sachet en PEPD 55/90, X 150μ Pour Usage industriel ,
+291	KG	Sachet en PEPD 56 X 18 /90, X 80μ Pour Usage Industriel 20 colis ,
+295	KG	Sachet en PEPD 56 X 5 /135 , X 100μ Pour Usage Industriel 13 colis ,
+296	KG	Sachet en PEPD 56 X 5 /135 , X 100μ Pour Usage Industriel 25 colis ,
+2981	Kg	Sachet en PEPD 56 X 5/135, X 100μ Pour Usage industriel
+2978	Kg	Sachet en PEPD 56X18 /90, X 80μ Pour Usage industriel
+3176	Kg	Sachet en PEPD 56x18/94, X 70μ Pour Usage industriel
+2843	Kg	Sachet en PEPD 57/125,  X 70μ Pour Usage industriel ,
+126	KG	Sachet en PEPD 57/125, X 70μ Pour Usage Industriel  9 colis
+351	KG	Sachet en PEPD 59/100  , X 80μ Pour Usage Industriel 31colis ,
+3166	Kg	Sachet en PEPD 59/100 X 80μ Pour Usage industriel
+2878	Kg	Sachet en PEPD 59/100,  X 80μ Pour Usage industriel ,
+26	KG	Sachet en PEPD 59/100, X 80μ Pour Usage Industriel  24 colis
+165	KG	Sachet en PEPD 59/100, X 80μ Pour Usage Industriel  26 colis
+2	KG	Sachet en PEPD 59/100, X 80μ Pour Usage Industriel  27 colis
+2750	Kg	Sachet en PEPD 59/100, X 80μ Pour Usage industriel
+31	KG	Sachet en PEPD 60 / 140,  X 80μ Pour Usage Industriel  15 colis
+3123	Kg	Sachet en PEPD 60 / 140, X 65μ Pour Usage Industriel ,
+3033	Kg	Sachet en PEPD 60 / 140, X 70μ Pour Usage Industriel ,
+2754	None	Sachet en PEPD 60 / 140, X 80μ Pour Usage Industriel ,
+15	KG	Sachet en PEPD 60 / 80,  X 80μ Pour Usage Industriel  10 colis
+3201	None	Sachet en PEPD 60 / 80,  X 80μ Pour Usage industriel ,
+36	KG	Sachet en PEPD 60 S20/80, X 40μ Pour Usage Industriel  15 colis
+2759	Kg	Sachet en PEPD 60 S20/80, X 40μ Pour Usage Industriel ,
+2848	Kg	Sachet en PEPD 60 X 10 / 90,  X 80μ Pour Usage industriel ,
+3044	Kg	Sachet en PEPD 60 x 10 / 100 X 70μ Pour Usage Industriel ,
+2905	Kg	Sachet en PEPD 60 x 20 / 80, X 40μ Pour Usage Industriel ,
+3174	Kg	Sachet en PEPD 60/100 X 80μ Pour Usage industriel
+2787	Kg	Sachet en PEPD 60/100,  X  80μ Pour Usage industriel
+2892	Kg	Sachet en PEPD 60/120,  X 70μ Pour Usage industriel ,
+229	KG	Sachet en PEPD 60/120, X 70μ Pour Usage Industriel  10 colis
+174	KG	Sachet en PEPD 60/120, X 70μ Pour Usage Industriel  9 colis
+2840	Kg	Sachet en PEPD 60/140 , X 80μ Pour Usage Industriel ,
+352	KG	Sachet en PEPD 60/140, X 70μ Pour Usage Industriel  15 colis
+123	KG	Sachet en PEPD 60/140, X 80μ Pour Usage Industriel  14  colis
+242	KG	Sachet en PEPD 60/140, X 80μ Pour Usage Industriel  16 colis
+2941	Kg	Sachet en PEPD 60/140, X 80μ Pour Usage Industriel ,
+44	KG	Sachet en PEPD 60/80,  X 80μ Pour Usage Industriel   15 colis
+2767	Kg	Sachet en PEPD 60/80,  X 80μ Pour Usage industriel ,
+268	KG	Sachet en PEPD 60/90 , X 60μ Pour Usage Industriel 11 colis ,
+2958	Kg	Sachet en PEPD 60/90, X 60μ Pour Usage industriel
+239	KG	Sachet en PEPD 60X10/90, X 80μ Pour Usage Industriel  25 colis
+2938	Kg	Sachet en PEPD 60X10/90, X 80μ Pour Usage industriel ,
+2789	Kg	Sachet en PEPD 60X11/135 X 60,50μ Pour Usage industriel ,
+3035	Kg	Sachet en PEPD 60X11/135 X 65μ Pour Usage industriel
+2859	Kg	Sachet en PEPD 60X11/135 X 65μ Pour Usage industriel ,
+2748	Kg	Sachet en PEPD 60X11/135 X 80μ Pour Usage industriel
+2862	Kg	Sachet en PEPD 60x10 / 90,  X 80μ Pour Usage industriel ,
+2820	Kg	Sachet en PEPD 60x10/90,  X 80μ Pour Usage industriel ,
+101	KG	Sachet en PEPD 60x10/90, X 80μ Pour Usage Industriel  25 colis
+146	KG	Sachet en PEPD 60x10/90, X 80μ Pour Usage Industriel 32colis
+1849	Kg	Sachet en PEPD 61 X 14 /        60μ Pour Usage industriel
+1861	Kg	Sachet en PEPD 61 X 14 / 154       60μ Pour Usage industriel
+342	KG	Sachet en PEPD 62 S10 / 156, X 70μ Pour Usage Industriel  49 colis
+3027	Kg	Sachet en PEPD 62 S10 / 156, X 70μ Pour Usage Industriel ,
+224	KG	Sachet en PEPD 62 S10/156, X 70μ Pour Usage Industriel  48 colis
+2931	Kg	Sachet en PEPD 62 S10/156, X 70μ Pour Usage Industriel ,
+30	KG	Sachet en PEPD 62 S10/156, X 80μ Pour Usage Industriel  48 colis
+67	KG	Sachet en PEPD 62 S10/156, X 80μ Pour Usage Industriel  49 colis
+2753	Kg	Sachet en PEPD 62 S10/156, X 80μ Pour Usage Industriel ,
+320	KG	Sachet en PEPD 62 X 21 / 113  , X 80μ Pour Usage Industriel 60 colis ,
+3002	Kg	Sachet en PEPD 62 X 21 / 113 , X 80μ Pour Usage industriel
+2797	Kg	Sachet en PEPD 62 X 21 / 113, X 80μ Pour Usage industriel ,
+324	KG	Sachet en PEPD 62 X 21 / 155  , X 80μ Pour Usage Industriel 15 colis ,
+77	KG	Sachet en PEPD 62 X 21 /113  X 80μ Pour Usage Industriel  51 colis
+2846	Kg	Sachet en PEPD 62 X 21/113,  X 80μ Pour Usage industriel ,
+2926	Kg	Sachet en PEPD 62 x 21 / 113,  X 80μ Pour Usage Industriel ,
+219	KG	Sachet en PEPD 62 x 21/ 113, X 80μ Pour Usage Industriel  70 colis
+3003	Kg	Sachet en PEPD 62x21/155, X 80μ Pour Usage industriel
+226	KG	Sachet en PEPD 65 / 140 , X 80μ Pour Usage Industriel  25 colis
+2932	Kg	Sachet en PEPD 65 / 140,  X 80μ Pour Usage Industriel ,
+8	KG	Sachet en PEPD 65 / 65 , X 80μ Pour Usage Industriel  10 colis
+3194	Kg	Sachet en PEPD 65 / 65,  X 80μ Pour Usage industriel
+3178	Kg	Sachet en PEPD 65/120 X 80μ Pour Usage industriel
+58	KG	Sachet en PEPD 65/120, X 80μ Pour Usage Industriel  18 colis
+4	KG	Sachet en PEPD 65/120, X 80μ Pour Usage Industriel  20 colis
+2956	Kg	Sachet en PEPD 65/120, X 80μ Pour Usage industriel
+2781	Kg	Sachet en PEPD 65/120, X 80μ Pour Usage industriel ,
+319	KG	Sachet en PEPD 65/65  , X 80μ Pour Usage Industriel 10 colis ,
+3001	Kg	Sachet en PEPD 65/65 , X 80μ Pour Usage industriel
+76	KG	Sachet en PEPD 65/65,  X 80μ Pour Usage Industriel  6 colis
+2796	Kg	Sachet en PEPD 65/65,  X 80μ Pour Usage industriel ,
+42	KG	Sachet en PEPD 65/65, X 80μ Pour Usage Industriel  10 colis
+119	KG	Sachet en PEPD 65/65, X 80μ Pour Usage Industriel  12 colis
+2765	Kg	Sachet en PEPD 65/65, X 80μ Pour Usage industriel ,
+203	KG	Sachet en PEPD 70 / 100 , X 70μ Pour Usage Industriel  11 colis
+366	KG	Sachet en PEPD 70 / 80  , X 80μ Pour Usage Industriel 10 colis ,
+10	KG	Sachet en PEPD 70 / 80 , X 80μ Pour Usage Industriel  11 colis
+3196	Kg	Sachet en PEPD 70 / 80,  X 80μ Pour Usage industriel
+197	KG	Sachet en PEPD 70 / 80, X 70μ Pour Usage Industriel  9 colis
+322	KG	Sachet en PEPD 70 / 95  , X 80μ Pour Usage Industriel 14 colis ,
+364	KG	Sachet en PEPD 70 / 95  , X 80μ Pour Usage Industriel 26 colis ,
+409	KG	Sachet en PEPD 70 X 23 / 220  , X 80μ Pour Usage Industriel 12 colis ,
+381	KG	Sachet en PEPD 70 X 23 / 220  , X 80μ Pour Usage Industriel 5colis ,
+2968	Kg	Sachet en PEPD 70 X 7 / 122, X 60μ Pour Usage industriel
+2967	Kg	Sachet en PEPD 70 X 7 / 95, X 60μ Pour Usage industriel
+278	KG	Sachet en PEPD 70 x 7 / 122 , X 60μ Pour Usage Industriel 11 colis ,
+279	KG	Sachet en PEPD 70 x 7 / 122 , X 60μ Pour Usage Industriel 19 colis ,
+2911	Kg	Sachet en PEPD 70/100,  X 70μ Pour Usage industriel ,
+95	KG	Sachet en PEPD 70/100, X 70μ Pour Usage Industriel  10 colis
+228	KG	Sachet en PEPD 70/100, X 70μ Pour Usage Industriel  11  colis
+173	KG	Sachet en PEPD 70/100, X 70μ Pour Usage Industriel  9 colis
+2815	Kg	Sachet en PEPD 70/100, X 70μ Pour Usage industriel ,
+2770	Kg	Sachet en PEPD 70/105,  X 70μ Pour Usage industriel ,
+47	KG	Sachet en PEPD 70/105, X 70μ Pour Usage Industriel  11 colis
+19	KG	Sachet en PEPD 70/140, X 80μ Pour Usage Industriel  21 colis
+2743	Kg	Sachet en PEPD 70/140, X 80μ Pour Usage industriel
+16	KG	Sachet en PEPD 70/145 TRAN NON GLISSANT, 80μ Pour Usage industriel 50 colis
+3202	None	Sachet en PEPD 70/145 Trans Non Glissant ,  X 80μ Pour Usage Industriel ,
+2772	Kg	Sachet en PEPD 70/80,  X 70μ Pour Usage industriel ,
+27	KG	Sachet en PEPD 70/80,  X 80μ Pour Usage Industriel  17 colis
+2751	Kg	Sachet en PEPD 70/80,  X 80μ Pour Usage industriel
+74	KG	Sachet en PEPD 70/80, X 60μ Pour Usage Industriel  10 colis
+2794	Kg	Sachet en PEPD 70/80, X 60μ Pour Usage industriel ,
+49	KG	Sachet en PEPD 70/80, X 70μ Pour Usage Industriel  5 colis
+98	KG	Sachet en PEPD 70/80, X 70μ Pour Usage Industriel  8 colis
+2908	Kg	Sachet en PEPD 70/80, X 70μ Pour Usage industriel ,
+256	KG	Sachet en PEPD 70/80, X 80μ Pour Usage Industriel 11 colis ,
+2949	Kg	Sachet en PEPD 70/80, X 80μ Pour Usage industriel
+223	KG	Sachet en PEPD 70/90 , X 60μ Pour Usage Industriel 12 colis ,
+2788	Kg	Sachet en PEPD 70/90,  X 60μ Pour Usage industriel ,
+65	KG	Sachet en PEPD 70/90, X 60μ Pour Usage Industriel  6 colis
+2930	Kg	Sachet en PEPD 70/90, X 60μ Pour Usage industriel
+3177	Kg	Sachet en PEPD 70/95 X 80μ Pour Usage industriel
+3	KG	Sachet en PEPD 70/95, X 80μ Pour Usage Industriel  26 colis
+29	KG	Sachet en PEPD 70/95, X 80μ Pour Usage Industriel  26 colis ,
+2752	Kg	Sachet en PEPD 70/95, X 80μ Pour Usage industriel
+116	KG	Sachet en PEPD 70x12/175, X 80μ Pour Usage Industriel  9 colis ,
+2833	Kg	Sachet en PEPD 70x12/175, X 80μ Pour Usage industriel
+3036	Kg	Sachet en PEPD 70x13/170 Pour Usage industriel ,
+385	KG	Sachet en PEPD 70x13/170,  Pour Usage Industriel  19 colis
+362	KG	Sachet en PEPD 70x13/170,  Pour Usage Industriel  20 colis
+230	KG	Sachet en PEPD 72 / 130, X 70μ Pour Usage Industriel  11  colis
+1978	Kg	Sachet en PEPD 72 / 70, X 60μ Pour Usage industriel
+408	KG	Sachet en PEPD 72 X 23 / 160  , X 80μ Pour Usage Industriel 28 colis ,
+348	KG	Sachet en PEPD 72 X 23 / 180  , X 80μ Pour Usage Industriel 15 colis ,
+2844	Kg	Sachet en PEPD 72/130,  X 70μ Pour Usage industriel ,
+127	KG	Sachet en PEPD 72/130, X 70μ Pour Usage Industriel 9 colis
+2864	Kg	Sachet en PEPD 72/220,   Pour Usage industriel ,
+3032	Kg	Sachet en PEPD 72x23/180, X 80μ Pour Usage industriel
+3026	Kg	Sachet en PEPD 77/175,   Pour Usage industriel ,
+2928	Kg	Sachet en PEPD 78 / 165 ,  X 80μ Pour Usage industriel ,
+221	KG	Sachet en PEPD 78 / 165 , X 80μ Pour Usage Industriel 53 colis
+2877	Kg	Sachet en PEPD 78/165,  X 80μ Pour Usage industriel ,
+99	KG	Sachet en PEPD 78/165, X 80μ Non Glissant Pour Usage Industriel  100 colis
+164	KG	Sachet en PEPD 78/165, X 80μ Pour Usage Industriel  71
+3005	Kg	Sachet en PEPD 78/165, X 80μ Pour Usage industriel
+2818	Kg	Sachet en PEPD 78/165, X 80μ Pour Usage industriel , Non Glissant ,
+1558	Kg	Sachet en PEPD 79 /110, X 50μ Pour Usage industriel
+1648	Kg	Sachet en PEPD 79 /133 X 60μ Pour Usage industriel
+1557	Kg	Sachet en PEPD 79 /133, X 50μ Pour Usage industriel
+1696	Kg	Sachet en PEPD 79 /133, X 60μ Pour Usage industriel
+200	KG	Sachet en PEPD 80 / 100 , X 70μ Pour Usage Industriel 8 colis
+3193	Kg	Sachet en PEPD 80 / 120, X 80μ Pour Usage industriel
+7	KG	Sachet en PEPD 80 /120  , X 80μ Pour Usage Industriel  30 colis
+39	KG	Sachet en PEPD 80 X 10/160,  X 80μ Pour Usage Industriel   colis
+2762	Kg	Sachet en PEPD 80 X 10/160,  X 80μ Pour Usage industriel ,
+2769	Kg	Sachet en PEPD 80/100,  X 70μ Pour Usage industriel ,
+46	KG	Sachet en PEPD 80/100, X 70μ Pour Usage Industriel  10 colis
+168	KG	Sachet en PEPD 80/100, X 70μ Pour Usage Industriel  8 colis
+302	KG	Sachet en PEPD 80/120  , X 80μ Pour Usage Industriel 18 colis ,
+380	KG	Sachet en PEPD 80/120  , X 80μ Pour Usage Industriel 42 colis ,
+2984	Kg	Sachet en PEPD 80/120 , X 80μ Pour Usage industriel
+2836	Kg	Sachet en PEPD 80/120,  X 80μ Pour Usage industriel ,
+120	KG	Sachet en PEPD 80/120, X 80μ Pour Usage Industriel  30 colis
+3167	Kg	Sachet en PEPD 80/140 X 80μ Pour Usage industriel
+17	KG	Sachet en PEPD 80/140, X 80μ Pour Usage Industriel  15 colis
+28	KG	Sachet en PEPD 80/140, X 80μ Pour Usage Industriel  26 colis ,
+2741	Kg	Sachet en PEPD 80/140, X 80μ Pour Usage industriel
+301	KG	Sachet en PEPD 80/85  , X 80μ Pour Usage Industriel 11 colis ,
+2793	Kg	Sachet en PEPD 80/85,  X 80μ Pour Usage industriel ,
+73	KG	Sachet en PEPD 80/85, X 80μ Pour Usage Industriel  21 colis
+114	KG	Sachet en PEPD 80/85, X 80μ Pour Usage Industriel  5 colis ,
+170	KG	Sachet en PEPD 80/85, X 80μ Pour Usage Industriel 7 colis ,
+2831	Kg	Sachet en PEPD 80/85, X 80μ Pour Usage industriel
+59	KG	Sachet en PEPD 80/87,  X 80μ Pour Usage Industriel  15 colis
+2782	Kg	Sachet en PEPD 80/87,  X 80μ Pour Usage industriel ,
+103	KG	Sachet en PEPD 80/87, X 80μ Pour Usage Industriel  16 colis
+1886	Kg	Sachet en PEPD 81 / 134       60μ Pour Usage industriel
+2710	Kg	Sachet en PEPD 81 /90  x 60μ Pour Usage industriel
+2287	Kg	Sachet en PEPD 81/90, X 70μ Pour Usage industriel
+199	KG	Sachet en PEPD 82 / 135, X 70μ Pour Usage Industriel  10 colis
+1906	Kg	Sachet en PEPD 82 X12 /145       60μ Pour Usage industriel
+3170	Kg	Sachet en PEPD 82/135 X 80μ Pour Usage industriel
+2909	Kg	Sachet en PEPD 82/135,  X 70μ Pour Usage industriel ,
+2880	Kg	Sachet en PEPD 82/153,  X 70μ Pour Usage industriel ,
+169	KG	Sachet en PEPD 82/153, X 70μ Pour Usage Industriel 6 colis
+1773	Kg	Sachet en PEPD 82X12/164, X 60μ Pour Usage industriel
+3043	Kg	Sachet en PEPD 82x12/164, X 60μ Pour Usage industriel
+202	KG	Sachet en PEPD 84 / 100 , X 70μ Pour Usage Industriel  10 colis
+266	KG	Sachet en PEPD 84 x 10 /130, X 60μ Pour Usage Industriel  17 colis
+3056	Kg	Sachet en PEPD 84 x 8 / 130 X 70μ Pour Usage Industriel ,
+2771	Kg	Sachet en PEPD 84/100,  X 70μ Pour Usage industriel ,
+48	KG	Sachet en PEPD 84/100, X 70μ Pour Usage Industriel  6 colis
+2955	Kg	Sachet en PEPD 84x10 /130, X 60μ Pour Usage Industriel ,
+2347	Kg	Sachet en PEPD 85 / 170, X 60μ Pour Usage industriel
+2541	Kg	Sachet en PEPD 85 /170, X 60μ Pour Usage industriel
+1858	Kg	Sachet en PEPD 85X12,5/170, X 75μ Pour Usage industriel
+5	KG	Sachet en PEPD 90 / 10 X 120 , X 80μ Pour Usage Industriel  51 colis
+3184	Kg	Sachet en PEPD 90 / 10 X 120, X 80μ Pour Usage industriel
+365	KG	Sachet en PEPD 90 X 10 / 120  , X 80μ Pour Usage Industriel 27 colis ,
+303	KG	Sachet en PEPD 90 X 10 /120  , X 80μ Pour Usage Industriel 51 colis ,
+14	KG	Sachet en PEPD 90/10 X 120, X 80μ Pour Usage Industriel  52 colis
+3200	None	Sachet en PEPD 90/10 X 120, X 80μ Pour Usage Industriel ,
+254	KG	Sachet en PEPD 90X10/120, X 80μ Pour Usage Industriel 61 colis ,
+2947	Kg	Sachet en PEPD 90X10/120, X 80μ Pour Usage industriel
+2837	Kg	Sachet en PEPD 90x10/120,  X 80μ Pour Usage industriel ,
+121	KG	Sachet en PEPD 90x10/120, X 80μ Pour Usage Industriel  54 colis
+3038	Kg	Sachet en PEPD 90x10/120, X 80μ Pour Usage industriel
+3017	Kg	Sachet en PEPD 91 x  9 / 165, X 60μ Pour Usage industriel
+334	KG	Sachet en PEPD 91x 9 / 165 , X 60μ Pour Usage Industriel 28 colis ,
+2983	Kg	Sachet en PEPD 95 / 115, X 80μ Pour Usage industriel
+9	KG	Sachet en PEPD 95 / 170  , X 80μ Pour Usage Industriel  102 colis
+3195	Kg	Sachet en PEPD 95 / 170, X 80μ Pour Usage industriel
+43	KG	Sachet en PEPD 95/115,  X 80μ Pour Usage Industriel   36 colis
+2766	Kg	Sachet en PEPD 95/115,  X 80μ Pour Usage industriel ,
+300	KG	Sachet en PEPD 95/115, X 80μ Pour Usage Industriel 34 colis ,
+1834	Kg	Sachet en PEPD X 60μ Pour Usage industriel
+2849	Kg	Sachet en PEPD( B,STANDARD 1L )
+206	KG	Sachet en PEPD( BOITE RECTONGLE N° 5 ) Pour Usage Industriel ,
+2822	Kg	Sachet en PEPD( SEAU 22 L )
+249	KG	Sachet en PEPD( SEAU 5 L ) Pour Usage Industriel  ,
+2801	Kg	Sachet en PEPD( SEAU 6L )
+2729	Kg	Sachet en PEPD( SEAU POUBELLE ROND )
+1515	KG	Sachet en PEPD( SEAU POUBELLE ROND ) Pour Usage Industriel 10 colis
+261	KG	Sachet en PEPD(BOUTEILLE STANDARD1L ) Pour Usage Industriel  ,
+247	KG	Sachet en PEPD(BOUTEILLE STANDARD1L) Pour Usage Industriel  ,
+2992	Kg	Sachet en PEPD25/45 , X 50μ Pour Usage industriel
+167	KG	Sachet en PEPD70/80, X 70μ Pour Usage Industriel  8 colis
+3465	KG	Sachet neutre en LDPE   84 x 140 / S 20 cm  ,X 80 μ
+2648	Kg	Sachet neutre en LDPE   84 x 140 / S 20 cm  ,X 80 μ Pour Usage Industriel
+3461	KG	Sachet neutre en LDPE  110 x 120 / S 20cm  ,X 60 μ
+2644	Kg	Sachet neutre en LDPE  110 x 120 / S 20cm  ,X 60 μ Pour Usage Industriel
+3296	KG	Sachet neutre en LDPE  44x 140 / S20 cm  ,X 60μ Pour Usage Industriel
+2456	Kg	Sachet neutre en LDPE  45x 130 /   ,X 50μ Pour Usage Industriel
+2626	Kg	Sachet neutre en LDPE  50 x 80 / S10 cm  ,X 60 μ Pour Usage Industriel
+3295	KG	Sachet neutre en LDPE  55 x 112 / S 20cm  ,X 60μ Pour Usage Industriel
+2625	Kg	Sachet neutre en LDPE  58 x 130 / S10 cm  ,X 60 μ Pour Usage Industriel
+2668	Kg	Sachet neutre en LDPE  65 x 100 / S 10cm  ,X 60 μ Pour Usage Industriel
+2455	Kg	Sachet neutre en LDPE  66 x 110 / S 10cm  ,X 60μ Pour Usage Industriel
+2454	Kg	Sachet neutre en LDPE  68 x 92 / S 10cm  ,X 80μ Pour Usage Industriel
+3466	KG	Sachet neutre en LDPE  75 x 130 / S 10 cm  ,X 60 μ
+2649	Kg	Sachet neutre en LDPE  75 x 130 / S 10 cm  ,X 60 μ Pour Usage Industriel
+2627	Kg	Sachet neutre en LDPE  75 x 130 / S10 cm  ,X 60 μ Pour Usage Industriel
+2670	Kg	Sachet neutre en LDPE  82 x 85 /                ,X 80 μ Pour Usage Industriel
+2476	Kg	Sachet neutre en LDPE  84x 140 / S20 cm  ,X 60 μ Pour Usage Industriel
+2669	Kg	Sachet neutre en LDPE  86 x 88 / S 10 cm  ,X 60 μ Pour Usage Industriel
+3464	KG	Sachet neutre en LDPE  86 x 88 / S 10cm    ,X 60 μ
+2647	Kg	Sachet neutre en LDPE  86 x 88 / S 10cm    ,X 60 μ Pour Usage Industriel
+3463	KG	Sachet neutre en LDPE  95 x 112 / S 20 cm  ,X 80 μ
+2646	Kg	Sachet neutre en LDPE  95 x 112 / S 20 cm  ,X 80 μ Pour Usage Industriel
+2475	Kg	Sachet neutre en LDPE  95 x 112 / S 20cm  ,X 60 μ Pour Usage Industriel
+3462	KG	Sachet neutre en LDPE  95 x 135 / S 20 cm  ,X 80 μ
+2645	Kg	Sachet neutre en LDPE  95 x 135 / S 20 cm  ,X 80 μ Pour Usage Industriel
+2624	Kg	Sachet neutre en LDPE  95 x 154 / S 20cm  ,X 80 μ Pour Usage Industriel
+2408	Kg	Sachet neutre en LDPE 110 x150 / S 20cm  ,X 60μ Pour Usage Industriel
+2452	Kg	Sachet neutre en LDPE 33/95 /  S 9cm  ,X 50μ Pour Usage Industriel
+2411	Kg	Sachet neutre en LDPE 50 x 80 / S 10cm  ,X 60μ Pour Usage Industriel
+2451	Kg	Sachet neutre en LDPE 50x80 / S10cm ,X 60μ Pour Usage Industriel
+2410	Kg	Sachet neutre en LDPE 58 x  130 /  S 10cm  ,X 60μ Pour Usage Industriel
+2409	Kg	Sachet neutre en LDPE 66 x 110 /  S 10cm  ,X 60μ Pour Usage Industriel
+2453	Kg	Sachet neutre en LDPE 75 x  130 /  S 10cm  ,X 60μ Pour Usage Industriel
+2407	Kg	Sachet neutre en LDPE 75 x130 / S10cm ,X 60μ Pour Usage Industriel
+1469	None	Usage Industriel
+2609	Kg	carbonate calcium
+2673	Kg	sachet  LDPE ( 93/170) 90 µ
+2519	Kg	sachet LDPE  39 x 50 x 50μ
+2426	Kg	sachet LDPE  63 x 23 / 127  x 90μ
+2610	Kg	sachet LDPE (40 + 12)   x  117 x   75μ POT 20L
+2546	kg	sachet LDPE (44 + 12)   x  55  x   60μ
+2539	Kg	sachet LDPE (52 + 12)   x   105  x   60μ
+3367	Kg	sachet LDPE (52 + 12)   x   105  x   60μ Pour usage Industriel
+2545	Kg	sachet LDPE (52 + 12)   x   110  x   60μ
+2672	Kg	sachet LDPE (53 +12 )   x  106 x   70μ
+2608	Kg	sachet LDPE (54 + 15)   x   110 x   70μ
+3426	Kg	sachet LDPE (54 + 15)   x 110    x   70μ
+3427	Kg	sachet LDPE (546 + 10)   x   140 x   65μ POT 30L
+2615	Kg	sachet LDPE (55 )   x   90 x   40 μ
+3487	Kg	sachet LDPE (58 + 12)   x 106    x   70μ
+2596	Kg	sachet LDPE (58 + 15)   x   82 x   70μ
+3413	Kg	sachet LDPE (58 + 15)   x 82    x   60μ (Meuble PM)
+3425	Kg	sachet LDPE (58 + 15)   x 82    x   70μ (Meuble PM)
+2556	Kg	sachet LDPE (60 + 21)   x   65  x   70μ
+3381	Kg	sachet LDPE (61 + 25)   x 155    x   70μ (Placard grand modèle)
+2563	Kg	sachet LDPE (61+ 23)   x   155  x   70μ
+2547	kg	sachet LDPE (70 + 12)   x  75  x   60μ
+2557	kg	sachet LDPE (75 + 15)   x  81  x   70μ
+2504	Kg	sachet LDPE 12 / 14   x        40μ Pour usage Industriel
+3498	Kg	sachet LDPE 15   x 15    x   40μ
+2503	Kg	sachet LDPE 15 / 15   x        40μ Pour usage Industriel
+2523	Kg	sachet LDPE 28  / 39    x         40μ
+2524	None	sachet LDPE 47  /  58   x         60μ
+2522	Kg	sachet LDPE 55 +10  /  140   x    70μ
+2521	Kg	sachet LDPE 57 X 15   /  120   x   70μ
+2428	Kg	sachet LDPE 59 x 16 / 158 x  95μ
+3265	KG	sachet LDPE 59+16/ 158 95μ , ROND CARREE 3PCS
+2363	Kg	sachet LDPE 59/63   80μ ,   Pour usage Industriel  ,
+2427	Kg	sachet LDPE 62 x 23 / 156 x  85 μ
+3264	KG	sachet LDPE 62+23/ 156 85 μ, PLACARD GM
+2364	Kg	sachet LDPE 64/95   80μ ,   Pour usage Industriel  ,
+2429	Kg	sachet LDPE 66 / 74   x        50μ Pour usage Industriel
+3266	KG	sachet LDPE 66/74  50μ, MEUBLE VIDA LUXE PM
+2505	Kg	sachet LDPE 67  /  74  X        40µ Pour usage Industriel
+3337	Kg	sachet LDPE 67  /74   x        40μ Pour usage Industriel
+2520	Kg	sachet LDPE 75   x   88 x       100μ
+2684	Kg	sachet LDPE 82    x  150 x   70μ
+3497	Kg	sachet LDPE 82   x 150    x   70μ
+3488	Kg	sachet LDPE 93      x 170     x   90μ
+2365	Kg	sachet LDPE 95/72   80μ ,   Pour usage Industriel  ,
+3263	KG	sachet LDPE63+23/127 90μ ,MEUBLE VIDA LUXE GM

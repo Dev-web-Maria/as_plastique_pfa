@@ -130,6 +130,7 @@ def process_all():
                     "fichier": file_path.name, "onglet": sheet_name,
                     "type_detecte": doc_type, "statut": statut,
                     "doc_number": result["doc_number"], "date": result["date"],
+                    "client_nom": result["client_nom"],
                     "n_items": result["n_items"],
                     "total_ht": result["totals"]["total_ht"],
                     "tva": result["totals"]["tva"],

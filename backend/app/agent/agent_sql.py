@@ -22,6 +22,8 @@ from pathlib import Path
 from dotenv import load_dotenv
 from langchain_google_genai import ChatGoogleGenerativeAI
 
+SEUIL_LIGNES_POUR_FORMATAGE_DIRECT = 8
+
 load_dotenv()
 
 DB_PATH = Path("../data/processed/as_plastique.db")
@@ -85,8 +87,11 @@ def get_llm():
     api_key = os.getenv("GOOGLE_API_KEY")
     if not api_key:
         raise RuntimeError("GOOGLE_API_KEY manquante — vérifie ton fichier backend/.env")
-    return ChatGoogleGenerativeAI(model="gemini-3.6-flash", google_api_key="AQ.Ab8RN6KGwpzyxV2pvoxFOP7zmoUa0aL7Bo__HWbi5ZtxI1_Drw", temperature=0)
-
+    return ChatGoogleGenerativeAI(
+        model="gemini-3.5-flash-lite",
+        google_api_key=api_key,
+        reasoning_effort="low",                             
+    )
 
 def valider_sql(sql: str) -> bool:
     """Garde-fou n°1 : uniquement SELECT autorisé, aucun mot-clé destructeur,
@@ -155,10 +160,18 @@ def generer_sql(question: str, llm) -> str:
     sql = re.sub(r"^```sql\s*|```\s*$", "", sql, flags=re.MULTILINE).strip()
     return sql
 
+def formater_directement(colonnes: list, lignes: list) -> str:
+    en_tete = " | ".join(colonnes)
+    separateur = "-" * len(en_tete)
+    corps = "\n".join(" | ".join(str(v) for v in ligne) for ligne in lignes)
+    return f"{len(lignes)} résultat(s) :\n\n{en_tete}\n{separateur}\n{corps}"
 
 def reformuler_reponse(question: str, colonnes: list, lignes: list, llm) -> str:
     if not lignes:
         return "Je n'ai trouvé aucun résultat pour cette question dans les données."
+
+    if len(lignes) > SEUIL_LIGNES_POUR_FORMATAGE_DIRECT:
+        return formater_directement(colonnes, lignes)
     resultat_texte = f"Colonnes : {colonnes}\nLignes : {lignes[:30]}"
     prompt = (
         f"Question posée : {question}\n"
